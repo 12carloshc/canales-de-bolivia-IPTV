@@ -1,9 +1,9 @@
-PROYECTO DE CANALES DIGITALES DE BOLIVIA HD
+===========FECHA DE ULTIMA ACTUALIZACION========
+======DOMINGO 09 DE OCTUBRE 2022  02:33 a.m======
+>>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2022<<
 
 la lista de canales bolivianos se actualiza cada dia en horarios de 12:39 p.m  y 19:25 p.m
 se mantiene actualizada constantemente para que mantener los enlaces en lo posible online.
-
-ultima fecha de actualizacion jueves 06 octubre 2022 00:45 a.m
 
 se recomienda usar los reproductores, SMARTER PLAYER LITE, GSE SMARTER IPTV, IPTV PRO, TIVIMATE, KODI
 
@@ -29,4 +29,4 @@ estaremos trabajando todos estos meses para coordinar ese proyecto global.
 estaremos implementando un canal 24/7 de tematica anime y series clasicas en calidad HD 720p, estaremos emitiendolo en vivo
 este fin de mes como señal de prueba, para ir configurandolo en su señal estable final
 
-contanto :  web.empresa.carlos@gmail.com
+contacto :  web.empresa.carlos@gmail.com

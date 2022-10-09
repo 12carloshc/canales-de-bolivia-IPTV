@@ -1,0 +1,10 @@
+>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
+    =====sabado 08 de octubre 2022===========
+- Actualizacion de host de imagenes
+- Correccion sintaxis de enlaces.
+- Eliminacion de canales locales que estan en off por mucho tiempo.
+
+    ======domingo 09 de octubre 2022==========
+- recuperacion de lista original de canales MAIN
+
+    ====== =====
