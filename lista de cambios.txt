@@ -8,5 +8,7 @@
 - recuperacion de lista original de canales MAIN
 - se agrego el canal RTVE PUNATA 
 - correccion de enlances de origen
+- se agrego la opcion SD del canal local F10
+- se agrego el canal CEACOM HD
 
     ====== =====
