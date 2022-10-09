@@ -6,5 +6,7 @@
 
     ======domingo 09 de octubre 2022==========
 - recuperacion de lista original de canales MAIN
+- se agrego el canal RTVE PUNATA 
+- correccion de enlances de origen
 
     ====== =====
