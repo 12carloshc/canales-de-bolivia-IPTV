@@ -11,4 +11,10 @@
 - se agrego la opcion SD del canal local F10
 - se agrego el canal CEACOM HD
 
-    ====== =====
+    ====== lunes 10 de octubre 2022 ===========
+- se agrego el canal TL ESTRELLA HD
+- se agrego el canal FTV HD
+- se arreglaron enlaces de las imagenes
+- se corrigio actualizo enlaces locales tv bolivia
+
+    ====== =========
