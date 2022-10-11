@@ -1,6 +1,6 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 10 OCT 19:20 P.M****
- *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CARLOS HC *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
+***CANALES DE BOLIVIA HD ACTUALIZADOS 11 OCT 01:55 A.M****
+ *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLopQUNflU6KgCxSGeDI2urm23d6-jPT7oKz1ixzQ8JKW)/dm/3/x828xvr/d/live-3.m3u8
@@ -9,7 +9,7 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLopQUNflU6KgCxSGeD
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w493362254.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXDQ7JB/RED-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqub6InSMpkUMOW7d8nO74fKQHBQQJt1krWA4B_MSy5A)/dm/3/x825whp/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqub6InSMpkUMOW7d8nO74fKQHBQQJt1krWA4B_MSy5A)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDXFgry/SANTA-CRUZ-02.jpg" group-title="Canales Bolivianos",RED UNO STZ HD (test)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x825whp
@@ -21,13 +21,13 @@ https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmax4TF-2d-qS9pk8_
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHf3QTr/ATB-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",ATB BOLIVIA HD
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOthvxf3P6z-geEADXVUUU5UdP5pB4ektHRKUJH4elODm)/dm/3/x84eirw/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOthvxf3P6z-geEADXVUUU5UdP5pB4ektHRKUJH4elODm)/dm/3/x84eirw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fyNjR/atb-cochabamba-hd-nuevo.jpg" group-title="Canales Bolivianos",ATB COCHABAMBA HD
 https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4F5C-UNnDtOYZkopqO5Epb5vhkjCJ1NRH5fXRXhyG4q)/dm/3/x89sfvo/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhrwGn4/ATB-SCZ-HD-NEW.jpg" group-title="Canales Bolivianos",ATB SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvu_AD0z03n7zq4x7Dag5SO9cuV9XAKF9GS8ZfrI-j26)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvu_AD0z03n7zq4x7Dag5SO9cuV9XAKF9GS8ZfrI-j26)/dm/3/x84t82c/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9GpJZs/ATB-REGIONALES-02-HD.jpg" group-title="Canales Bolivianos",ATB REGIONALES HD
 https://stream-04.nyc.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeFydGw2zkI5y72SrTcqYklm9fgjZKT1sKy9JPfI1f9C7)/dm/3/x85aatu/s/live-3.m3u8
@@ -169,13 +169,13 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1421917070_b1296000_
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rzDS7Z/PANAMERICANA-HD.jpg" group-title="Internacional",PANAMERICANA TELEVISION HD
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFr19qP85P1Ug9Zpe_8SRQ6ir-iJPrZ2lcz21RUaxU211)/dm/3/x774s7s/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFr6FDaWSh0iVUqk_eHjM4pyaMTexzAXWOUULSuQKwkfh)/dm/3/x774s7s/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbBq6T8/EL-TORO-TV.jpg" group-title="Internacional",EL TORO TV HD
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsTw363/VENEZOLANA-TV.jpg" group-title="Internacional",VTV VENEZOLANA DE TV HD
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLs84v9Y4RWur-qcQj1BBTLwYLQKrT_S2RoflIsSE91V0)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgdjeqB78Ag-EoLCgSAA2AJUn0CsWetWYcMZeZsTwOEg)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0bWH4n/NTN-24-HD.jpg" group-title="Internacional",NTN 24 INTERNACIONAL HD
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2E6V3ZwoeZ38iqAPmsNSyyoT2jIlvdouzE0sUBLczVz)/dm/3/x7w4okl/s/live-1.m3u8

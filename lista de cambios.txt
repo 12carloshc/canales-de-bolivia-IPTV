@@ -17,4 +17,10 @@
 - se arreglaron enlaces de las imagenes
 - se corrigio actualizo enlaces locales tv bolivia
 
-    ====== =========
+    ====== martes 11 de octubre 2022 ===========
+- se actualizaron links globales
+- se cambio a otro repositorio, actualicen la lista a este repositorio.
+https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
+se actualizara alli apartir del 11 de octubre 2022
+
+  ====== ========
