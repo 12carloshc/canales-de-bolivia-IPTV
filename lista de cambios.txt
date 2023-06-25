@@ -6,7 +6,7 @@
 
     ======domingo 09 de octubre 2022==========
 - recuperacion de lista original de canales MAIN
-- se agrego el canal RTVE PUNATA 
+- se agrego el canal RTVE PUNATA
 - correccion de enlances de origen
 - se agrego la opcion SD del canal local F10
 - se agrego el canal CEACOM HD
@@ -21,6 +21,149 @@
 - se actualizaron links globales
 - se cambio a otro repositorio, actualicen la lista a este repositorio.
 https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
-se actualizara alli apartir del 11 de octubre 2022
+- se arreglo falla sintaxis de lista.
 
-  ====== ========
+    ====== lunes 17 de octubre 2022 ==========
+-se agrego el canal SEÑAL COLOMBIA HD.
+-se corrigieron enlaces de imagenes.
+-se edito sintaxis de lista.
+-se arreglo url de canal EL TORO TV
+
+ ========= miercoles 19 de octubre 2022 ==============
+-se arreglo sintaxis de lista.
+-se coloco señales test de  CANALES DE BOLIVIA
+utilize reproductor VLC externor con carga de buffer de red 800 ms.
+-se esta probando y testeando reproductores de externos para las listas.
+
+========= jueves 20 de octubre 2022 ==============
+-se agregaron canales 24/7 con urls fijas, de canales de bolivia.
+Se requiere agregar reproductor externo VLC al reproductor iptv
+para poder reproducir la nueva seccion.
+
+-los unicos problemas de agregar un reproductor externo, es que algunos
+canales no reproducen bien como ser F10 HD.
+por lo cual es necesario intercambiar la reproduccion con el reproductor local y
+el externo, para ver que canales reproducen y optar por usar el adecuado.
+
+========= viernes 21 de octubre 2022 ==============
+-se agrego el canal NET TV HD.
+-se arreglo las urls del canal local F10 BOLIVIA HD.
+-se arreglo las urls de los canales K-POP HD, TELEMUSICA HD
+
+============ Lunes 24 de octubre 2022 ==============
+-se agrego seccion test para urls de youtube y otros servidores.
+-se agrego el canal boliviano ZOY TV HD.
+-se corrigieron urls globales.
+
+============ martes 25 de octubre 2022 ====================
+-se agrego seccion internacional para reproducir con reproductor externo vlc.
+-se corrigierno enlaces seccion canales de bolivia.
+
+============ lunes 31 de octubre 2022 ====================
+-se agrego un video tutorial de como visualizar los canales de bolivia.
+-se corrigio enlaces globales.
+-se corrigio enlaces de las imagenes.
+
+============ martes 01 noviembre 2022 ====================
+-se agregaron los canales:
+gracia tv hd, vc musica cristiana.
+-se arreglaron enlaces globales.
+
+============ lunes 21 noviembre 2022 ====================
+-se renovaron los enlaces de origen de los siguientes canales:
+ABY AYALA TV
+RT NOTICIAS
+RTP BOLIVIA
+TVU BOLIVIA
+SEO TV BOLIVIA
+TOP LATINO
+LATINO KIDS
+MAGICO KIDS
+
+-se agrego nuevo canales:
+WOWLY TV INFANTIL
+TELESUR SD NOTICIAS
+LATINO RADIO HD MUSICAL
+
+-se agrego una aplicacion APK para que los usuarios puedan ver los 64
+partidos de QATAR 2022.
+
+-actualizacion de enlaces de las imagenes.
+
+============ jueves 24 noviembre 2022 ====================
+-se agregaron nuevos canales:
+MONI TV HD  dibujos y series y peliculas.
+SEO TV DEPORTES, SEO TV QATAR 2022, SEO TV QATAR SEÑAL 2.
+BEST CABLE MUSIC,  HATUN TV FLOKLORE, MEMORIAS TV, BEST CABLE TV.
+
+-Se pueden ver los 64 partidos mundial en calidad  1080p
+en los canales nuevos de SEO TV HD.
+
+
+============ Sabado 04 marzo 2023 ====================
+-se agrego los canales internacionales:
+13 chile, 13 cultura, ATV noticias, ATV internacional.
+-se agrego canales nacionales de bolivia:
+tvu sucre HD, mega hd, univalle HD.
+-Se corrigieron enlaces.
+
+============ Sabado 20 mayo 2023 ====================
+-Se agrego el canal NUEVE HD de argentina.
+-Se agrego el canal TELE MADRID de españa.
+-Se actualizaron enlaces: SD, HD, FHD, del canal DW INTERNACIONAL.
+-correccion de enlaces globales.
+-se actualizaron links de imagenes.
+-se agregaron dos enlaces directos url de red uno bolivia.
+-se agregaron enlaces de BOLIVISION para test.
+
+============ Martes 23 mayo 2023 ====================
+-Se arreglo url del canal AVT + PLUS peru, ahora es estable.
+-Se pudo corregir la url de BOLIVISION, y ahora hay dos opciones locales para ver.
+-correccion minima de enlaces internacionales.
+-actualizacion de url de imagenes globales.
+-para mejorar las actualizaciones, ahora ya actualizamos desde TERMUX desde dispositivo mobil, los enlaces de GIT HUB
+
+============ Domingo 28 mayo 2023 ====================
+-Se actualizo los enlaces de TELESUR a enlaces fijos en calidad HD y SD.
+-Se corrigio enlaces globales de imagenes.
+-Se colocaron opciones fijas de los canales locales de bolivia: RED UNO LA PAZ, SANTA CRUZ, COCHABAMBA Y ATB BOLIVIA.
+-Correcion de enlaces globales de canales internacionales.
+
+============ Martes 30 mayo 2023 ====================
+-Se agrego el canal local de bolivia, CRISTAL TV HD.
+-Se actualizo el enlace del canal local de bolivia RTP.
+-Se agrego el canal local TELE ESTRELLA TV.
+-Se actualizo enlace local del canal PAT LA PAZ.
+-Se corrigieron enlaces globales url y de imagenes.
+
+============ lunes 05 junio 2023 ====================
+-Se agrego nueva señal de origen en HD 720p  TVU la paz.
+-Se agrego nueva señal de origen en HD 720p RTP la paz.
+-Se arreglo la señal de origen F10 BOLIVIA, ahora esta online.
+-Se arreglo la señal de origen de NEO TV HD, ahora esta online.
+-Se arreglo la señal de origen de CINERAMA TV Bolivia, ahora esta online, pero en calidad SD 480p.
+-correccion de enlaces globlales imagenes y url´s.
+-Se corrgiio enlaces de SEO TV en todas sus señales.
+
+============ jueves 22 junio 2023 ====================
+-Se agrego una nueva seccion en la lista con los siguientes canales premium de chile:
+prime 13 cultura
+prime 13 en vivo
+prime 13 kids
+prime teleseries
+prime realities
+prime chanel prime
+prime entretencion
+prime 13 D deportes
+
+============ viernes 23 junio 2023 ====================
+-Se agrego el canal nuevo de noticias de argentina
+CRONICA TV HD
+
+============ Sabado 24 junio 2023 ====================
+-Se agrego seccion de eventos de liga boliviana
+3 opciones que se habilitaran solo para eventos en vivo.
+
+============ Domingo 25 junion 2023 ==================
+-Se reemplazo repositorio principal de lectura de lista m3u de pastebin
+a github como segunda opcion, por que pastebin elimino la lista m3u por denuncias etc.
