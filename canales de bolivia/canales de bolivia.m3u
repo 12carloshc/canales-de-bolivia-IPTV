@@ -1,29 +1,23 @@
 #EXTM3U
-***ACTUALIZADOS 25 JUNIO 20:45 p.m********* 2023 **** CLONE REPOSITORIO***
+***ACTUALIZADOS 26 JUNIO 05:45 a.m**repositorio clonado******* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JQ3Vdkk/VLC-UNO-DE-FERIA-HD-2023.jpg" group-title="Canales Bolivianos",VLC FEXCO UNO DE FERIA HD
-https://www.dailymotion.com/video/x827j2y
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HW4LKdMS/UNO-DE-FERIA-HD-2023.jpg" group-title="Canales Bolivianos",FEXCO UNO DE FERIA HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjEpZMDFq-rqTIiWch7eVdqWXzweV-Y6VlYg8Gj9mdN8)/dm/3/x827j2y/d/live-3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDk17wqMjvc-_drfPVMh7dn4ImdfsmQh7Rx7nv54yMDPR)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDtJ0ZE9ehoVmDcZMd8lpR2DiCdfO5mrjRqFqhkUshAQy)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh1SsFJ-KBuS0T8C1zlz8tK7c_6zvSWPrYWiSbbX32Ws)/dm/3/x825whp/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgPZYTXC4Rhlk4nQfVBxtgS4S-wVmU-DOo5fut1NZdiX)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjEpZMDFq-rqTIiWch7eVdqWXzweV-Y6VlYg8Gj9mdN8)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqEnNjmduzwN2EWAJSpE3EKQDYZQZSE_j9GW0dK_kyFq)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl13absrsXDBCrZ6GS-9YlCcvSeW5dSVbeATLuZH6kHlg)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOr97aLtMWgNV_KpGV9w2eUHqjl2NGFXyHlraaMp0Ve5Z)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOi-vZn4wyX2_ZzLoYitwhTXx2q_Jl09KBXCEntVm5xGn)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
@@ -459,7 +453,7 @@ https://scl.edge.grupoz.cl/music/live/chunklist_w688351090.m3u8
 https://stmv2.zcasthn.com.br/rocktv/rocktv/chunklist_w1039339948.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qCgTv0M/REWIND-HD.jpg" group-title="Musicales",REWIND TV BALADAS HD
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1410066462.m3u8
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w2085981005.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="Musicales",OLDIES HITS HD
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1473918254.m3u8
