@@ -1,5 +1,5 @@
 #EXTM3U
-***ACTUALIZADOS 26 JUNIO 05:45 a.m**repositorio clonado******* 2023 ****
+***ACTUALIZADOS 26 JUNIO 05:45 a.m***REPOSITORIO CLONADO****** 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -102,6 +102,9 @@ https://w8.redpat.tv:7777/play/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="Canales Bolivianos",PAT LA PAZ HD
 https://w8.redpat.tv:7777/play/120/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="Canales Bolivianos",PAT 02 LA PAZ HD
+https://w8.redpat.tv:7777/play/120/55474779.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W23sBB7/RENUEVA-DIGITAL-FHD.jpg" group-title="Canales Bolivianos",RENUEVA DIGITAL HD
 https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
