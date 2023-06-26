@@ -167,3 +167,6 @@ CRONICA TV HD
 ============ Domingo 25 junion 2023 ==================
 -Se reemplazo repositorio principal de lectura de lista m3u de pastebin
 a github como segunda opcion, por que pastebin elimino la lista m3u por denuncias etc.
+
+============ Lunes 26 junion 2023 ==================
+-Se agrego el canal ZOY TV NOVELAS TURCAS y se actualizo la señal de ZOY TV PLUS
