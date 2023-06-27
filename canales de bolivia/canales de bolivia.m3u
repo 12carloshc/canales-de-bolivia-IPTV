@@ -1,23 +1,23 @@
 #EXTM3U
-***ACTUALIZADOS 26 JUNIO 17:45 p.m***REPOSITORIO CLONADO****** 2023 ****
+***ACTUALIZADOS 27 JUNIO 05:45 a.m***REPOSITORIO CLONADO****** 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDrrfoPIJKR0_C6IA9ro1z6U0-qWhzRVa70ZdXYUlEGGN)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDqT8FtyhN0kdQC63Mwuocb3g6lCz3S0sydP9LQzFenQm)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu6d4FibvQ_gGEAo8WJNkaMj7KT3S564LgwD-UmxOt72)/dm/3/x825whp/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgDpBxkOz6CyjEckLbJmOzhrXZJ8rDI_co_VHkU3mYp3)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoZzgbj22YZtnx1g0FHbU1kPhOFR4Bckh0cE5d_OpP1s)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsUmJ1BmA-wZQZ35sYQ2_Y5wzincMezxkwFheEc7ENf5)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4TG2siiOm8dcwv5m0ixI-eE9VInRiudlmgk3O3JFYKB)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOp1mmCY6iLs7BMeBSVf_lPq9mbsBkeReMSJFoNRVyj5U)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOrvPfCN9fmfsGFouzT1g_IhOnwfFpJb-yPV_kP6zmE8-)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
@@ -157,10 +157,10 @@ https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w639002380.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="Canales Bolivianos",FTV HD
 https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwjGWJG2/zoy-tv-hd-new.jpg" group-title="Canales Bolivianos",ZOY PLUS TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ydkLhZn/zoy-tv-hd-new.jpg" group-title="Canales Bolivianos",ZOY PLUS TV HD
 https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxVzPGDY/ZOY-TV-NOVELAS-TURKAS-HD.jpg" group-title="Canales Bolivianos",ZOY TV NOVELAS TURCAS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZVp7cRg/ZOY-TV-NOVELAS-TURKAS-HD.jpg" group-title="Canales Bolivianos",ZOY TV NOVELAS TURCAS HD
 https://master.tucableip.com//zoytvmovil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="Canales Bolivianos",UNIVALLE TV HD
@@ -234,13 +234,13 @@ https://www.dailymotion.com/video/x7wzxiw
 
 **************EVENTOS LIGA BOLIVIANA HD 2023**************
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd2xC1Jq/LIGA-DE-BOLIVIA-HD.jpg" group-title="EVENTOS LIGA BOLIVIANA HD", I PETROLERO VS GUABIRA
-https://master.tucableip.com//zoytvsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS LIGA BOLIVIANA HD", RIVER VS THE STRONGEST
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd2xC1Jq/LIGA-DE-BOLIVIA-HD.jpg" group-title="EVENTOS LIGA BOLIVIANA HD", I PETROLERO VS GUABIRA  
-https://master.tucableip.com:443/zoytvsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS LIGA BOLIVIANA HD", RIVER VS THE STRONGEST  
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd2xC1Jq/LIGA-DE-BOLIVIA-HD.jpg" group-title="EVENTOS LIGA BOLIVIANA HD", LIGA BOLIVIANA EVENTOS  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS LIGA BOLIVIANA HD", LIGA BOLIVIANA EVENTOS  
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
