@@ -170,3 +170,7 @@ a github como segunda opcion, por que pastebin elimino la lista m3u por denuncia
 
 ============ Lunes 26 junion 2023 ==================
 -Se agrego el canal ZOY TV NOVELAS TURCAS y se actualizo la señal de ZOY TV PLUS
+
+============ Jueves 29 junion 2023 ==================
+-Se agrego en la seccion infantiles el canal  ENERGEEK RETRO SERIES
+y se actualizaron nuevos enlaces de servidores de energeek fanpop y retro series.

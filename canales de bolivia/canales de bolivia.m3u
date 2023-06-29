@@ -1,29 +1,29 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 28 JUNIO 17:45 p.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 29 JUNIO 17:45 p.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDkJGh1WU8h4hbO3pM5N9ZmUrXPAiIXkSHx9aMp7GxW6U)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDuEgK3F4uvyzyKekoyXon2FRVPCv5tHtjarVvkIXy-vl)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmBPzoN7vpUeK4k-ZkZxmwhZax6eco0Ja6L6PUzDQcYC)/dm/3/x825whp/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtN5IExICZIugf0Gm70pQpzOSX70bGMNnYPQ9n7gKSXN)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhjsuRkbCVmj72XntJeKwfIWze6YtJgGuFRClsvh011A)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXEOBlNWJCsKd_Ci0uRP9gfV33DQDMCgyb_lXEn3AWI)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlz0PVVrp1bj44YrFEhN0L958uNHJ59BE8XgGG0lqllY4)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAly625Z0xGKaA_vhkdRDxAMRPXvmI7_aQ9w1zmoGVibx4)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOi7GQP2ppwnZSHiEDVNtvpkgwoeuBQ1t4CCWcDCEoOdk)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOna0tb8EhzvE-XC3M_F3cHfFx23IEwDS8QTXNaPN-P8j)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="Canales Bolivianos",ERBOL HD 
-https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w1536942001.m3u8
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w17066017.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s95WhNk/RED-UNO-SC-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
 https://www.dailymotion.com/video/x825whp
@@ -231,17 +231,17 @@ https://www.dailymotion.com/video/x7wzxiw
 
 **************EVENTOS COPA SUDAMERICANA 2023**************
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS COPA SUDAMERICANA", Estudiantes VS O. Petrolero
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Santos VS Blooming
+https://master.tucableip.com//zoytvsport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS COPA SUDAMERICANA", Estudiantes VS O. Petrolero  
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Santos VS Blooming  
+https://master.tucableip.com:443/zoytvsport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS COPA SUDAMERICANA", Universitario VS Gimnasia
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Palmeiras VS Bolivar
+https://master.tucableip.com//zoytvsport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13YC53W3/copa-libertadores.jpg" group-title="EVENTOS COPA SUDAMERICANA", LIGA BOLIVIANA  
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Palmeiras VS Bolivar 
+https://master.tucableip.com:443/zoytvsport/tracks-v1a1/mono.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
 
@@ -379,9 +379,6 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Internacional",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7mkbY9/TELEFUTURO-HD.jpg" group-title="Internacional",TELEFUTURO HD
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8
-
 *****CANALES INFANTILES HD*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwxzMMq/latino-kids-hd.jpg" group-title="Infantiles",LATINO KIDS HD
@@ -402,8 +399,11 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMGhvkY/GRACIA-TV-HD.jpg" group-title="Infantiles",GRACIA TV HD
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNMLWLH/FANPOP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8YTgqH/FAN-POP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
+https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9mJCtHC/RETRO-HD-ANIME.jpg" group-title="Infantiles",ENERGEEK RETRO HD
+https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZC2hw5/kanade-anime-hd.jpg" group-title="Infantiles",KANADE TV HD
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
@@ -530,7 +530,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",TERROR TV HD
-https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1604588451.m3u8
+https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1285121057.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="PRIME CHANELS HD",NEO TV HD
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",SPECTRUM TV HD
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
