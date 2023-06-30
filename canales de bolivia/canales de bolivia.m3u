@@ -1,23 +1,23 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 29 JUNIO 17:45 p.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 30 JUNIO 07:45 a.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDuEgK3F4uvyzyKekoyXon2FRVPCv5tHtjarVvkIXy-vl)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDsb1KtxwGrGxHxOmN1x5Dci8wC95FcmBqKDXMlMesVzM)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtN5IExICZIugf0Gm70pQpzOSX70bGMNnYPQ9n7gKSXN)/dm/3/x825whp/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgqcIe0gtHZuNn_aUlgCrdPIvpGcwJucESWuIes-axFe)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXEOBlNWJCsKd_Ci0uRP9gfV33DQDMCgyb_lXEn3AWI)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvkd-iAEdBOKYlvOio9ZUH-dtYYe7gYpLkoUDlqu8IKD)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAly625Z0xGKaA_vhkdRDxAMRPXvmI7_aQ9w1zmoGVibx4)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOna0tb8EhzvE-XC3M_F3cHfFx23IEwDS8QTXNaPN-P8j)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOkRM_gno84DgIm9lcClC9D7QmWoLC777VpL8ocQL_NLA)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
@@ -231,17 +231,17 @@ https://www.dailymotion.com/video/x7wzxiw
 
 **************EVENTOS COPA SUDAMERICANA 2023**************
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Santos VS Blooming
-https://master.tucableip.com//zoytvsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Santos VS Blooming  
-https://master.tucableip.com:443/zoytvsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo  
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Palmeiras VS Bolivar
-https://master.tucableip.com//zoytvsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS COPA SUDAMERICANA Y LIBERTADORES", Palmeiras VS Bolivar 
-https://master.tucableip.com:443/zoytvsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo 
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
 
