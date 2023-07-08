@@ -1,23 +1,23 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 04 JULIO 06:15 a.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 08 JULIO 06:15 a.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDjL-VfgfrGf_wkwlIOqjV5jxfUWB82BcOeUcejb3FJQJ)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDua-rtPmPiqAEYRbVelF2KAI-152W7aZGJzuH7huYwso)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtqFdKm3TOrAtxiw_R8x3hxWhBiuDKZZXYHm5-qRbCWi)/dm/3/x825whp/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMFjLkhdWyeL35LFcFgLc4FylPsupKFnn5Fz1nnX-muYH)/dm/3/x8doufc/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlqNQd2R7QZVDQRDDyE1a_maK_dss8_bW5hvifQgxR2W)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsgi1uPAFlZLFwLHXtndYvt3UMKPVjeOHk7V3YsF7M3v)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_l9wOTfPW5fxLUAxiv1SVaSXiC__kkZ7I4eXW0cIbtV)/dm/3/x7wijay/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOrvZl5R5dInGzK9xOP_jV-rNhRyLbrxVyNxq6Fzxi8AJ)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqVliEPq5wq_5rqz2T2wtqDVrUZzVY9RJKCza6ZNFcWk)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
@@ -26,7 +26,7 @@ https://www.dailymotion.com/video/x8ko1ix
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w687801033.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s95WhNk/RED-UNO-SC-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
-https://www.dailymotion.com/video/x825whp
+https://www.dailymotion.com/video/x8doufc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tsqdxp0/RED-UNO-CBBA-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
 https://www.dailymotion.com/video/x827j2y
@@ -203,7 +203,7 @@ https://solo.disfrutaenlared.com:1936/agrotv/agrotv/chunklist_w98742951.m3u8
 https://www.dailymotion.com/video/x8ko1ix
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA USAR VLC", RED UNO SCZ HD
-https://www.dailymotion.com/video/x825whp
+https://www.dailymotion.com/video/x8doufc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC", RED UNO CBBA HD
 https://www.dailymotion.com/video/x827j2y
