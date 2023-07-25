@@ -1,29 +1,29 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 19 JULIO 18:25 p.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 25 JULIO 19:15 p.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDgqkPO_YHpm0vQ4tGZn8EYl6VkAjLzdeRmwLnqhurDrC)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDoGMQZICovzfSrol3C_7vYAJ9AVXqJqu3PKx6c_tatRt)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMD3pQYRVRKK_TaDB2A3v14G4K0vC0Z15Q3CIFKCzQ5TV)/dm/3/x8doufc/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMDtWWGrJbgHsciG1JjL3nks4z2mRsu9d3tFJYqc50qwH)/dm/3/x8doufc/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvEgFgD5E56CLE2Dguf-A2haPMtN54Mtji4lubCq2PZe)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmXDrrPVHYRTCpLDt5TsuaJSMu_DjZV6aQNQlu6cHT1_)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl53Ycs9IXZlFlF0kolo_YYkiN5COU4EDBVUTd9XbI1Tr)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7PReeI-e6OXqC1oxIu0VilrhoQ-N0a3sQLo5G9v8xFo)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlo0UOah-MD1g7-LWVyMum9X8KsYGUh4eYOYLfoy8KKN)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOifFiwpkLIK0Cs9a69Jbdk0F0W9hSjcbvIdaVqWpQC0p)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="Canales Bolivianos",ERBOL HD 
-https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w2010279627.m3u8
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w1073118932.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s95WhNk/RED-UNO-SC-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
 https://www.dailymotion.com/video/x8doufc
@@ -119,7 +119,7 @@ https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="Canales Bolivianos",VIRGEN DE COPACABANA HD
-https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1921988320.m3u8
+https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1037941165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmdsmcs/BOPLUS-TV.jpg" group-title="Canales Bolivianos",BoPlus TV HD
 https://servilive.com:3342/live/boplustvlive.m3u8
@@ -149,7 +149,7 @@ https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 https://video.live.com.bo:3253/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="Canales Bolivianos",CEACOM HD
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w639002380.m3u8
+https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="Canales Bolivianos",FTV HD
 https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
