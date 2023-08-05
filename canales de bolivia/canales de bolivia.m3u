@@ -35,7 +35,7 @@ https://www.dailymotion.com/video/x827j2y
 https://www.dailymotion.com/video/x827j2y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" group-title="Canales Bolivianos",BOLIVISION LPZ HD
-https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
+https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPGt3SQ/BOLIVISION-HD-NEW-2.jpg" group-title="Canales Bolivianos",BOLIVISION BOLIVIA HD
 https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
