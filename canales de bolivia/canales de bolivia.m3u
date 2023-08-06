@@ -14,7 +14,7 @@ https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMNwDXoyL6ujV5IMty4
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh0e62fVZTZRrFNo0UQf5qKwhaxoP6ieA0hM1qdIv6lN)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1YR1wn9CXMu_x-OoVGpc0x7FJu2KO2OX79IIxoejuWl)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_ZT3ld-fb3NF9t31c0ytvQRSpkaVDeXeisC7VuB8sHr)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqsOLNZayfKV7H7zZ8EsAj5EBLWS7zZwW1x2Xyy_Njyg)/dm/3/x84eirw/s/live-3.m3u8
@@ -38,7 +38,7 @@ https://www.dailymotion.com/video/x827j2y
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPGt3SQ/BOLIVISION-HD-NEW-2.jpg" group-title="Canales Bolivianos",BOLIVISION BOLIVIA HD
-https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
+https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXfkrpX/ATB-MOVIL-HD.jpg" group-title="Canales Bolivianos",ATB MOVIL HD
 https://stream.atb.com.bo/live/daniel/index.m3u8
