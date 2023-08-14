@@ -77,7 +77,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1150187155.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="Canales Bolivianos",TVU UMSA HD
-https://powervideo.live.com.bo:3884/live/tvuumsalive.m3u8
+https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
 https://live.seo.tv.bo/live/1SEO.m3u8
