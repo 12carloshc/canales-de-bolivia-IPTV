@@ -1,29 +1,29 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 24 AGOSTO 19:15 p.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 25 AGOSTO 19:15 p.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDogFoi1MeJHoaE2V-hDRhnOcMp065ZalI16zC7K9-2LQ)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDm5iW-pDGWeiOvA2O2AHDft98OIdbg-RrifORss6xxpO)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMA6P6sYgJ6eCXG3kl3oVy1Jb1eyzVT0aQ6DfAjQxsI-m)/dm/3/x8doufc/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMBOkhNZ79Gw4jy6LAepBDJj9oMDeAcfEendIxMVKd4XW)/dm/3/x8doufc/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLo0dDjLa__IM2skTBpsZsLcr3BNkTpJjPETUcP6-4pEd)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlxaRc2QHI9rzFITb7WJCUykLHhEZk4wMHRQ2Wj87Ij4)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6EzoY1e-NJ6pnHNAjBdgmn7lgxxA6FGOCBa7IcVmjVB)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzeKX0wAdqJGvyVaPbCXA0HW8j14MkQpU3sQCnJqFUhw)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOig4NMRY8-u89kdi1udX66w0vBwKYKQXS42kuzM2slqi)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOp83iVDfDGOEu5gDBagjFIeQHu4CpAcLlVdEcLYbJKEz)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="Canales Bolivianos",ERBOL HD 
-https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w630774081.m3u8
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w507308649.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s95WhNk/RED-UNO-SC-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
 https://www.dailymotion.com/video/x8doufc
@@ -107,7 +107,7 @@ https://w8.redpat.tv:7777/play/120/index.m3u8
 https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQQVzcS/XTO-HD.jpg" group-title="Canales Bolivianos",XTO HD
-https://614013e273786.streamlock.net/XtoTv/XtoTv/chunklist_w894841728.m3u8
+https://614013e273786.streamlock.net/XtoTv/XtoTv/chunklist_w1028738237.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XVhbT8/RED-ADVENIR-HD.jpg" group-title="Canales Bolivianos",RED ADVENIR HD
 https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1180057403.m3u8
@@ -192,13 +192,16 @@ https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 https://master.tucableip.com/cristaltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="Canales Bolivianos",TELE ESTRELLA TV HD
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w1963618442.m3u8
+https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w509770976.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/87NZMts/AGRO-TV-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",AGRO TV HD
-https://solo.disfrutaenlared.com:1936/agrotv/agrotv/chunklist_w98742951.m3u8
+https://solo.disfrutaenlared.com:1936/agrotv/agrotv/chunklist_w1678437239.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="Canales Bolivianos",PACEÑISIMA TV HD
 https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/de5454962ef31da329d3a70355e62dfe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="Canales Bolivianos",TELEFE TV HD
+https://solo.disfrutaenlared.com:1936/telefe/telefe/chunklist_w1804896656.m3u8
 
 ***********SECCION CANALES BOLIVIA USAR REPRODUCTOR EXTERNO VLC EN SU REPRODUCTOR IPTV************
 
@@ -296,8 +299,11 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="DOCUMENTALES Y NOTICIAS",FORO TV HD
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TV PERU NOTICIAS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TV PERU HD
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="DOCUMENTALES Y NOTICIAS",TV PERU NOTICIAS HD
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HK7d7fK/ATV-PLUS-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",ATV+ NOTICIAS HD
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
@@ -327,7 +333,7 @@ https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 https://www.dailymotion.com/video/x828i6j
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",PANAMERICANA HD
-https://cdnh74.iblups.com/hls/ptv2_hi/index.m3u8
+https://cdn74.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtt310b/TELEMADRID-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TELEMADRID HD
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
