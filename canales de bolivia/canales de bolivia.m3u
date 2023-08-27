@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 27 AGOSTO 16:15 p.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 27 AGOSTO 16:59 p.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -237,14 +237,11 @@ https://www.dailymotion.com/video/x7wzxiw
 
 **************EVENTOS COPA SUDAMERICANA 2023**************
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS BOLIVIA", Bolivia Vs Panama
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo  
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS BOLIVIA", Bolivia Vs Panama
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
 
