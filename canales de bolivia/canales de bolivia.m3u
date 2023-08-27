@@ -1,23 +1,23 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 27 AGOSTO 05:15 a.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 27 AGOSTO 16:15 p.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LPZ HD
-https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDjI9VJ-Xi2Lsxl_s7xNFVnpA9MU_6Htka1D-Eka4iegT)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDgV5BW2TDTNqI1EDz-YnWaB5cvL315vSQkGBDMsV637b)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SCZ HD
-https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMHT5VKp1YVIV5wqI95_O7c_zk1gIWKTPh8eP5VSBLdLC)/dm/3/x8doufc/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMEhAxfuqrgXRsSYMKio5tVuYGbhC5woYGqtSBgB4H7Wq)/dm/3/x8doufc/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO COCHABAMBA HD
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjGw62DsNxYmEy5Qcksnyi3CjLsIDyjF08TBfRN6mbRF)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjK4FVh_OwL3JhhtagLkaOsy4-HhVQqIIC_xkDz83qsO)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="Canales Bolivianos",UNITEL NACIONAL HD
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzeKX0wAdqJGvyVaPbCXA0HW8j14MkQpU3sQCnJqFUhw)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="Canales Bolivianos",ATB NACIONAL HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOrbQeGaGwo3ctvxhkBhQopMi_HOhiN1phFKv8ElkXKsg)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOinPNavSOby3ppQRfs6yMPBJZmxaMKsNUo1BTTh2aCup)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KBDtrd/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 https://www.dailymotion.com/video/x8ko1ix
@@ -238,16 +238,13 @@ https://www.dailymotion.com/video/x7wzxiw
 **************EVENTOS COPA SUDAMERICANA 2023**************
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo  
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS LIGA BOLIVIANA", eventos en vivo 
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
 
@@ -342,10 +339,10 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2fa04169-2699-4def-b274-0befed696946/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKN4spj/BEST-CABLE-DEPORTES-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",BEST CABLE SPORT HD
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vVRTP5M/BEST-CABLE-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",BEST CABLE TV HD
-https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ8WjZg/GARAGE-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",GARAGE TV HD
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -456,7 +453,7 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1810609307.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPftMbr/mas-cumbia-tv.jpg" group-title="Musicales",+ CUMBIA TV HD
-https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Musicales",SPIRIT TV HD
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
@@ -492,10 +489,10 @@ https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/chunklist_w1595487652.m3u
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FV1XjNL/BEST-CABLE-MUSIC-HD.jpg" group-title="Musicales",BEST CABLE MUSIC HD
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxWgkGC/HATUN-TV-HD.jpg" group-title="Musicales",HATUN TV HD
-https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cyrNJJV/RADIO-TECA-HD.jpg" group-title="Musicales",RADIOTECA HD
 https://paneltv.net:3908/stream/play.m3u8
