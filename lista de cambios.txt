@@ -179,3 +179,7 @@ y se actualizaron nuevos enlaces de servidores de energeek fanpop y retro series
 -Se actualizaron los enlaces y orden sintaxis de todas las listas, para que se implementen
 en le reproductor de multimedios KODI.
 -Se eliminaron enlaces de canales que estan offline o presentan problemas persistentes.
+
+============ martes 29 agosto 2023 ==================
+-Se agrego el canal ANIMAX LATINOAMERICA HD.
+-Se corrigio enlaces de la lista global para el reproductor KODI.

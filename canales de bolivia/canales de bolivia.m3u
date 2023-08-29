@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ HD
-https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDlZrAp0nMcXcUm58Hb4XQ1C5UtqC8Herks3jqYXqxP4E)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDtATgzrxHSHucdZOkUtk9q9aut2HTfCzPMKMeFz7Jzz1)/dm/3/x8ko1ix/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ HD
-https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMACLQY0zUpZ2VMfZCW-tcucOwa7N1ojj041mmFChFExT)/dm/3/x8doufc/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMAS2QrUdviiQBmNw99qxbJ7JTecY1IAE3ueGgG4YvaQa)/dm/3/x8doufc/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO COCHABAMBA HD
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLi8QHZFUa3JCLNNqqeQeFmqeLV_C8HxJdqfndkZ2HZse)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoUc-dfC0RuCosecgHqqB1keNmzEcWbUIJ5z5PhVBZnL)/dm/3/x827j2y/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL HD
 https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6ypiYHH9tJeuieT-B6xGF7LVxbzvPEONF9YUSZgp9W5)/dm/3/x7wzxiw/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="CANALES DE BOLIVIA",ATB NACIONAL HD
-https://stream-03.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOq_a5Lia6OwLEJekpK9Pghp4Mp1A0QCdBIaVRymA3YKG)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsXTgi-LD5oulK_dcihmOaSx23O4AZG8FSZLw9po56Ks)/dm/3/x84eirw/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w79DRSk/ATB-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",ATB SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnEKORLB3j5ZdNogw1zlPCV0PId7owPK4c8rv0X8PYqh)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOozISa2_g6NDEcVRWsXJIjvUwCjDkGA3YOVT9nAkgixY)/dm/3/x84t82c/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="CANALES DE BOLIVIA",ERBOL HD 
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w507308649.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
@@ -207,16 +207,16 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="DOCUMENTALES Y NOTICIAS",TURISMO TRAVEL HD
 https://vdo.panelstreaming.live:3740/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",EXITOSA TV HD
-https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w2055165394.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",EL TRECE HD
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",CRONICA TV HD
 https://g3.mc-slo.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="DOCUMENTALES Y NOTICIAS",13 MAX DIGITAL HD
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w2033174754.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="Internacional",EWTN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",EWTN HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Internacional",NET TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwxzMMq/latino-kids-hd.jpg" group-title="ANIME Y SERIES",LATINO KIDS HD
@@ -247,6 +247,8 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w280399302.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="ANIME Y SERIES",COSMOS TV HD
 https://v1.tustreaming.cl/cosmostv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",ANIMEMAX HD
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="MUSICALES",TELE RITMO HD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
