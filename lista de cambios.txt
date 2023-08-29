@@ -174,3 +174,8 @@ a github como segunda opcion, por que pastebin elimino la lista m3u por denuncia
 ============ Jueves 29 junion 2023 ==================
 -Se agrego en la seccion infantiles el canal  ENERGEEK RETRO SERIES
 y se actualizaron nuevos enlaces de servidores de energeek fanpop y retro series.
+
+============ lunes 28 agosto 2023 ==================
+-Se actualizaron los enlaces y orden sintaxis de todas las listas, para que se implementen
+en le reproductor de multimedios KODI.
+-Se eliminaron enlaces de canales que estan offline o presentan problemas persistentes.
