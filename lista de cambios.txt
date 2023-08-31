@@ -183,3 +183,8 @@ en le reproductor de multimedios KODI.
 ============ martes 29 agosto 2023 ==================
 -Se agrego el canal ANIMAX LATINOAMERICA HD.
 -Se corrigio enlaces de la lista global para el reproductor KODI.
+
+============ jueves 31 agosto 2023 ==================
+-Se elimino otros canales que estan offline.
+-Se agregaron los canales nacionales: paceñisima tv, telefe la paz, solidaria tv.
+-Correccion de enlaces en las imagenes.
