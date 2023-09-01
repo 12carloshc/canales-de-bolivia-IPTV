@@ -188,3 +188,8 @@ en le reproductor de multimedios KODI.
 -Se elimino otros canales que estan offline.
 -Se agregaron los canales nacionales: paceñisima tv, telefe la paz, solidaria tv.
 -Correccion de enlaces en las imagenes.
+
+============ viernes 01 septiembre 2023 ==============
+-Se agrego el canal RED DTV BOLIVIA, ATB santa cruz HD, Bolivision señal santa cruz.
+-Se arreglaron enlaces locales.
+-Lista compatible para implementarlo en el reproductor KODI.
