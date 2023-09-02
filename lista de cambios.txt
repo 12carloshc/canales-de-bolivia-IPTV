@@ -193,3 +193,6 @@ en le reproductor de multimedios KODI.
 -Se agrego el canal RED DTV BOLIVIA, ATB santa cruz HD, Bolivision señal santa cruz.
 -Se arreglaron enlaces locales.
 -Lista compatible para implementarlo en el reproductor KODI.
+
+============ sabado 02 septiembre 2023 ==============
+-Se agrego sintaxis de descripcion de canales para el reproductor kodi y compatibles.
