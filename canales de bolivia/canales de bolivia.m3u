@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg=“https://raw.githubusercontent.com/codemonchit0/epg-bolivia-guia-2023/main/GUIA%20EGP%20BOLIVIA%202023/GUIA%20CANALES%20DE%20BOLIVIA%202023.xml”
+
 #EXTINF:-1 tvg-id="RED UNO LPZ" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
 https://stream-03.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMMM3MTBwYFMEcaU551iDXmzzlLyBySNtnKmYafTtWPyu)/dm/3/x8douo2/d/live-3.m3u8
 
