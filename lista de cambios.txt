@@ -196,3 +196,7 @@ en le reproductor de multimedios KODI.
 
 ============ sabado 02 septiembre 2023 ==============
 -Se agrego sintaxis de descripcion de canales para el reproductor kodi y compatibles.
+
+============ domingo 10 septiembre 2023 ==============
+-Se agrego la carpeta con las url´s fijas para que puedan usarlas en el reproductor iptv de su preferencia.
+-Se esta implementando un lista epg de programacion de solo canales de bolivia, que esta aun en fase beta.
