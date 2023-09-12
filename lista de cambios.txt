@@ -200,3 +200,16 @@ en le reproductor de multimedios KODI.
 ============ domingo 10 septiembre 2023 ==============
 -Se agrego la carpeta con las url´s fijas para que puedan usarlas en el reproductor iptv de su preferencia.
 -Se esta implementando un lista epg de programacion de solo canales de bolivia, que esta aun en fase beta.
+
+============ Martes 12 septiembre 2023 ==============
+-Se Implemento ya una lista EPG de solo programacion de los canales mas relevantes de bolivia
+ con programacion EPG de los canales:
+ Red uno Lpz, Scz, Cbba.
+ Red Bolivision Lpz, Scz, Bolivia.
+-Enlace de la programacion EPG:
+
+   https://raw.githubusercontent.com/codemonchit0/epgbo/main/EPGBO2023.xml
+
+ solo agregen ese enlace sea kodi y IPTV PRO, configurar Kodi con regio MEXICO
+ Y TIMESHIFT de EPG de la configuracionde SIMPLEIPTV de +04.
+ y actualizar la lista cada 30 minutos.
