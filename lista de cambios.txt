@@ -213,3 +213,10 @@ en le reproductor de multimedios KODI.
  solo agregen ese enlace sea kodi y IPTV PRO, configurar Kodi con regio MEXICO
  Y TIMESHIFT de EPG de la configuracionde SIMPLEIPTV de +04.
  y actualizar la lista cada 30 minutos.
+
+============ Jueves 14 septiembre 2023 ==============
+-Se implemento de forma eficiente la lista EPG de programacion para los canales de bolivia.
+ los primeros canales con tener lista EPG sin los siguientes:
+ RED UNO LPZ, SCZ, CBBA.
+ ATB LPZ, SCZ.
+ RTP LPZ.
