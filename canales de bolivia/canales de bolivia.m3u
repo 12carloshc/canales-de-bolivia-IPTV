@@ -10,7 +10,7 @@ https://stream-03.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMNkRg13ffETLR_-wMM
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnBHBZOz1VX3DsbG66msev1wmf3sR-XCYmp_hKyME1Sg)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5ReyJOn3WdjQpm5-XndT8nWfkmWQpY97jhq_ULWXoEW)/dm/3/x7wzxiw/s/live-3.m3u8
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w771347962.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/D0rb4tL7/ATB-BOLIVIA-HD-NEW.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOrFhdHEDHx4Azl3Z7tLlL72W7dWPch3fgKsTVuxR_vL-)/dm/3/x84eirw/s/live-3.m3u8
@@ -329,6 +329,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="DOCUMENTALES Y NOTICIAS",ENLACE TV HD
 https://1-349-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHmSwFmz/SE-AL-COLOMBIA-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",SEÑAL COLOMBIA HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwxzMMq/latino-kids-hd.jpg" group-title="ANIME Y SERIES",LATINO KIDS HD
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1632233798.m3u8
