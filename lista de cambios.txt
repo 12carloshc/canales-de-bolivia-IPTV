@@ -220,3 +220,13 @@ en le reproductor de multimedios KODI.
  RED UNO LPZ, SCZ, CBBA.
  ATB LPZ, SCZ.
  RTP LPZ.
+
+============ martes 19 septiembre 2023 ==============
+-Se actualizo la lista EPG de la guia de canales de bolivia con lo siguientes canales:
+RED UNO LPZ, SCZ, CBBA.
+UNITEL NACIONAL, (programacion parcial por que el canal no transmite 24/7).
+RTP LPZ.
+BOLIVISION LPZ, SCZ.
+PTV PACEÑISIMA DE TELEVISION LPZ.
+ERBOL BOLIVIA  LPZ.
+ATB LPZ, SCZ.
