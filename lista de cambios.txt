@@ -230,3 +230,15 @@ BOLIVISION LPZ, SCZ.
 PTV PACEÑISIMA DE TELEVISION LPZ.
 ERBOL BOLIVIA  LPZ.
 ATB LPZ, SCZ.
+
+============ Lunes 25 septiembre 2023 ==============
+-Se actualizo la GUIA EPG de bolivia con los siguientes canales programacion de 7 dias.
+RED UNO LPZ, CBBA, SCZ.
+BOLIVISION LPZ, SCZ.
+RTP LA PAZ.
+PTV PACEÑISIMA DE TELEVISION.
+ERBO BOLIVIA.
+ATB LA PAZ, SCZ.
+F10 BOLIVIA LPZ.
+
+-Se corrigieron la programacio de muchos canales.
