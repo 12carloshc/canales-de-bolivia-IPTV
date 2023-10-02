@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N9xPdrb/UNO-DE-FERIA-FIPAZ.jpg" group-title="CANALES DE BOLIVIA",UNO DE FERIA 2023 
-https://stream-01.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MNJG8y_iMsebo9Si1hWmqP24Of9OFgFch1Oy5Hot9_G0)/dm/3/x8o9b6o/s/live-3.m3u8
-
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMD5luo8fxIgs1z4jSwWPK1-tx530edho7q2Sm5OI0nTg)/dm/3/x8douo2/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMI4oUKyHvnKQFTzQaECXFj2GN3hRVy6yg_uoAEgjc8G-)/dm/3/x8douo2/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMP25JIWXDT9esHj6MOgtVGBL7KFpdPa9XrQhDXrj1dXY)/dm/3/x8doufc/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMK2mdKjhHNVFxAcsilfcV-oMzD5ON57gMX4nWGvTJ-MO)/dm/3/x8doufc/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MEwyDSfoTSgHcMLS3HLhdXbVhsxnNsiOSMas2SGVZrh0)/dm/3/x8ob23p/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MPYRnJctwqhD5BYoutrAEWXTatcgFfu9mxP_VCmnW9TQ)/dm/3/x8ob23p/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1965694673.m3u8
