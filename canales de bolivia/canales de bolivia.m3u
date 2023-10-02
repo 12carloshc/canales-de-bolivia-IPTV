@@ -102,7 +102,7 @@ https://master.tucableip.com//35camargo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwtRnjN/DEPORTE-TOTAL-PLAY-HD.jpg" group-title="CANALES DE BOLIVIA",DEPORTE TOTAL HD
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
-#EXTINF:-1 tvg-id="FFEDIEZ BOLIVIA" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",DELTA TV HD
