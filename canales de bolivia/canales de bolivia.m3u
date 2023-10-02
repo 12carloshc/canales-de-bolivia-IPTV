@@ -13,7 +13,7 @@ https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMP25JIWXDT9esHj6MO
 https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MEwyDSfoTSgHcMLS3HLhdXbVhsxnNsiOSMas2SGVZrh0)/dm/3/x8ob23p/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3L4qDeaq9NFxd-5lc8rLJOXNyaUHrAM7tuPV0K96_tJ)/dm/3/x7wzxiw/s/live-3.m3u8
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1965694673.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOtwHfQXToCeymAzlhLCZ7jyhJJywrI0O9SugGd-5zLmQ)/dm/3/x84eirw/s/live-3.m3u8
@@ -102,7 +102,7 @@ https://master.tucableip.com//35camargo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwtRnjN/DEPORTE-TOTAL-PLAY-HD.jpg" group-title="CANALES DE BOLIVIA",DEPORTE TOTAL HD
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
-#EXTINF:-1 tvg-id="FFE10 BOLIVIA" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
+#EXTINF:-1 tvg-id="FFEDIEZ BOLIVIA" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",DELTA TV HD
