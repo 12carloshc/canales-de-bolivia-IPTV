@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDldYWQfPEEagzsc1GqqanfC537ypByztJpVX-m2GasNC)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDijAD5-RQPwd-gQopYoZTxopvyTzU87WHPdLv_JlXx18)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLq1_YgVfbYloJ6vKdm0jYknMYRlXm40gMSzOiO-iz8Kr)/dm/3/x82ug5r/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MMIM4TSVtc5N2HdukuWl0MiIcY77bM0dvbnBdMANgIrC)/dm/3/x8o9b6o/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MM4Mz2eZMLqY7N2IqGNtPbqz7DjD-OFw2B01tDdskUyW)/dm/3/x8ob23p/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MM5uBOgF5n2_6hrnHYBRonXOVt4warCIMUYFwh8w8pgu)/dm/3/x8ob23p/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLq1_YgVfbYloJ6vKdm0jYknMYRlXm40gMSzOiO-iz8Kr)/dm/3/x82ug5r/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOjZfhmvIPL0sZrozNaqArdgItSnsO2tksQl9Mk1bi-xc)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlGsMDuxTUID5z9PoBt8f66E14hfahj30E9sDCOdgkWn)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/mrtjjJbD/atbsczbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB SCZ
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v96O_jzNlxZTPgEabsVe1z4kKwTcJ28jxTiwkJ3Gb8RO)/dm/3/x89sfvo/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlGsMDuxTUID5z9PoBt8f66E14hfahj30E9sDCOdgkWn)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ERBOL BOLIVIA" tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="CANALES DE BOLIVIA",ERBOL LPZ HD 
-https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w1695700041.m3u8
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w253302994.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
@@ -353,6 +353,9 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w379553199.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="ANIME Y SERIES",COSMOS TV HD
 https://v1.tustreaming.cl/cosmostv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",PANDAMAX TV HD
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="MUSICALES",TELE RITMO HD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
