@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDkF-g5putgCcNUQFqU3_A75xfd3YyKJbvP7QXdSXhsOA)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDkF-g5putgCcNUQFqU3_A75xfd3YyKJbvP7QXdSXhsOA)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-03.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOyrLwO2zlsaUl8OBARPhloUfWqkj1dwx7qiUP1RsSLodU)/dm/3/x8s1at2/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOyrLwO2zlsaUl8OBARPhloUfWqkj1dwx7qiUP1RsSLodU)/dm/3/x8s1at2/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MCeMvhVrgYH-vPkG2XDiG1ARFLpxXE5RxKouwK2s00tM)/dm/3/x8ob23p/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOyrLwO2zlsaUl8OBARPhloUfWqkj1dwx7qiUP1RsSLodU)/dm/3/x8s1at2/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyTZrT7iN33VzJIIS6ngrOjouYX_AUCkt16UWYvs8Kds)/dm/3/x7wzxiw/s/live-3.m3u8
@@ -307,7 +307,7 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?
 https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1xSz2/MONI-TV-HD.jpg" group-title="ANIME Y SERIES",MONI TV HD
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1306984565.m3u8
+https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="ANIME Y SERIES",MAGICKIDS TV HD
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -343,7 +343,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1810
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxmLSpY/PLANETA-MUSIC-HD.jpg" group-title="MUSICALES",PLANETA TV MUSIC HD
-https://scl.edge.grupoz.cl/music/live/chunklist_w1753693563.m3u8
+https://scl.edge.grupoz.cl/music/live/chunklist_w16703913.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmsJJtQB/VCLASSIC-HD.jpg" group-title="MUSICALES",V CLASSIC TV HD
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1445038685.m3u8
@@ -379,10 +379,10 @@ https://paneltv.net:3908/stream/play.m3u8
 https://vdo.panelstreaming.live:3261/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="PRIME CHANELS HD",PLANETA TV MOVIES
-https://scl.edge.grupoz.cl/movie/live/chunklist_w1169082194.m3u8
+https://scl.edge.grupoz.cl/movie/live/chunklist_w143741326.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",TERROR TV HD
-https://tv.streaming-chile.com:1936/8140/8140/chunklist_w200214298.m3u8
+https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1743374165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="PRIME CHANELS HD",NEO TV HD
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
@@ -391,10 +391,10 @@ https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",+ CINE TV HD
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w8647447.m3u8
+https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w223060475.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",RETRO PLUS CLASICOS HD
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1089831923.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",PLANET TV FAMILY HD
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1498398425.m3u8
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
