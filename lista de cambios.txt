@@ -164,14 +164,14 @@ CRONICA TV HD
 -Se agrego seccion de eventos de liga boliviana
 3 opciones que se habilitaran solo para eventos en vivo.
 
-============ Domingo 25 junion 2023 ==================
+============ Domingo 25 junio 2023 ==================
 -Se reemplazo repositorio principal de lectura de lista m3u de pastebin
 a github como segunda opcion, por que pastebin elimino la lista m3u por denuncias etc.
 
-============ Lunes 26 junion 2023 ==================
+============ Lunes 26 junio 2023 ==================
 -Se agrego el canal ZOY TV NOVELAS TURCAS y se actualizo la señal de ZOY TV PLUS
 
-============ Jueves 29 junion 2023 ==================
+============ Jueves 29 junio 2023 ==================
 -Se agrego en la seccion infantiles el canal  ENERGEEK RETRO SERIES
 y se actualizaron nuevos enlaces de servidores de energeek fanpop y retro series.
 
@@ -195,7 +195,7 @@ en le reproductor de multimedios KODI.
 -Lista compatible para implementarlo en el reproductor KODI.
 
 ============ sabado 02 septiembre 2023 ==============
--Se agrego sintaxis de descripcion de canales para el reproductor kodi y compatibles.
+-Se agrego sintaxis de decripcion para el reproductor kodi y compatibles.
 
 ============ domingo 10 septiembre 2023 ==============
 -Se agrego la carpeta con las url´s fijas para que puedan usarlas en el reproductor iptv de su preferencia.
@@ -242,3 +242,10 @@ ATB LA PAZ, SCZ.
 F10 BOLIVIA LPZ.
 
 -Se corrigieron la programacio de muchos canales.
+
+============ miercoles 13 marzo 2024 ==============
+-Se arreglo las lista global de los canales y se procedio a eliminar los canales offline
+se actualizarion los enlaces locales.
+
+-canal red uno de bolivia ya no transmite 24/7, por lo cual solo esta en vivo en horarios de noticias y revistas
+tienen que verlo en la seccion  BOLIVIA VLC con el reproductor VLC.
