@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDkF-g5putgCcNUQFqU3_A75xfd3YyKJbvP7QXdSXhsOA)/dm/3/x8ko1ix/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(HBY0S-whBaQmBrVSQUT-qeer9m_4ejEliFZw3Pvaz95kJ8p09nBMJ7Fub5PB95Lp9mmf7PWYB6u4QnOtcRkhyHD9hsPLCzpV8G7e4qFxTBU)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-01.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOyrLwO2zlsaUl8OBARPhloUfWqkj1dwx7qiUP1RsSLodU)/dm/3/x8s1at2/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOylKI_TPJ3WmXr5u66B-eHdxM0XFfxQVZ3fJvlSEtx6tv)/dm/3/x8s1at2/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
 https://stream-01.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOyrLwO2zlsaUl8OBARPhloUfWqkj1dwx7qiUP1RsSLodU)/dm/3/x8s1at2/d/live-3.m3u8
@@ -13,7 +13,7 @@ https://stream-01.nyc.dailymotion.com/sec(QyYtbMUY-9jPWsTwUDaOyrLwO2zlsaUl8OBARP
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyTZrT7iN33VzJIIS6ngrOjouYX_AUCkt16UWYvs8Kds)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(rQTr2jk-Xc1N6rfALlLFZjc1Lg2--d4PMo8t5kcg3uJxwoaba4-UB68IOLXPxxGQtRrx8kU9DRv2_4mms4kuVL0oxKyuvdBT8E1CLma5HeA)/dm/3/x84eirw/s/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(nW1XEzd-zivoFSSi1SvzWW3nGkQeJ-6c8yVxK8EsrK-EtBVuoRYXke_YZE18fgT0y5N2vjHr3A6CHD5zRNdh1CROmVcp5IeC8ZFBnadrmjE)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
@@ -193,7 +193,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTZxTCq/HISPANTV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",HISPANTV HD
-https://live3.presstv.ir/hispantv/07.m3u8
+https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w307184792_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg" group-title="DOCUMENTALES Y NOTICIAS",TELESUR FHD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
@@ -205,7 +205,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCKmg3f/NHK-JAPON-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",NHK WORLD JAPAN HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://bmcc.nhkworld.jp/live2/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWhHxHC/CGTN-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",CGTN ES HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -313,10 +313,7 @@ https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="ANIME Y SERIES",VARIED TV HD
-https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w379553199.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="ANIME Y SERIES",COSMOS TV HD
-https://v1.tustreaming.cl/cosmostv/tracks-v1a1/mono.m3u8
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",PANDAMAX TV HD
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
