@@ -249,3 +249,14 @@ se actualizarion los enlaces locales.
 
 -canal red uno de bolivia ya no transmite 24/7, por lo cual solo esta en vivo en horarios de noticias y revistas
 tienen que verlo en la seccion  BOLIVIA VLC con el reproductor VLC.
+
+============ Domingo 17 marzo 2024 ==============
+
+-Se agregaron los siguientes locales de bolivia:
+TVA TV, FAP TV, GIGAVISION, TU TV, CORAL TV.
+
+-Se agrego los siguientes internacionales:
+TVP television publica argentina, cronica tv.
+pandamax tv anime.
+
+-Correccion de enlaces y eliminacion de canales offline.
