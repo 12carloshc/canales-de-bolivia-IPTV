@@ -253,7 +253,7 @@ tienen que verlo en la seccion  BOLIVIA VLC con el reproductor VLC.
 ============ Domingo 17 marzo 2024 ==============
 
 -Se agregaron los siguientes locales de bolivia:
-TVA TV, FAP TV, GIGAVISION, TU TV, CORAL TV.
+TVA TV, FAP TV, GIGAVISION, TU TV, CORAL TV. IMPERIAL TV.
 
 -Se agrego los siguientes internacionales:
 TVP television publica argentina, cronica tv.
