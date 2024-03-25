@@ -265,3 +265,10 @@ pandamax tv anime.
 
 -Se  agrego el canal nacional ayni tv de bolivia.
 -Correccion de enlaces y eliminacion de canales offline.
+
+============ lunes 25 marzo 2024 ==============
+
+-Se agrego 4 opcions HD 720p y SD 480p del canal Bolivision local de bolivia.
+-Se eliminaron enlaces de los canales de los canales de musica que estan offline.
+-Se arreglaron todos los enlaces de la seccion musica.
+-Se actualizo el enlace del canal F10 bolivia, ya que actualizo su servidor de streaming.
