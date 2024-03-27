@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(D7yEvSQbJg8D37lUvZyVIejtK5VYgort9HnNafyuNlfkmEMAO-8bFwzIIgVO8fQzGSpC0D9jHqdJc_1sB2sXZMgM-XTP68jI3CbcTbPabGg)/dm/3/x8vufvw/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(bvWZoMVPWSyosjQpFF7XW_KANyQ_cNau8nUjgTLjP9-2CfdoJ5RY3hRrfwsIoqpjOAEgWQ8DxaVGYaXqBLK-eKgc73v8anGDgGrOjG9EN7g)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-b.cf.dmcdn.net/sec2(Qbr-zr_uOuUM6YGHNhNa9Z7CYNEb_qTEtS23RVBSKRrnBxO5RXrhUi34moShzEJ31njP9BUbyGZcdFzTujQgHKJRFvPD6gZwRZvruoRu6CU)/dm/3/x8vufvw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(D7yEvSQbJg8D37lUvZyVIejtK5VYgort9HnNafyuNlfkmEMAO-8bFwzIIgVO8fQzGSpC0D9jHqdJc_1sB2sXZMgM-XTP68jI3CbcTbPabGg)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-b.cf.dmcdn.net/sec2(FS9P0V7dscq8JFEqydTC9zwgHe2L3Us-pYb3S8cia00NLmjPJSCRL_vS-CmIk7CwXj8kdOu0Fhy4c-HEKO5_saZnjFym6QymPlNMznDNRuM)/dm/3/x8ra7t7/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(Igu256Uez-MbrUvR8Tk9TSFmLleCFn7wMTI9LpXckXBQ3RyodMFhy-7eNGvs039_kLEdgElNMXLVmiF-Xlo9GWm4KC_z91rQkUox4IFeg2M)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7eVwxYT0GzZSGHkRRwiR0saVgcGWuwme3xpi4m9W8OL)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyvOIPUj5fHSNfhy1l279wuB2i-lqMYJh3SshkHg5L-3)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 https://live-c.cf.dmcdn.net/sec2(3nqDGVxcqMo1WqoTVLkQb_DeaPP8y-jf60tn_S7urY14uFWoprDlfV502AQX7iGNu2dfI_4yGCWf5Vvg53VCvFSEPaPplKgmGlr-QIa5yTw)/dm/3/x84eirw/s/live-3.m3u8
