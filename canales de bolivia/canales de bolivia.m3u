@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-b.cf.dmcdn.net/sec2(mr_cZ28lwdWqeQnvLztnhqPxcZE9SA54YG5kFLYn86uSHlXiGZbpkpTXbP0CNfycU5SKITNGmQbvTDuweLfEzfI5oaZTmWpQYjrNGSt1qM8)/dm/3/x8ko1ix/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(D7yEvSQbJg8D37lUvZyVIejtK5VYgort9HnNafyuNlfkmEMAO-8bFwzIIgVO8fQzGSpC0D9jHqdJc_1sB2sXZMgM-XTP68jI3CbcTbPabGg)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
 https://live-b.cf.dmcdn.net/sec2(Qbr-zr_uOuUM6YGHNhNa9Z7CYNEb_qTEtS23RVBSKRrnBxO5RXrhUi34moShzEJ31njP9BUbyGZcdFzTujQgHKJRFvPD6gZwRZvruoRu6CU)/dm/3/x8vufvw/s/live-3.m3u8
@@ -13,7 +13,7 @@ https://live-b.cf.dmcdn.net/sec2(FS9P0V7dscq8JFEqydTC9zwgHe2L3Us-pYb3S8cia00NLmj
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7eVwxYT0GzZSGHkRRwiR0saVgcGWuwme3xpi4m9W8OL)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(oxEBmlqeWG5Fq-Xtr-udqX5fU3SqktUIaU8vcpB2-rjZuYpH8CrgxN2ia5IsJi0BZz1T7CqlKUSw3zb_Uvb1xoeTlPUGbhJ1vO_B-E-1Bds)/dm/3/x84eirw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(3nqDGVxcqMo1WqoTVLkQb_DeaPP8y-jf60tn_S7urY14uFWoprDlfV502AQX7iGNu2dfI_4yGCWf5Vvg53VCvFSEPaPplKgmGlr-QIa5yTw)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOBIL
 http://186.121.206.197/live/daniel/index.m3u8
