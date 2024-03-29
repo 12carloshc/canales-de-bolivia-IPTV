@@ -1,19 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-b.cf.dmcdn.net/sec2(OrCVYnJ7mvhkTxn3f2sOJCIniGgM4VtFRONULJjWWnt5Q1FQZY7viHt_rKAr919cfs1_fC2V_njYOKZQ3W5TRdF63HuIKZ_y_BVQYN0-4cQ)/dm/3/x8ko1ix/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(10oRrT_Q8IFlInnk3qche-20Rj5jboYx_FkQZzEmIMYQJ_8NAlNnmq-eoxObjXDEv2jUzPHOPf319RnwPbQU2TvNpAUXSY8qA4kFP10LYMc)/dm/3/x8vzlqi/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-b.cf.dmcdn.net/sec2(hnkHbgyut35uDE_R760Z5lv2KCxW61VMFXTYU2_E9kW_O1XRkWZSZjYrjrixt_FPEcLQyhd-otDCD_h-hJp7ATQedtyD9q324Yr4u2mp3TQ)/dm/3/x8s1at2/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(f-chi3XgOvr3EvaUN175bohgfOrjpGo1kOXQ8X7BvnaER3c0AdNevxphsG5tllp2ikjD9RRHlguUTqO1vZ2UaGeI-EaTU5l5A8ADRcWseb4)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-b.cf.dmcdn.net/sec2(FS9P0V7dscq8JFEqydTC9zwgHe2L3Us-pYb3S8cia00NLmjPJSCRL_vS-CmIk7CwXj8kdOu0Fhy4c-HEKO5_saZnjFym6QymPlNMznDNRuM)/dm/3/x8ra7t7/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(xvRsFhYA9voHmOfpckTQxyPGGsivzjioGkOYTLXDICcvk4dqENc6J-83PYPjL1-DU9OSVsaGtYPykJTrWcsccbztreP_GaZT7lUV5ZjYQ0U)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl898gk02Uccl8N2e1lGN0oCtB0Mvvu-h8G9rKoewvsLX)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3THOfqz9U1qT_DFwhF4XdM2LlyDkb9a3aarEBuCP1Wu)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-b.cf.dmcdn.net/sec2(JSTXOGnf48htSCb21rqR1FhAppKUKSjLVHWeKx0Jud7paDU5yELBxHFGYfpA5jV_pt9TtSbcWk6Axhati8lXUBOwiL69YvO2GEeJ-BbOmFc)/dm/3/x84eirw/s/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(5UCJVjv3leqejYqkNIp3kvpi3eo8gIGzTiyeHgYkc88Imh4O3kQFWLJJCzRc2KH7RRIR1js9b6Sg-xdvJVGqiUi2aWx1bPbmX_F29BWLdKI)/dm/3/x84eirw/s/live-3.m3u8
+
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOBIL
+http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
@@ -88,7 +91,7 @@ https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
-https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
+https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="CANALES DE BOLIVIA",FTV HD
 https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
@@ -97,7 +100,7 @@ https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbKyxbd/MEGATV-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",MEGA TV BOLIVIA HD
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w222211367.m3u8
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1255491919.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg07kzz/radio-san-gabriel-hd.jpg" group-title="CANALES DE BOLIVIA",RADIO SAN BORJA TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1277539644.m3u8
@@ -159,11 +162,14 @@ https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 #EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="CANALES DE BOLIVIA",AYNI TV HD
 https://solo.disfrutaenlared.com:1936/aynitv/aynitv/chunklist_w1227983453.m3u8
 
+#EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="CANALES DE BOLIVIA",IN TV HD
+https://solo.disfrutaenlared.com:1936/intv/intv/chunklist_w1863549974.m3u8
+
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA LPZ HD
 https://www.dailymotion.com/video/x8ko1ix
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA SCZ HD
-https://www.dailymotion.com/video/x8s1at2
+https://www.dailymotion.com/video/x8vufvw
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA CBBA HD
 https://www.dailymotion.com/video/x8s1at2
@@ -396,7 +402,7 @@ https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0MCtdzz/Recuerdos-Retrohd.jpg" group-title="MUSICALES",RECUERDOS RETRO HD
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w1613340350.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="PRIME CHANELS HD",PLANETA TV MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="PRIME CHANELS HD",PLANETA TV
 https://scl.edge.grupoz.cl/movie/live/chunklist_w143741326.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",TERROR TV HD
@@ -416,3 +422,6 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1089831923.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",PLANET TV FAMILY HD
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png",Super Mario Bros. movie
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
