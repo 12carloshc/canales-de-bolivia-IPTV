@@ -272,3 +272,9 @@ pandamax tv anime.
 -Se eliminaron enlaces de los canales de los canales de musica que estan offline.
 -Se arreglaron todos los enlaces de la seccion musica.
 -Se actualizo el enlace del canal F10 bolivia, ya que actualizo su servidor de streaming.
+
+============ lunes 01 abril 2024 ==============
+
+-Se actualizo a enlaces estables de los canales F10 y Mega tv digital.
+-Correccion de enlaces globales y actualizacion de logos de los canales Red Uno bolivia.
+-Correccion de enlaces para el reproductor kodi de la seccion canales de bolivia.
