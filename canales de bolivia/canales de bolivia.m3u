@@ -13,7 +13,7 @@ https://live-b.cf.dmcdn.net/sec2(KYulUgjmfXmMlxkg7RZw-MIl5p-d6kGms2et9-oiRZ71LEf
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl39gSLKgZwuZ6mm7Xf3-FKmLb3oyAUZknen03FgaUTzj)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-b.cf.dmcdn.net/sec2(-qAN6jT5cnICsABqstQCuLpUjTmfqze5R_LUR1lZyUybvzEAxYlnurc_qhYcOUCOeHUn1a0S1XXBdI68m6VM26K-Y9ekbGOn8Y9MgMSdH6U)/dm/3/x84eirw/s/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(syZMjo9ZqWsAv7H3yTAiJ0His0FzS3GJU7osX_fwfd7uKCLLp2sDxhCI72ir74A4u-VOL66m3PYLSJYgjEpLFGZ67v2M5ecDPJKcZkij1yc)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOBIL
 http://186.121.206.197/live/daniel/index.m3u8
@@ -130,7 +130,7 @@ https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w1526421
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 
 #EXTINF:-1 tvg-id="DTV BOLIVIA" tvg-logo="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg" group-title="CANALES DE BOLIVIA",RED DTV HD
-https://master.tucableip.com/dtvsc/tracks-v1a1/mono.m3u8
+https://master.tucableip.com//dtvsc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV HD
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
@@ -151,7 +151,7 @@ https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w805038703.m3u8
 
 #EXTINF:-1 tvg-id="FAP TV" tvg-logo="https://i.postimg.cc/dVshPDR9/FAP-TV.jpg" group-title="CANALES DE BOLIVIA",FAP TV HD
-https://nd106.republicaservers.com/hls/c7284/0/index.m3u8
+https://nd106.republicaservers.com/hls/c7284/0_1/index.m3u8
 
 #EXTINF:-1 tvg-id="TVA TV" tvg-logo="https://i.postimg.cc/52WrZq7k/TVABOLIVIA.jpg" group-title="CANALES DE BOLIVIA",TVA TV HD
 https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
@@ -159,10 +159,10 @@ https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
 #EXTINF:-1 tvg-id="IMPERIAL TV" tvg-logo="https://i.postimg.cc/zvMWwfLH/imperialtvhd.jpg" group-title="CANALES DE BOLIVIA",IMPERIAL TV HD
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 
-#EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="CANALES DE BOLIVIA",AYNI TV HD
+#EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.postimg.cc/gjCcR4vd/AYniXtv1.jpg" group-title="CANALES DE BOLIVIA",AYNI TV HD
 https://solo.disfrutaenlared.com:1936/aynitv/aynitv/chunklist_w1227983453.m3u8
 
-#EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="CANALES DE BOLIVIA",IN TV HD
+#EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.postimg.cc/7YMS1YHF/INtvxhd.jpg" group-title="CANALES DE BOLIVIA",IN TV HD
 https://solo.disfrutaenlared.com:1936/intv/intv/chunklist_w1863549974.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA LPZ HD
