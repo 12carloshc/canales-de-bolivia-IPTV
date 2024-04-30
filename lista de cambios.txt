@@ -278,3 +278,12 @@ pandamax tv anime.
 -Se actualizo a enlaces estables de los canales F10 y Mega tv digital.
 -Correccion de enlaces globales y actualizacion de logos de los canales Red Uno bolivia.
 -Correccion de enlaces para el reproductor kodi de la seccion canales de bolivia.
+
+========= miercoles 17 abril 2024 ==============
+
+-Se agrego dos señales locales  GIGAVISION LA PAZ Y SANTA CRUZ.
+-Se actualizaron y corregieron la señales de origen de los canales:
+F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
+-Se agrego los canales:  PACEÑISIMA TV HD, RED AMERICA, PALENQUE TV, BNB DIGITAL, CABLE VISION HD.
+-Se corrigio url del canal GARAGE TV.
+-Se corrigui enlaces del canal local bolivision bolivia.
