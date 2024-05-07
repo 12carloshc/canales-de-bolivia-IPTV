@@ -287,3 +287,10 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 -Se agrego los canales:  PACEÑISIMA TV HD, RED AMERICA, PALENQUE TV, BNB DIGITAL, CABLE VISION HD.
 -Se corrigio url del canal GARAGE TV.
 -Se corrigui enlaces del canal local bolivision bolivia.
+
+========= martes 7 mayo 2024 ==============
+
+-Se corrio enlace del canal garage tv.
+-Se actualizaron y corrigieron enlaces globales.
+-Se arreglo url de los canales:  paceñisima tv, googo play, TVP argentina, san borja tv.
+-Se agrego el canal de anime clasicos  BIG TV.
