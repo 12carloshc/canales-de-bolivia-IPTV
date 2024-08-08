@@ -294,3 +294,7 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 -Se actualizaron y corrigieron enlaces globales.
 -Se arreglo url de los canales:  paceñisima tv, googo play, TVP argentina, san borja tv.
 -Se agrego el canal de anime clasicos  BIG TV.
+
+========= martes 7 agosto 2024 ==============
+
+-Se corrigio y arreglo enlaces y elimino canales offline.
