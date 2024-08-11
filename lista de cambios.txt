@@ -298,3 +298,9 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 ========= martes 7 agosto 2024 ==============
 
 -Se corrigio y arreglo enlaces y elimino canales offline.
+
+========= viernes 9 agosto 2024 ==============
+
+-Se agregaron los canales nacionales: zuraca tv, siglo XXI, amitel tv.
+-Se agregaron nuevos iconos de los canales nuevos.
+-Se corrigieron mas enlaces offline de canales nacionales.
