@@ -314,3 +314,7 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 
 -Se arreglaron los enlaces de los retromagic y magickids.
 -Se agrego en canal nuevo bolivia MIX.
+
+========= viernes 08 septiembre 2024 ==============
+
+-Se actualizo lista de canales global y elimino cananles offline.
