@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(toZ1IowKBgLNlu5NzrcJJKlc1Gd76CR-lrhvws0kFB6MMoALxzQKFhsUOA_aAjyeFM7Hnpg3tNT1Lj1U5R9ugVLQBwTP9upA4I-AXvGo7aBHPpjY5eRyJgc1ew7sbzu5)/dm/3/x98uwpi/d/live-720.m3u8
+https://live-b.cf.dmcdn.net/sec2(oHIXkyAKSV17rFULeBLiYJik6ZT9K7Yq5U7rhIupIxRGkvmR001l7izG7tMk-V2qAdQCEsuMGgM76UOzPq7uizl6CKY7io4MpqR9lBb0gCIKtWpzMkvGwUVBDSvoGLM8)/dm/3/x8vzlqi/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-c.cf.dmcdn.net/sec2(toZ1IowKBgLNlu5NzrcJJKlc1Gd76CR-lrhvws0kFB6MMoALxzQKFhsUOA_aAjyeFM7Hnpg3tNT1Lj1U5R9ugVLQBwTP9upA4I-AXvGo7aBHPpjY5eRyJgc1ew7sbzu5)/dm/3/x98uwpi/d/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(JmUjiMS6g3NEMNnWSWpkDxJP-Af64M53N8PTcUBXNibGcV2hPfXKV7SACbl8-VDiJ9CauMhFcMsP4beDsovnFG8U7yhpMHmmw1U27UT-U_HMZnn_nA71BrGqWDFhFgy0)/dm/3/x98uwpi/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-b.cf.dmcdn.net/sec2(HR0ihrzw6Kfp2gNkjKmigXmOhNktw3_d5dv_BI7RCKk9hJ4tiGYC6X-PrSZAtalGePotXkoGBTnfo1NyYGvRW772q9rqC_gT-1p-g42t-HdEJerFrdSL_GdEX30UZJUT)/dm/3/x905w7a/d/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(CkUdFPSaGEbuWZAaSRJMGmF_UAK--ppkAgvCiIBOzy4uVD4aBySI09SUqIi35eHb67Ri8BC51KAXPFt54-NCiQo6pvtylfzRp5cM3LBRnNrRKvpg6sI9SkQkFra8paAM)/dm/3/x905w7a/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
