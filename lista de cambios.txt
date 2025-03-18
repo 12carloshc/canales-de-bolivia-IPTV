@@ -318,3 +318,9 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 ========= viernes 08 septiembre 2024 ==============
 
 -Se actualizo lista de canales global y elimino cananles offline.
+
+========= lunes 17 marzo 2025 ==============
+
+-Se actualizaron y arreglaron links de los canales locales de bolivia.
+-Correccion de enlaces de imagenes y correcion en github de enlaces.
+-Se corriguio los enlaces de los canales, bolivision, seo tv, tvu umsa, f10, rtp la paz.

@@ -1,40 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-b.cf.dmcdn.net/sec2(dPYpklNm02070MOn-3QMIkM3z5o7fattHbSuY6ThHrcHaBiIjUIW80Ny9cP8ZIIWkRqKuKErw4Jl3NDvUcbpMyh2WPxO-FdkpJDwTI0f2vl4qaFTqWtwaLz26Er-KNxb)/dm/3/x8vzlqi/d/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(vBo-9EjgolZyWP719id1HqdzgKelbCMTUZITDWviEB9vVW_IIa5genHD9g6SRFOL6xi1CnETLddlGNoR_kuwX8sEDozzBWKEPpaCGStsZ_PA5fBZK2gMAa1KzRJZxvo6)/dm/3/x8vzlqi/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-b.cf.dmcdn.net/sec2(qpCuUEs04gpf7sdhL4QWS1KKKpvz6DGSmjnxKgtOeOvrb42y5W4mx3OrFOO6yR8VZer9w2_PyR75xNc-yxzo2p_6AKXBC3JwSQJVZaW4meZ3zgxqh0P3YsJkmrxlePwe)/dm/3/x98uwpi/d/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(35lz6jEJA_qHNqJUSyAdeGaoy1E_OlMt1zsNOMR8lA6W3YUxNYvK3bTyjki6nvYNQC3K9-wF-oLmlLheiQt4f2UnKgP1w4WhoQNAg_vXNFki480IOlS6yCB8GonQxWFO)/dm/3/x92n5ba/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-c.cf.dmcdn.net/sec2(Kz2L_Mih6e8uLp9QE02ZH658INHg6Y2grGxmxvRLb2C1jGEbTRxOOlBxHz37ku3zwNUa9RDizkhVl6OUtwpqUxz_NUp5dKJ3vDG4SWITXCmkL2s2QF922T85-QT4QHYt)/dm/3/x905w7a/d/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(AKXH2jXn4iUgbrbtIaMIR22W2YEYEJRhX738SbU9ox2jokyJyXLisDM_KJOShwh_CLGT0U3M-11XRYU3mSZ6zJTixL7AHXYXvgOwjz7yhMZn9jgT-SvlQC5dXZ7a477h)/dm/3/x905w7a/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-c2.cf.dmcdn.net/sec2(LoIie8TU58ugSbUjkJ3LVPQBfSRORImbbAzMT9NsKoCrqFlPgkks146dDegKzDcZNFFo0mj51-Nn6_jntLnRCS6rucmhGkklQLx66ZU_0uuoznAbkdgOsAwQtxXw4Jw4)/cloud/3/x7wzxiw/s/live-1080.m3u8
+https://live-c2.cf.dmcdn.net/sec2(jvczv7GzwSKT-DkOBOWjJ0c9z-VL8ecRHpSY9IMGOpTLjsE-KwFTnRLvLEAYkLsVM2eIk50DyWlqg2C0QwUd3H-KnFODb20-ZFJxRzjOkpmo9BVCoi7V_Cs-lUqO_QBY)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(DZ3u_R55oJDN-uvO1BUupyfM5mjKeuVqijO-2JvrcNBUiqdMHMtbll0vF62lrEwieEtVtRs_LeiSLXVQPKhirFLL_BOmnNDwKAG34zh8HhBG-xQ7kYgI7J1dJmSwY7zZ)/dm/3/x84eirw/s/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(eTXRV-Os61JAgdjshCtJQ-AZs6xIVDXcPJf9ffoSF4LTtF910fc4XgE8J_ExsjdjKaTWHQ29wcgR2JUsKjSO-TjT6l8a9P-XmvzzYA4ef7c3fIm292Tk_hgjOHM3VDBi)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
-https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_720p/chunks.m3u8
+https://d3ew2cr4djta2j.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/KzfkdGXH/bollpz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ SD
-https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_480p/chunks.m3u8
+https://d3ew2cr4djta2j.cloudfront.net/480p.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
-https://d2e599a9ekjlc5.cloudfront.net/live2/alba-bo-bolivision-upptv_720p/chunks.m3u8
+https://d2e599a9ekjlc5.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/4dsw6xbL/bol-Scz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ SD
-https://d2e599a9ekjlc5.cloudfront.net/live2/alba-bo-bolivision-upptv_480p/chunks.m3u8
+https://d2e599a9ekjlc5.cloudfront.net/480p.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.ibb.co/mC3q3wm/RTP-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1670999708.m3u8
@@ -52,16 +52,16 @@ https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w9263016
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
-https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV HD
-https://seo.tv.bo/tv/ISEO-TV-1.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CnBVdrh/SEO-TV-PELICULAS-FHD-NEW.jpg" group-title="CANALES DE BOLIVIA",SEO TV PELICULAS HD
-https://seo.tv.bo/tv/ISEO-TV-4.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpgcbtK0/NEW-SEO-TV-DEPORTES-FHD.jpg" group-title="CANALES DE BOLIVIA",SEO TV NOVELAS HD
-https://seo.tv.bo/tv/ISEO-TV-3.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
 https://fl1004.bozztv.com/ssh101/pattv/tracks-v1a1/mono.m3u8
@@ -184,22 +184,22 @@ https://stmvideo3.livecastv.com/ztv/ztv/playlist.m3u8
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/tC7BF0M5/65Mixbo.jpg" group-title="CANALES DE BOLIVIA",MIX BOLIVIA TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+https://stream.gia.tv/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO LPZ HD
 https://www.dailymotion.com/video/x8vzlqi
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO SCZ HD
-https://www.dailymotion.com/video/x98uwpi
+https://www.dailymotion.com/video/x92n5ba
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO CBBA HD
-https://www.dailymotion.com/video/x8ra7t7
+https://www.dailymotion.com/video/x905w7a
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/Y06y7NgW/ATB-BOLIVIA-HD.jpg" group-title="BOLIVIA USAR VLC", ATB BOLIVIA HD
 https://www.dailymotion.com/video/x84eirw
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/rsMNSB0D/ATB-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC", ATB SCZ HD
-https://www.dailymotion.com/video/x84t82c
+https://www.dailymotion.com/video/x89sfvo
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
 https://www.dailymotion.com/video/x7vsfua
@@ -212,12 +212,6 @@ https://www.dailymotion.com/video/x7y922d
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
 https://www.dailymotion.com/video/x7wzxiw
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS BOLIVIA", Eventos bolivia 2024
-https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/chunklist_w804206332.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS BOLIVIA", Eventos Bolivia 2024
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8kDdvt/ONCE-NOTICIAS-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",ONCE NOTICIAS MX
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
@@ -343,7 +337,7 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",WOW TV HD
 https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
@@ -367,7 +361,7 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="ANIME Y SERIES",MAGICKIDS TV HD
-https://magicstream.ddns.net/magicstream/stream.m3u8
+https://stream.gia.tv/giatv/giatv-magicplus/magicplus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="ANIME Y SERIES",VARIED TV HD
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -381,6 +375,12 @@ https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/QxdxvYcB/RETRO-MAGICO-HD.jpg" group-title="ANIME Y SERIES",RETROMAGICO HD
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ANIME Y SERIES",WEPA TV HD
+https://ssh101-fl.bozztv.com/ssh101/tvwxfxxgo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/tC7BF0M5/65Mixbo.jpg" group-title="ANIME Y SERIES",BOLIVIA MIX HD
+https://stream.gia.tv/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="MUSICALES",TELE RITMO HD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
@@ -392,6 +392,9 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w180
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY HD
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY 02 HD
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP radio HD
 https://server.dacsolution.com.br/shoutcast3/listen.mp3
@@ -412,19 +415,19 @@ https://tls-cl.cdnz.cl/planetatv/live/chunklist_w1266470697.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1125458491.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="MUSICALES",OLDIES HITS HD
-https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist_w1167561577.m3u8
+https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="MUSICALES",VC MUSICA CRISTIANA HD
-https://panel.tvstream.cl:1936/8024/8024/chunklist_w1865927653.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="MUSICALES",ITALIANISSSIMO HD
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w521292034.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3MmSdpK/VCLASIC-HD.jpg" group-title="MUSICALES",VCLASSIC TROPICAL HD
-https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w887824733.m3u8
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w872959784.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRqRVRT/LATINOS-RADIO-HD.jpg" group-title="MUSICALES",LATINOS RADIO HD
 https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/chunklist_w183524107.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9v8n1rQ/MEMORIAS-TV.jpg" group-title="MUSICALES",MEMORIAS TV HD
-https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/chunklist_w1321595903.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9v8n1rQ/MEMORIAS-TV.jpg" group-title="MUSICALES",RETRO MUSIC HD
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w730441855_b1428000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMGc3SYR/ETERNAL-METAL-HD.jpg" group-title="MUSICALES",ETERNAL METAL HD
 https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
@@ -434,27 +437,3 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1613340350.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tQZWyzC/AGtv01.jpg" group-title="MUSICALES",TV ADORADORES GOSPEL HD
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w486567463.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="PRIME CHANELS HD",PLANETA TV
-https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w1599069065.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",TERROR TV HD
-https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1743374165.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="PRIME CHANELS HD",NEO TV HD
-https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",SPECTRUM TV HD
-https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",+ CINE TV HD
-https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w223060475.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",RETRO PLUS CLASICOS HD
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1089831923.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",PLANET TV FAMILY HD
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png",Super Mario Bros. movie
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
