@@ -324,3 +324,8 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 -Se actualizaron y arreglaron links de los canales locales de bolivia.
 -Correccion de enlaces de imagenes y correcion en github de enlaces.
 -Se corriguio los enlaces de los canales, bolivision, seo tv, tvu umsa, f10, rtp la paz.
+
+========= martes 18 marzo 2025 ==============
+
+-Se agregaron y arreglaron los enlaces de: zuraca tv, bolivision hd
+tvu umsa, rtp bolivia, f10 bolivia, solidaria tv, seo tv hd.
