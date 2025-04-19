@@ -13,10 +13,10 @@ https://live-b.cf.dmcdn.net/sec2(3ewot6_1Rj9g3gCcUtXzDtsNglNNZhT2bXUHDuuMSzEqYPR
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-c2.cf.dmcdn.net/sec2(l-MNcGGNyDue5ZGMKKPHaJM3oxCSa4dx0T25patkWNTO2FRJsXwOgiHu4lCTKS1_toRUcDWDTjpbXt6ITUWOdR6ERi14_REqwoT--W_qn1VEG2mQPUPvYYmZRPVOBmkN)/cloud/3/x7wzxiw/s/live-1080.m3u8
+https://live-c2.cf.dmcdn.net/sec2(BMtLxduE1XDFVGGtr4VwV7xLYckJs_35W1sCy5cJK5qh3Fbku36hO2oq1mFZLp4vG0bP9p53gHqH0g96uyoZ4UEsOwUk3ZlqdtGDTp63mksmXJqNm-h7o1XiY8Q5hAoj)/cloud/3/x7wzxiw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(1MmlxwzjDKrjuwB866xYJIdBnDYReM0V4M6vAWKE6TxxRGJWJR-WG5fYYn11BIn7CejPzYJ-zOgqa7ElB3PE3rcTxtQjbNU_4dR8CbrXdTxXjQq_z1xEO-7zbMLDGw5l)/dm/3/x84eirw/s/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(Si8sPNzxYZgltqPU3GC533G7uykP7O-DipfJxXVZdVgr8FJaE-lpfKavbT1TKD_BnBbpzS8sr0Pgi22V_Vwt2Xv2zi7Ri4qcqPrvdw7EsBROY5Pvjh8nAYQWjwLnJhu8)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
@@ -157,16 +157,16 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/chunks.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YvJyLhq/FBC01.jpg" group-title="LIGA BOLIVIANA 2025",FUTBOL CANAL 1(SOLO EVENTOS)HD
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/87727107-0bef-4879-b1e6-65f2c0ad498d/4.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv4tzZ2Y/FBc02.jpg" group-title="LIGA BOLIVIANA 2025",FUTBOL CANAL 2(SOLO EVENTOS)HD
-https://stream.ads.ottera.tv/cl/250419d01gg4g1gndug62klll0/1280x720_3071200_1_f.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzyFY6p4/FBc03.jpg" group-title="LIGA BOLIVIANA 2025",FUTBOL CANAL 3(SOLO EVENTOS)HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJgGQBpf/FBcPS.jpg" group-title="LIGA BOLIVIANA 2025",FUTBOL CANAL PLUS(SOLO EVENTOS)HD
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO LPZ HD
 https://www.dailymotion.com/video/x8vzlqi
