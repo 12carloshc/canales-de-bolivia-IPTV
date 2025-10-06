@@ -15,11 +15,17 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7XEiNm9NqiAKQmpGNcSZaaM8SKiSQPf
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7XEiNm9NqiAKQmpGNcSZaYNshcBtpHo7Lw2bCK-Gl1n/m3u8
 
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
+http://186.121.206.197/live/daniel/index.m3u8
+
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7XEiNm9NqiAKQmpGNcSZaasa_Nz3Twd-Uw9DtZrM6Sn/m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
+https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
-https://rtp.noxun.net/hls/stream.m3u8
+https://rtp.noxun.net:444/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1395384263.m3u8
@@ -28,13 +34,10 @@ https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1395384
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
-https://w8.redpat.tv:8000/play/110/30354384.m3u8
+https://www.redpat.tv/proxylpz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XVhbT8/RED-ADVENIR-HD.jpg" group-title="CANALES DE BOLIVIA",RED ADVENIR HD
 https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1940547209.m3u8
-
-#EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="CANALES DE BOLIVIA",ABYA YALA TV HD
-https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="CANALES DE BOLIVIA",TV LATINA HD
 https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
@@ -58,10 +61,13 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7XEiNm9NqiAKQmpGNcSZaam7RJCpK26
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="CANALES DE BOLIVIA",PACEÑISIMA TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/centralptv/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="CANALES DE BOLIVIA",ZURACA TV HD
-https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+
+#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="CANALES DE BOLIVIA",CTV TV HD
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="PREMIUM HD",DISCOVERY HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lyrqodTAuuXgIggs5qkugX27ANCSrqBaE8lkFWb0Nztt/m3u8
@@ -103,7 +109,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream04/str
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg" group-title="NOTICIAS Y DOCUMENTALES",TELESUR FHD
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="DEPORTES HD",DIRECTV SPORTS 1 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_XZuxCerg0h-5ChHckuNbw-gNnDioVPLSknDLvoRxXr/m3u8
