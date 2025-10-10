@@ -25,7 +25,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/
 https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
-https://rtp.noxun.net:444/hls720/stream3.m3u8
+https://rtp.noxun.net/live/stream.flv
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1395384263.m3u8
@@ -85,7 +85,7 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(F5KSmdNfAxB2GKO7c0pvPZZvezsxk9LeXiHAS
 https://live.eu-north-1a.cf.dmcdn.net/sec2(KNyvbKi6--QipAvFdFiXQYKMgRwyOCQ0SrUQvYLhHExDLpNo6T5j7epBligOriUrIwSBulQ1fCHvUEikCgr9PsHZnjMRTdLw9NPkshlltXyBYFnVSQTcKzJRhWJek6xq)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(iVnWVGWeikd-XXZKVv9WU10VUytSmkSAF0CpkC3xgM3tom8BrxP4LneMQ7rsnhqCt2YjL6FazRAr91tZFnbgFwRD6JAq6VaH-csbG9xBr5QgR6sXk6jonLLFdNFnFnWw)/cloud/3/x7wzxiw/s/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(oTCr0fObZ2Caw8iyXcFrm7MRgyTxHTFMLd8W-Vi1EoOr_MU9xBAnOZc6ZBpcrwaNW0bDuK2OzTO1V0D8CZR7Vae5D9DAXbWeUjVEkKxz9QqQAM50Ihnl_sUmcVtq0gZC)/cloud/3/x7wzxiw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
 https://live.eu-north-1b.cf.dmcdn.net/sec2(HKQY195lGbOGL5N-A7H7S3e3k9GACWp53ZUsiqPmx5Pkv2gfEeWi3zK8l6dzIE8Doo1cGtvew60irDmj25SUkiKbpILAmfn68WAbQsfN7XRWCzBZuykQCIG7UO2-6sOz)/dm/3/x84eirw/s/live-720.m3u8
