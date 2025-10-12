@@ -79,10 +79,10 @@ https://seo.tv.bo/tv/SEO_-TV-1.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO LPZ HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Hd86bZA76McmRlc_UlXdl3Jx7GuwyGq1pEvJTixwsbX-n1W9t0HADNhNqjr6fpAMfG3s8C2t4mJqYzAYdGDTVHPoneAmDZj65LkGSdg1tS8JaS0t8-uzNEN9PFl_P1EL)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(oHAGo4KAvgcHVV4jlnxDsM9F40EQKcVOzs4svHtaL0lkEKc4k95fSGd3BOCNHuIxo4oRU00Fg9de8C3434ukj9RZUGyfkWNowy441sXU0pJSNMeSbifir2-AN1YXReBt)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO SCZ HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(vk0IVQ7jMpktlqVmiwKci2kSErXzPqckN3sHKC1txgwJuJ28pKKhsJQaR2LduIh2h48J7lTbHOek7Beg-OcMKp1r5H0js8-fbnvPLbdqbS_OJImJlUx6oKn089dqKgB-)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(j942YSTw764_5ehpFxDHDU6TlhgcdpzXY4xNAZfY-aYfgrPAXMk9rv2S6KFbDw9GenU_Zf9PrwpjTxHqACBYBUi_c-zLcHHdJoVhWFfIuZQPo14ZW8JwSSMlt5yS5agc)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(I6BhAT6zDeEF2OeOwd7KNqFs-Twm-QCbNO3DuytO4qU-Wsxk79eRHvj_6sw6KDx-UiB_D4XP-xbdnnZgQlk3NRNmorx_sUazq04p6BP1LUWLo15LIqW_vKYtqv28vMEO)/cloud/3/x7wzxiw/s/live-1080.m3u8
@@ -123,17 +123,23 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7rLvKORJF7lUdLNNoEXqm4KGwzi3fkx
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnJmRWrm/lvn.jpg" group-title="CANALES PREMIUM HD",LOVE NATURE HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0UGiC8lG7sCG7Ue42tjKw2QlyhqlvGXI_nNV8Up_-3v/m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnfcVP9J/GLD1.jpg" group-title="CANALES PREMIUM HD",GOLDEN HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lw-WzoN5VWDya41w6ZNwS1NI8XGwiLUmELqgxPyZSNmA/m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5yZvqk/HYST.jpg" group-title="CANALES PREMIUM HD",HISTORY HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0UGiC8lG7sCG7Ue42tjKw3t894FXZSv2XMn2WUhLAjk/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J4rb1G2/gm.jpg" group-title="CANALES PREMIUM HD",EL GOURMET HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2RgrLwYOlwP5uYN_pTPaCuggQxhWYVcQC371_Tx-kCM/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES PREMIUM HD",MOVIE STAR ACCION HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9_8Cw7SJTvAiOjQUWG37XLhbatSkxJ3Uh2xP4SBTn2M/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwYJJKnW/CNXX.jpg" group-title="CANALES PREMIUM HD",CINEMAX HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lw-WzoN5VWDya41w6ZNwS1PbsO-wfGvtdvWBSwkyRMKE/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpM5xSWZ/NTG.jpg" group-title="CANALES PREMIUM HD",NATGEO HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2RgrLwYOlwP5uYN_pTPaCumzcNcGdMViJQ-n9ty3YFT/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vs9bkfMk/CNTW.jpg" group-title="CANALES PREMIUM HD",CARTOON NETWORK HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1k9_zm4H6TE6OTWt4ogXoSkhmKCoT0lMMxuSwc1eWuj/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES PREMIUM HD",DARK HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7rLvKORJF7lUdLNNoEXqm5g-K8z-Dzopr3uC5ZnXE7f/m3u8
@@ -160,7 +166,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream05/str
 https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg" group-title="NOTICIAS Y DOCUMENTALES",RT NOTICIAS FHD
-https://rumble.com/hls-vod/6so78z/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="NOTICIAS Y DOCUMENTALES",CRONICA TV HD
 https://g2.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -185,6 +191,9 @@ https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg" group-title="NOTICIAS Y DOCUMENTALES",ATV HD
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJBhNswr/TLMD.jpg" group-title="NOTICIAS Y DOCUMENTALES",TELEMUNDO HD
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES HD",DIRECTV SPORTS 1 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6XvKajqEeysM5WrFkvSh33a/m3u8
