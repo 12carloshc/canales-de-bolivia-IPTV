@@ -79,16 +79,22 @@ https://seo.tv.bo/tv/SEO_-TV-1.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO LPZ HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(oHAGo4KAvgcHVV4jlnxDsM9F40EQKcVOzs4svHtaL0lkEKc4k95fSGd3BOCNHuIxo4oRU00Fg9de8C3434ukj9RZUGyfkWNowy441sXU0pJSNMeSbifir2-AN1YXReBt)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(QGWEY-30sEc2rtru7BB7SIL0gRkUK9x1F2UypvctkWYAddiPGGLopz_d2xWf7qDEHaab_AJph1y_bJi-sXyJq90dyYVzBtKrVNfv9Kqf5t0NhJwqSZebjVHytN9FVhAC)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO SCZ HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(j942YSTw764_5ehpFxDHDU6TlhgcdpzXY4xNAZfY-aYfgrPAXMk9rv2S6KFbDw9GenU_Zf9PrwpjTxHqACBYBUi_c-zLcHHdJoVhWFfIuZQPo14ZW8JwSSMlt5yS5agc)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(GEFbngpiUZgbbHwtIHZEaKZuPobTg6soa-tzWspb-HcsyItea5UZ7sHEUtGblDZpDxRh5qL_CihM34fEkuzV2pSaOcNzTWqgGuAHhdsVgE18StgohXTvut0VdIV4U9o0)/dm/3/x9n2qyk/d/live-720.m3u8
+
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/6Q8Y7G6w/UNDPRE.jpg" group-title="BOLIVIA SOLO NOTICIAS",DEBATE PRESIDENCIAL 2025 01 HD
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(62hngoXxLv6exNbKOe-YzosrYk-nhyk534Kc0IIikoTIX8o07cKqy-4old2748oMaOLQNDTK4vLGlUhWFJPcp6HhU2xmWg_YInVjdALRlskX6vcvF5mCKatVJLlafjLN)/cloud/3/x8kg36u/s/live-1080@60.m3u8
+
+#EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/6Q8Y7G6w/UNDPRE.jpg" group-title="BOLIVIA SOLO NOTICIAS",DEBATE PRESIDENCIAL 2025 02 HD
+https://live.eu-north-1b.cf.dmcdn.net/sec2(Sm-uVIOPkqTcJnSBH4zJiyXMpefPdKsDwsRois8PXZPT-bt7Nq3cq1NtghHu5Adyf7khtSMH9rLWnEXuAuun9DCtMKmBPbItaiKxLYHjp_YMcOehAa0wuyrcuR0pcXZx)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(I6BhAT6zDeEF2OeOwd7KNqFs-Twm-QCbNO3DuytO4qU-Wsxk79eRHvj_6sw6KDx-UiB_D4XP-xbdnnZgQlk3NRNmorx_sUazq04p6BP1LUWLo15LIqW_vKYtqv28vMEO)/cloud/3/x7wzxiw/s/live-1080.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(RY5wxbSEwmUfZ0OXW4RDOqZKJzitZ0_bNREEUUr3czhKZjbZ2pppRxaFkRE8zRcNDmKtQ8SIhr30yV2gmDEJUom-wuIte8ned_1IcAomJ-C8CpJfjYYsNxLqA81JYORe)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(LPNTtmjy3zoPi4nJ_VujH4Iu2dtbennW5cL-ZOxA0IQrmJLhhtFMTeCA0SLkkgw-wNxdA3myMCMP-sVgAh2OZS-oVI-sfiAPhjxeyCZTipMw4OzxFuTIZb-zOofZC7gw)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(F3lIQTNhR4uimT8dv4kEiHgTKb5dtWxVvo1DT488GGpSUwCeo5tnIDn_myrvxHEGoK46vmFkkvFokLyHaXNVlQp5JC1yi474fWKWxunonz6fgY94TsumhjHkE_cBjdaX)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
