@@ -25,7 +25,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/
 https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
-https://rtp.noxun.net:444/hls720/stream3.m3u8
+https://rtp.noxun.net/live/stream.flv
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8ZJU2733jTPPCBu_aiVjnJZweI737dlrZ7orUnWCeW5/m3u8
@@ -79,22 +79,16 @@ https://seo.tv.bo/tv/SEO_-TV-1.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO LPZ HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(QGWEY-30sEc2rtru7BB7SIL0gRkUK9x1F2UypvctkWYAddiPGGLopz_d2xWf7qDEHaab_AJph1y_bJi-sXyJq90dyYVzBtKrVNfv9Kqf5t0NhJwqSZebjVHytN9FVhAC)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(SRfUi7m9Z9f98PgJbZruZGtmUJRkT6PS8OSBZsY_bUJC3xmS9K1EFzkz5PXwvLXVgWHJRd5k1Ax79r4HhAkCill_qmpmPfFPqT1YJNXw2NExC_LPx6KXJpd16OvnTX_-)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO SCZ HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(GEFbngpiUZgbbHwtIHZEaKZuPobTg6soa-tzWspb-HcsyItea5UZ7sHEUtGblDZpDxRh5qL_CihM34fEkuzV2pSaOcNzTWqgGuAHhdsVgE18StgohXTvut0VdIV4U9o0)/dm/3/x9n2qyk/d/live-720.m3u8
-
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/6Q8Y7G6w/UNDPRE.jpg" group-title="BOLIVIA SOLO NOTICIAS",DEBATE PRESIDENCIAL 2025 01 HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(62hngoXxLv6exNbKOe-YzosrYk-nhyk534Kc0IIikoTIX8o07cKqy-4old2748oMaOLQNDTK4vLGlUhWFJPcp6HhU2xmWg_YInVjdALRlskX6vcvF5mCKatVJLlafjLN)/cloud/3/x8kg36u/s/live-1080@60.m3u8
-
-#EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/6Q8Y7G6w/UNDPRE.jpg" group-title="BOLIVIA SOLO NOTICIAS",DEBATE PRESIDENCIAL 2025 02 HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Sm-uVIOPkqTcJnSBH4zJiyXMpefPdKsDwsRois8PXZPT-bt7Nq3cq1NtghHu5Adyf7khtSMH9rLWnEXuAuun9DCtMKmBPbItaiKxLYHjp_YMcOehAa0wuyrcuR0pcXZx)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(SRfUi7m9Z9f98PgJbZruZGtmUJRkT6PS8OSBZsY_bUJC3xmS9K1EFzkz5PXwvLXVgWHJRd5k1Ax79r4HhAkCill_qmpmPfFPqT1YJNXw2NExC_LPx6KXJpd16OvnTX_-)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(RY5wxbSEwmUfZ0OXW4RDOqZKJzitZ0_bNREEUUr3czhKZjbZ2pppRxaFkRE8zRcNDmKtQ8SIhr30yV2gmDEJUom-wuIte8ned_1IcAomJ-C8CpJfjYYsNxLqA81JYORe)/cloud/3/x7wzxiw/s/live-1080.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(X-6_mkj1JjhqWRA7ikrfA7-QWDYW2obrzjjgbP7OtzRFhcz-E6EQEAuHJZUE2mM8KDRbW3tt2fQOQA-8Pop-J2_qvoM-SW5aoE7HNZ3Ke3VI8bVR5-8HNJjc90gHtvgA)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(F3lIQTNhR4uimT8dv4kEiHgTKb5dtWxVvo1DT488GGpSUwCeo5tnIDn_myrvxHEGoK46vmFkkvFokLyHaXNVlQp5JC1yi474fWKWxunonz6fgY94TsumhjHkE_cBjdaX)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(_7hktPnPc6btRV0cervkvH_PkayCLvEl0VbarnAmgY11thakandok_bkAINyrMGGky1YlkG3VO0NjWcGoWlEw4RhSg-y0b-EouIBCe7d9c7e-nmRRXz48mpImBEZ78iJ)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
@@ -204,16 +198,25 @@ https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJBhNswr/TLMD.jpg" group-title="NOTICIAS Y DOCUMENTALES",TELEMUNDO HD
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvM5FPBP/canalmas.jpg" group-title="RELIGIOSOS",CANAL LUZ FHD
+https://g5.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="RELIGIOSOS",EWTN HD
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES HD",DIRECTV SPORTS 1 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6XvKajqEeysM5WrFkvSh33a/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES HD",ESPN SUR HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6U-Q5OIDT3zWKxZoAuynIeL/m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N07rYXPR/ds-plus.jpg" group-title="DEPORTES HD",DIRECTV SPORTS+ HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6WX7mfhQmauhOXN-8iNXo7t/m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpXJn76Z/ESPREM.jpg" group-title="DEPORTES HD",ESPN PREMIUM HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4JD6FT24gLTlnNdWTHaazs3ciYQBYkXEnQzA6IrmWgI/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="DEPORTES HD",TNT SPORT ARG HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8HPj80/tntsarg.jpg" group-title="DEPORTES HD",TNT SPORT ARG HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4JD6FT24gLTlnNdWTHaazuHLsLRjEhcaFivyzT2-CJZ/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNK5x2F/FXSR.jpg" group-title="DEPORTES HD",FOX SPORT SUR HD
@@ -222,11 +225,14 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4JD6FT24gLTlnNdWTHaazubZZmbjG6b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSy0dfZ/FXSPRE.jpg" group-title="DEPORTES HD",FOX SPORT PREMIUM HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2w-uuAvySkBX0rvuFqbsVGyZo3N4lqRsHVGhqkWOLMo/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="DEPORTES HD",TyC INTERNACIONAL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="DEPORTES HD",TyC INTERNACIONAL HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6XyKZu5z9eSoboJ9N8LPS8R/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mk5d3J1/dznf1.jpg" group-title="DEPORTES HD",DAZN F1 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzysq6_FkM04cRYnfk3dR3maZ3xTdBpjA42884trqwR7/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVR83pJm/Dzn1.jpg" group-title="DEPORTES HD",DAZN 1 HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzysq6_FkM04cRYnfk3dR3mboc736K4IoB6CtFOANNmn/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP HD
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
