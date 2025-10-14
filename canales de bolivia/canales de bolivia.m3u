@@ -79,16 +79,16 @@ https://seo.tv.bo/tv/SEO_-TV-1.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO LPZ HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(SRfUi7m9Z9f98PgJbZruZGtmUJRkT6PS8OSBZsY_bUJC3xmS9K1EFzkz5PXwvLXVgWHJRd5k1Ax79r4HhAkCill_qmpmPfFPqT1YJNXw2NExC_LPx6KXJpd16OvnTX_-)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1gWVHF5IdfTIJEbi0c0t4OSWqp1gsOA1VUdJiKgtz4bq2KxRixWy78KjlM6oWkcoTNrbLHABiK2MTiUMzsi0TmGbqnUnbyDdGBRJ1l5sz3MRfme8oVj9zAGH0MvHJTlN)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO SCZ HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(SRfUi7m9Z9f98PgJbZruZGtmUJRkT6PS8OSBZsY_bUJC3xmS9K1EFzkz5PXwvLXVgWHJRd5k1Ax79r4HhAkCill_qmpmPfFPqT1YJNXw2NExC_LPx6KXJpd16OvnTX_-)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1gWVHF5IdfTIJEbi0c0t4OSWqp1gsOA1VUdJiKgtz4bq2KxRixWy78KjlM6oWkcoTNrbLHABiK2MTiUMzsi0TmGbqnUnbyDdGBRJ1l5sz3MRfme8oVj9zAGH0MvHJTlN)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(X-6_mkj1JjhqWRA7ikrfA7-QWDYW2obrzjjgbP7OtzRFhcz-E6EQEAuHJZUE2mM8KDRbW3tt2fQOQA-8Pop-J2_qvoM-SW5aoE7HNZ3Ke3VI8bVR5-8HNJjc90gHtvgA)/cloud/3/x7wzxiw/s/live-1080.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(CCOq0E5pqosusgfa0UUOdiVOy-MkAnG_CivkQJ-BWXdhYTTz1mMOEetnim1mh457jBHX27-Mh_YDh9108QdHN0iTQGKTY0Zw4p3IvMW79fhZGjiyGEdVoPmesICGHiq0)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(_7hktPnPc6btRV0cervkvH_PkayCLvEl0VbarnAmgY11thakandok_bkAINyrMGGky1YlkG3VO0NjWcGoWlEw4RhSg-y0b-EouIBCe7d9c7e-nmRRXz48mpImBEZ78iJ)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(5rZQGzqSsp6Qnj7Faxa6tXeb_wKW7uNnztR8x5ojgtUSqAfeR-qK_kGcMRaNoIGL9kTNDeEY0YrwVFZhXpOT8oYsnVwgDwIyPeTO6KadEUM8ZPQjU-RtUP3RgiMPwXVa)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
@@ -137,6 +137,9 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2RgrLwYOlwP5uYN_pTPaCuggQxhWYVc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwYJJKnW/CNXX.jpg" group-title="CANALES PREMIUM HD",CINEMAX HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lw-WzoN5VWDya41w6ZNwS1PbsO-wfGvtdvWBSwkyRMKE/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhzfYYKJ/UNVPRE.jpg" group-title="CANALES PREMIUM HD",UNIVERSAL PREMIERE HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8LXzTq95nZXBboPJFpI0OPCH9wMVJnO8P0lRd0MFRaE/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpM5xSWZ/NTG.jpg" group-title="CANALES PREMIUM HD",NATGEO HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2RgrLwYOlwP5uYN_pTPaCumzcNcGdMViJQ-n9ty3YFT/m3u8
@@ -252,23 +255,32 @@ https://tls-cl.cdnz.cl/planetatv/live/chunklist_w187229446.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="MUSICALES",ALEGRIA CRISTIANA HD
 https://vdochile.com:3182/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",BATMAN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",BATMAN HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3fwWLmsN0ydoxMuDBSkLTM95ein1cvxgFxRbCj7Whr5/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",BETTY LA FEA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",BETTY LA FEA HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1jVlOu8p8Yc9NFEamF2aGOEYZmdxWWuZNkXfHDxd8Jk/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",DRAGON BALL ZHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",DRAGON BALL ZHD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lwATbm5TwX4kRSTyQo5s0M_38IQrb9jH8BQGKt-Oe1p0/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",LA CASA DE LOS DIBUJOS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",LA CASA DE LOS DIBUJOS HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_98Z6YI6994OGdNk6ifh7cufyxoTXxelA9WSZs8o6ZK/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",CHAVO DEL 8 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",CHAVO DEL 8 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9LUJFKqifP90Pfq0GRkQd38JdoZuy45LeHhsdzTglZs/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",DELTA TV HD
+https://node2.bitstreaming.net:3951/multi_live/play_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",DIGIMON ADVENTURE 1 HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3fwWLmsN0ydoxMuDBSkLTNF2tx-u4MLC0h7GmZJTN6g/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",BOB ESPONJA HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3fwWLmsN0ydoxMuDBSkLTMny2nxFHyZU76ujGsmtOdj/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" group-title="PELICULAS",SUPERMAN HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay1l4GZCwDs7DViCK-PXaIx2UmzZp_bGzAUYvFy9r07NQ#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" group-title="PELICULAS",JURASSIC WORL RENACE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" group-title="PELICULAS",JURASSIC WORLD RENACE HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayLYFWPl9hg4SzK-ORD9uI54SDEFeXu2zWwnOUlC5DaSg#.mp4
