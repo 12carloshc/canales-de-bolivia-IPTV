@@ -88,7 +88,7 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(1gWVHF5IdfTIJEbi0c0t4OSWqp1gsOA1VUdJi
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(CCOq0E5pqosusgfa0UUOdiVOy-MkAnG_CivkQJ-BWXdhYTTz1mMOEetnim1mh457jBHX27-Mh_YDh9108QdHN0iTQGKTY0Zw4p3IvMW79fhZGjiyGEdVoPmesICGHiq0)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(5rZQGzqSsp6Qnj7Faxa6tXeb_wKW7uNnztR8x5ojgtUSqAfeR-qK_kGcMRaNoIGL9kTNDeEY0YrwVFZhXpOT8oYsnVwgDwIyPeTO6KadEUM8ZPQjU-RtUP3RgiMPwXVa)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(iGXVWnewhaubcTzjCOvRVz3oYqm9ZJVZcn0ZfSVtb14hrwazcqMaQZI6E863uZG86-Lnw78SdblAOQtZzVMdZUOdqyBDqBhokVyLbN6KrwTw-P5qjPTaW90GW56v-Qud)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
@@ -164,6 +164,15 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="CANALES PREMIUM HD",ANIME STATION TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgw3Bb3S/aSW2.jpg" group-title="CANALES PREMIUM HD",ADULT SWIM HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2RgrLwYOlwP5uYN_pTPaCtIKij0iDrkAebqXok6Oj1w/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf4gnvVR/Amrk.jpg" group-title="CANALES PREMIUM HD",AMERICA TV HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzTOeAe8UkSdSKna44Q2xcexODs_IPFQcD-N0v4MdfDe/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d5R1HpP/Btm5.jpg" group-title="CANALES PREMIUM HD",BITME HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2w-uuAvySkBX0rvuFqbsVH7ZBk0BARthetuXwew9xE_/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream05/streamPlaylist.m3u8
