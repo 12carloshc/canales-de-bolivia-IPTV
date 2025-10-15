@@ -1,6 +1,7 @@
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.postimg.cc/gjDK2R15/02BOL.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **15 de octubre 2025**.
+- Fecha de actualizacion:  **15 de octubre 2025**
+
 ####Horarios de actualizacion de lista de canales:
 - De lunes a viernes 15:00 p.m y 19:05 p.m
 - La actualizacion de los canales premium se las hace cada 24 o 72 horas.
