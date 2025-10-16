@@ -1,11 +1,13 @@
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
-![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.postimg.cc/gjDK2R15/02BOL.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **15 de octubre 2025**
+![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
+### CANALES DIGITALES DE BOLIVIA 
+![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
+- Fecha de actualizacion:  **16 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 15:00 p.m y 19:05 p.m
 - La actualizacion de los canales premium se las hace cada 24 o 72 horas.
-- **Nota:** para ver los canales de noticias de bolivia red uno, unitel, atb, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el**reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
+- **Nota:** para ver los canales de noticias de bolivia red uno, unitel, atb, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
 
 ### REPRODUCTORES RECOMENDADOS:
 
@@ -20,6 +22,8 @@
 
 **AGREGAR LISTA DE CANALES**
 - Solo copien y peguen estas listas, en los reproductores recomendados:
+
+*lista de canales de bolivia*, *canales en vivo de bolivia*, *canales IPTV de bolivia*
 * **lista A**    https://bit.ly/3SSucwl
 * **lista B**    https://bit.ly/3BXpHcF
 * **lista C "para KODI"**   https://bit.ly/48aacgO
@@ -41,3 +45,7 @@
 
 ![](https://i.ibb.co/dN62PSf/CLOUD01.png)![](https://i.ibb.co/Z6zjQH4f/CLOUD02.png)![](https://i.ibb.co/mrGrBhhR/CLOUD03.png)
 - De preferencia para mejorar su estabilidad de internet tratar de contratar **IP PUBLICA FIJA** en su plan de internet hogar.
+- Contar con una conexion de internet de entre **100 megas a 200 megas**, preferiblemente por fibra optica.
+- Para los canales de la **SECCION PREMIUM & DEPORTES**, configurar el **buffer de red** de su **reproductor IPTV**, entre **98.000 ms a 198.000 ms**, para asegurar una carga de red optima del canal, y configure **la reconexion automatica de red del canal**, si falla la reproduccion del canal en algunos milisegundos.
+
+[![Texto alternativo de la imagen](https://i.ibb.co/6QGgwZw/pgproy.png)](https://www.facebook.com/boliviadigitalhd2023) [![Texto alternativo de la imagen](https://i.ibb.co/Q7JDRF8n/YTscrb.png)](https://youtube.com/@BoliviaDigitalHD)

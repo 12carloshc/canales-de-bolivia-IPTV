@@ -174,6 +174,12 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzTOeAe8UkSdSKna44Q2xcexODs_IPFQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d5R1HpP/Btm5.jpg" group-title="CANALES PREMIUM HD",BITME HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2w-uuAvySkBX0rvuFqbsVH7ZBk0BARthetuXwew9xE_/m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jv7cVmnp/HSess.jpg" group-title="CANALES PREMIUM HD",HISTORY ESPAÑA HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7rLvKORJF7lUdLNNoEXqm5xHZMEZqsA3pWQacjo8RPN/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="CANALES PREMIUM HD",RCN HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0Trip25IXUYKpYLuhE-Y6wUZ2wuUsNz-pfnCARbSjPl/m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream05/streamPlaylist.m3u8
 
