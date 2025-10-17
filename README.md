@@ -2,7 +2,7 @@
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **16 de octubre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **17 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 15:00 p.m y 19:05 p.m
