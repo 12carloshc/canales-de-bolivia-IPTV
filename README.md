@@ -1,13 +1,15 @@
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
+
+![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/mVkpxZLD/02ESTS.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **17 de octubre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **18 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
-- De lunes a viernes 15:00 p.m y 19:05 p.m
+- De lunes a viernes 16:05 p.m y 19:10 p.m
 - La actualizacion de los canales premium se las hace cada 24 o 72 horas.
-- **Nota:** para ver los canales de noticias de bolivia red uno, unitel, atb, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
+- **Nota:** para ver los canales de noticias de bolivia red uno, unitel, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
 
 ### REPRODUCTORES RECOMENDADOS:
 

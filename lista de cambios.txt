@@ -253,7 +253,7 @@ tienen que verlo en la seccion  BOLIVIA VLC con el reproductor VLC.
 ============ Domingo 17 marzo 2024 ==============
 
 -Se agregaron los siguientes locales de bolivia:
-TVA TV, FAP TV, GIGAVISION, TU TV, CORAL TV. IMPERIAL TV.
+TVA TV, FAP TV, GIGAVISION, TU TV, CORAL TV. IMPERIAL TV
 
 -Se agrego los siguientes internacionales:
 TVP television publica argentina, cronica tv.
@@ -286,7 +286,8 @@ pandamax tv anime.
 F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 -Se agrego los canales:  PACEÑISIMA TV HD, RED AMERICA, PALENQUE TV, BNB DIGITAL, CABLE VISION HD.
 -Se corrigio url del canal GARAGE TV.
--Se corrigui enlaces del canal local bolivision bolivia.
+-Se corrigio enlaces del canal local bolivision bolivia.
+
 
 ========= martes 7 mayo 2024 ==============
 
@@ -295,9 +296,9 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 -Se arreglo url de los canales:  paceñisima tv, googo play, TVP argentina, san borja tv.
 -Se agrego el canal de anime clasicos  BIG TV.
 
-========= martes 7 agosto 2024 ==============
+========= miercoles 7 agosto 2024 ==============
 
--Se corrigio y arreglo enlaces y elimino canales offline.
+-Se corrigio enlaces globales y actualizacion y eliminacion de canales offline.
 
 ========= viernes 9 agosto 2024 ==============
 
@@ -307,17 +308,11 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 
 ========= viernes 16 agosto 2024 ==============
 
--Se actualizaron y corrigieron enlaces de los canales de bolivia.
--Se arreglaron enlaces de imagenes.
+-Se actualizaron y arreglaron links de los canales locales de bolivia.
+-Correccion de enlaces de imagenes
 
-========= martes 20 agosto 2024 ==============
-
--Se arreglaron los enlaces de los retromagic y magickids.
--Se agrego en canal nuevo bolivia MIX.
-
-========= viernes 08 septiembre 2024 ==============
-
--Se actualizo lista de canales global y elimino cananles offline.
+========= viernes 08 NOVIEMBRE 2024 ==============
+-Se actualizo lista global y se eliminaron canales offline.
 
 ========= lunes 17 marzo 2025 ==============
 
@@ -330,22 +325,43 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 -Se agregaron y arreglaron los enlaces de: zuraca tv, bolivision hd
 tvu umsa, rtp bolivia, f10 bolivia, solidaria tv, seo tv hd.
 
-========= miercoles 16 abril 2025 ==============
+========= martes 18 abril 2025 ==============
 
--Correccion de url canales de bolivia
-
-========= viernes 18 marzo 2025 ==============
-
--Se agregaron 2 señales para eventos en vivo del canal (FUTBOL CANAL) liga boliviana.
--correccion de enlaces url en general.
+-Se agregaron 2 canales para eventos del canal (futbol canal) liga boliviana.
+-Correccion de errores y actualizacion de url de la lista en general.
 
 ========= domingo 05 octubre 2025 ==============
 
--actualizacion de canales premium beta.
--eliminacion de canales de bolivia offline o con problemas.
+-esta en prueba canales premium lista premium
+-enlaces de lista premium dinamicos
+-se elimino canales de bolivia que no son vistos o que presentan problemas.
 
 ========= miercoles 15 octubre 2025 ==============
 
 -Actualizacion de lista de local.
 -se agrego mas canales premium HD.
 -se agregaron los iconos respectivos a los canales premium.
+
+========= viernes 17 octubre 2025 ==============
+
+-Actualizacion del README con mejor descripcion del proyecto.
+-Mantenimiento de señales de los canales SECCION PREMIUM.
+-Se actualizaron enlaces nuevos de los canales:
+RED GIGAVISION LA PAZ Y SANTA CRUZ, RTP LA PAZ, ABYA YALA TV.
+-Se agregaron nuevos canales:
+AMITEL TV, TELE ESTRELLA HD, UNIVALLE TV, TV OFF.
+-Mantenimiento de lista en general eliminando enlaces de canales OFFLINE.
+
+========= sabado 18 octubre 2025 ==============
+
+-Se agrego los canales locales de bolivia:
+BTV 7.1, BTV 7.2 (SEÑALES PARA ABRIR CON VLC)
+-Se agregaron señales HD y SD de los siguientes canales:
+DW ESPAÑOL, RT NOTICIAS ESPAÑOL.
+-Se agrego la señal internacional:
+EL TORO TV.
+-Correccion de enlaces de algunos canales SECCION PREMIUM HD.
+-Actualizacion de imagenes de SECCION VLC BOLIVIA.
+-Canal BTV 7.1 opcion 02 se agrego señal no 24/7.
+
+
