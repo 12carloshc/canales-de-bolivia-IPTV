@@ -28,7 +28,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/
 https://rtp.noxun.net:444/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8ZJU2733jTPPCBu_aiVjnJZweI737dlrZ7orUnWCeW5/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lwXq9VE-dwGyRbmkBAvi_PfdJbVK_55WzROuVcTja4zt/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/skXKCmW/btv2222s.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(4kbQSbJuVnrOOjRRtmmgw1EbhHqBAGQMxp5xUxKoGkO1NnPHgHJQm3a19ZHYO6EWII0z9r4KTPTFX3QlJN4QWlee8VdJHJaiJB1FhPuKZsneF1Nh24lG97fLwvlC5zbK)/cloud/3/x9nzqpo/d/live-720.m3u8
@@ -329,3 +329,12 @@ http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZth
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" group-title="PELICULAS",JURASSIC WORLD RENACE HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayLYFWPl9hg4SzK-ORD9uI54SDEFeXu2zWwnOUlC5DaSg#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",VHS HALLOWEEN HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayI2apRxvewIQCOJMSRVCTi-_le2TXTGQLB9_43B4oaVU#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",OSCURIDAD TOTAL HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayPIDRheMgHKsUsiRyY5V9l1wLqfVvFPNUh9OR1UPqssY#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",NEZHA 2 EL RENACER DEL ALMA HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay10_C6-D73IR3J39OzXlfM5CZIxK-8cUb22uSbnWRgCs#.mp4

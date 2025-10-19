@@ -1,7 +1,7 @@
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
 
-![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/mVkpxZLD/02ESTS.png)
+![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
 - Fecha de actualizacion:  **19 de octubre 2025** canales en vivo de bolivia
@@ -20,7 +20,7 @@
 
 ![](https://i.postimg.cc/52nt1mp0/04REPR.png)![](https://i.postimg.cc/HL66CjrZ/05REPR.png)![](https://i.postimg.cc/TwC4kpcm/03REPR.png)
 
--X Player pro, MX player pro, Reproductor VLC.
+- X Player premium, MX player pro, Reproductor VLC.
 
 **AGREGAR LISTA DE CANALES**
 - Solo copien y peguen estas listas, en los reproductores recomendados:
@@ -35,6 +35,7 @@
 
 - LOS FINES DE SEMANA NO SE ACTUALIZA LAS LISTAS, **SALVO LOS CANALES PREMIUM**. el tiempo de actualizacion de los canales premium hd es de **24 a 48 horas**.
 - Los canales de la **SECCION PREMIUM Y DEPORTES Y 24/7** no son señales fijas, y pueden cambiar o ser eliminadas sin previo aviso.
+- **La guia EPG de canales esta offline desde 2023**, por que representa mucho trabajo de actualizacion.
 - cualquier reporte de canales offline o problemas con los reproductores recomendados, escribir al correo de contacto:   web.empresa.carlos@gmail.com
 
 ### RECOMENDACIONES TECNICAS
