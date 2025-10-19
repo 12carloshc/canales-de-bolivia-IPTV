@@ -38,6 +38,13 @@
 - **La guia EPG de canales esta offline desde 2023**, por que representa mucho trabajo de actualizacion.
 - cualquier reporte de canales offline o problemas con los reproductores recomendados, escribir al correo de contacto:   web.empresa.carlos@gmail.com
 
+![](https://i.ibb.co/4njGsBjS/notIMPRT.png)
+- **LOS CANALES DE LA SECCION PREMIUM HD & DEPORTES**, en ciertos horarios llegan a saturarse por lo cual no estaran disponibles en horarios pico:
+  **de lunes a viernes 17:00 p.m en adelante**, **sabado y domingo todo el dia** por que es el horario donde mas se satura los servidores externos.
+- Debido a que los enlaces son dinamicos de estos canales, cualquier momento podran estar offline sin previo aviso, y se los actualizara en lo posible, entre 24 a 72 horas.
+- Los canales de estas seccion no son fijos, y podran ser **eliminados o reemplazadas sus señales sin previo aviso**.
+- Debido al trabajo moroso de actualizacion de estas señales, se esta viendo acortar el numero de canales de estas secciones a maximo de 6.
+
 ### RECOMENDACIONES TECNICAS
 
 - Para mantener una conexion estable, es recomendable que usen en lo posible **conexion directa por cable de red lan**.
