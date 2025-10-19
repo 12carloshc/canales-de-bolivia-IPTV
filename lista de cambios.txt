@@ -364,4 +364,11 @@ EL TORO TV.
 -Actualizacion de imagenes de SECCION VLC BOLIVIA.
 -Canal BTV 7.1 opcion 02 se agrego señal no 24/7.
 
+========= domingo 19 octubre 2025 ==============
+
+-Actualizacion de señales PREMIUM HD & DEPORTES HD & 24/7
+-Correccion de enlaces global.
+-Eliminacion de señales offline o con problemas.
+-Canal RTP DE BOLIVIA presenta aun problemas de origen.
+
 

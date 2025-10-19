@@ -4,7 +4,7 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/mVkpxZLD/02ESTS.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **18 de octubre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **19 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:05 p.m y 19:10 p.m
@@ -33,7 +33,8 @@
 **NOTAS IMPORTANTES:**
 * los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.
 
-- LOS FINES DE SEMANA NO SE ACTUALIZA LAS LISTAS, **SALVO LOS CANALES PREMIUM**.
+- LOS FINES DE SEMANA NO SE ACTUALIZA LAS LISTAS, **SALVO LOS CANALES PREMIUM**. el tiempo de actualizacion de los canales premium hd es de **24 a 48 horas**.
+- Los canales de la **SECCION PREMIUM Y DEPORTES Y 24/7** no son señales fijas, y pueden cambiar o ser eliminadas sin previo aviso.
 - cualquier reporte de canales offline o problemas con los reproductores recomendados, escribir al correo de contacto:   web.empresa.carlos@gmail.com
 
 ### RECOMENDACIONES TECNICAS
