@@ -371,4 +371,11 @@ EL TORO TV.
 -Eliminacion de señales offline o con problemas.
 -Canal RTP DE BOLIVIA presenta aun problemas de origen.
 
+========= jueves 23 octubre 2025 ==============
+
+-Actualizacion global correccion de enlaces seccion premium hd y deportes.
+-Correccion enlaces canales nacionales de bolivia:
+  RTP LA PAZ, RED UNO SANTA CRUZ, F10 EL ALTO, SEO TV, TV OFF, ABYA YALA TV.
+-Correccion de images y iconos.
+
 
