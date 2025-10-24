@@ -12,7 +12,7 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lwXq9VE-dwGyRbmkBAvi_PfjwFxSiPkPxc1i-XOlYu_l/m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UPEA TV" tvg-logo="https://play-lh.googleusercontent.com/OMVFH1RWMUSMbTKjjiibXZ7FV3SRxzouZ8dDzXgr9gtNLbPBNsTJUdaIeWclM6GlL-mH=w240-h480-rw" group-title="CANALES DE BOLIVIA",UPEA TV
+#EXTINF:-1 tvg-id="UPEA BOLIVIA" tvg-name="UPEA TV" tvg-logo="https://play-lh.googleusercontent.com/OMVFH1RWMUSMbTKjjiibXZ7FV3SRxzouZ8dDzXgr9gtNLbPBNsTJUdaIeWclM6GlL-mH=w240-h480-rw" group-title="CANALES DE BOLIVIA",UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
@@ -24,10 +24,10 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CEACOM" tvg-logo="https://ceacomtv.com/images/ceacom/logos/Logo%20CEACOM%2002%20icon.png" group-title="CANALES DE BOLIVIA",CEACOM
+#EXTINF:-1 tvg-id="CEACOM BOLIVIA" tvg-name="CEACOM" tvg-logo="https://ceacomtv.com/images/ceacom/logos/Logo%20CEACOM%2002%20icon.png" group-title="CANALES DE BOLIVIA",CEACOM
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOS TV" tvg-logo="https://i.imgur.com/ZyJsbCb.png" group-title="CANALES DE BOLIVIA",VOS TV
+#EXTINF:-1 tvg-id="VOSTV BOLIVIA" tvg-name="VOS TV" tvg-logo="https://i.imgur.com/ZyJsbCb.png" group-title="CANALES DE BOLIVIA",VOS TV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1672980983.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
