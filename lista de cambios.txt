@@ -1,4 +1,9 @@
+****************************************************
+-------     CANALES DE BOLIVIA EN VIVO  ----------
 >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
+-------------     LISTA DE CAMBIOS  --------------
+====================================================
+
     =====sabado 08 de octubre 2022===========
 - Actualizacion de host de imagenes
 - Correccion sintaxis de enlaces.
@@ -377,5 +382,16 @@ EL TORO TV.
 -Correccion enlaces canales nacionales de bolivia:
   RTP LA PAZ, RED UNO SANTA CRUZ, F10 EL ALTO, SEO TV, TV OFF, ABYA YALA TV.
 -Correccion de images y iconos.
+
+========= viernes 24 octubre 2025 ==============
+
+-Se agrego los canales nacionales de la seccion bolivia:
+ RED CCTV, UPEA TELEVISION,  CORAL TV, CEACOM TV, BOLIVIA MIX.
+-Correccion de enlaces globales en general.
+-Reparacion de enlaces canales premium:
+ Anime station,
+-Se agrego los siguientes canales premium:
+ cartooncito hd, dragon ball z, big clasico, retromagico.
+-Se elimino algunos canales de la SECCION PREMIUM HD por que sus señales no eran estables.
 
 
