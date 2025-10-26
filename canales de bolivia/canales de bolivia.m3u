@@ -31,7 +31,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lwXq9VE-dwGyRbmkBAvi_PfdJbVK_55WzROuVcTja4zt/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/skXKCmW/btv2222s.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(QxwARSn-ZRfvgspX5saiSgmXaA4kZOiAPt8EhBiMv4yEOME2jOS59uKUkOBdIuloHcbR9j7hEDmja1eQ41L_lWq9dGOlIHNHYpUSSiJFpTfA7Rq5fSraeG64NFBHQ95G)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(IUfb9-8liSWya2mv8wMrw4WsruIzQsZqARcU0gVpAHhwsJ2T0l6FblvJHTmUOECOgqyDDSUc18DkwGFwSScamcRwtr38ehAg7_zce0p-VgdwkkGbDxiZ_gimfU8CaeO4)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
@@ -121,7 +121,7 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(BrGkk75ZFYclIXdPW83wI-_Kl6_tbmonjwjwq
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(_kAZjuIu2a97fY-kbBsVVmZNvCz6StjwRmnIqidl2jBWPTMkMPYJ-KjfRDCJl-SgZNohB0UsxlLODm45wvBJSSxk-e1tFIZyz2KL-Uw8-JddPV1EmidVHF8zxaoDyQyl)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(MXvYso5ImmkAsTXKoZ2VNgg2AHT1g5qAyIoujRLDutIQijJJTp3I8mCaenQjeRHqoj_-fAh80y7nZqCl123kEYMB6N7tauh9jMOW-PRwahFKvsnR7z8PeH0Wl9JD3ecO)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(5oWOnc2mUH63flmwP1b9qZK6CPNEm6ln17blnd6AhoyvPSrxvw7sCLlwswAKkbsTF-yh12CshXn2OlfVmCXnHaqLzctMudQAeoVujHxcB6DVxQx5dDqOJj6QVtm47kcV)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
@@ -348,17 +348,20 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",HUNTER X HUNTER 1999 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l16imYlP7P4YvJ4o0BSsLoideP1sIo0Rze-220uP29lX/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" group-title="PELICULAS",SUPERMAN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" tvg-name="SUPER MAN 2025" tvg-type="movies" group-title="Movies: 2025",SUPER MAN (2025)
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay1l4GZCwDs7DViCK-PXaIx2UmzZp_bGzAUYvFy9r07NQ#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" group-title="PELICULAS",JURASSIC WORLD RENACE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" tvg-name="JURASSIC WORLD RENACE" tvg-type="movies" group-title="Movies: 2025",JURASSIC WORLD RENACE (2025)
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayLYFWPl9hg4SzK-ORD9uI54SDEFeXu2zWwnOUlC5DaSg#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",VHS HALLOWEEN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" tvg-name="VHS HALLOWEEN" tvg-type="movies" group-title="Movies: 2025",VHS HALLOWEEN HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayI2apRxvewIQCOJMSRVCTi-_le2TXTGQLB9_43B4oaVU#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",OSCURIDAD TOTAL HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/01/oscuridadtotal.png" tvg-name="OSCURIDAD TOTAL" tvg-type="movies" group-title="Movies: 2025",OSCURIDAD TOTAL HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayPIDRheMgHKsUsiRyY5V9l1wLqfVvFPNUh9OR1UPqssY#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",NEZHA 2 EL RENACER DEL ALMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" tvg-name="NEZHA 2 EL RENACER DEL ALMA" tvg-type="movies" group-title="Movies: 2025",NEZHA 2 EL RENACER DEL ALMA HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay10_C6-D73IR3J39OzXlfM5CZIxK-8cUb22uSbnWRgCs#.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/spider_man_2_spiderman_2-876729560-large.jpg" tvg-name="SPIDER MAN 2" tvg-type="movies" group-title="Movies: 2025",SPIDER MAN 2 HD
+http://144.217.70.79/VODS-M/1080P/Spider-Man%202%202004.mkv
