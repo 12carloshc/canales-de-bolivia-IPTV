@@ -394,4 +394,9 @@ EL TORO TV.
  cartooncito hd, dragon ball z, big clasico, retromagico.
 -Se elimino algunos canales de la SECCION PREMIUM HD por que sus señales no eran estables.
 
+========= martes 28 octubre 2025 ==============
+
+-Actualizacion de enlaces globales.
+-Migracion de listas de GITHUB a GITLAB, para corregir fallas de carga en general.
+
 

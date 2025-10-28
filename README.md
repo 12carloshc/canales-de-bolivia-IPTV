@@ -4,7 +4,7 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **25 de octubre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **28 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:05 p.m y 19:10 p.m
@@ -22,13 +22,13 @@
 
 - X Player premium, MX player pro, Reproductor VLC.
 
-**AGREGAR LISTA DE CANALES**
+**AGREGAR NUEVA LISTA DE CANALES**
 - Solo copien y peguen estas listas, en los reproductores recomendados:
 
 *lista de canales de bolivia*, *canales en vivo de bolivia*, *canales IPTV de bolivia*
-* **lista A**    https://bit.ly/3SSucwl
-* **lista B**    https://bit.ly/3BXpHcF
-* **lista C "para KODI"**   https://bit.ly/48aacgO
+* **lista A**    https://bit.ly/4oG0YQP
+* **lista B**    https://bit.ly/47x5HNH
+* **lista C "para KODI"**   PENDIENTE X
 
 **NOTAS IMPORTANTES:**
 * los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.
