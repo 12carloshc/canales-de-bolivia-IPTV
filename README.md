@@ -1,10 +1,16 @@
+![](https://i.postimg.cc/pXbmBzqC/gitlabnews01.png)
+- Cambio de hots a **GITLAB**, por que github empezo a limitar las consultas a sus repositorios y la lista no carga da error, asi que se actualizo al hots ya mencionado
+- **LISTA ACTUAL**:
+- **Url Lista A**: https://bit.ly/4oG0YQP
+- **Url lista B**: https://bit.ly/47x5HNH
+- **Nota**: las anteriores listas solo se actualizaran hasta el viernes 31 oct 2025, y despues estaran offline, asi que agregen las nuevas listas.
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
 
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **28 de octubre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **29 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:05 p.m y 19:10 p.m

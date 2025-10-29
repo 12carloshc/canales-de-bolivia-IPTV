@@ -399,4 +399,16 @@ EL TORO TV.
 -Actualizacion de enlaces globales.
 -Migracion de listas de GITHUB a GITLAB, para corregir fallas de carga en general.
 
+========= Miercoles 29 octubre 2025 ==============
+
+-Actualizacion de seccion peliculas VOD.
+ SUPERMAN 2025, JURASSIC PARK 2025, SPIDER MAN COLECCION, STAR WARS COLECCION, SUPER MAN 1 CLASICO
+ FORMULA 1 2025, MHEZA 2, VOLVER AL FUTURO COLECCION, ETC.
+ 13 PELICULAS AGREGADAS EN TOTAL.
+
+-Se termino de alojar las listas en el nuevo host GITLAB para solucionar el problema
+ de error de peticiones al cargar las listas.
+-Correccion de imagenes de las peliculas seccion vod.
+-optimizando lista para que consuma menos recursos cuando se aga peticiones remotas para las listas.
+
 

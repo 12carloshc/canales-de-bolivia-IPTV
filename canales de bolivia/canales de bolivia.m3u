@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WObVqrNrg0PW8uhZwgntbfA/m3u8
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WOQgCvlp5fuOBLjG63kaFVA/m3u8
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(s8QZL7bCsiBLGnEZgWtzJwDj1chrydOXNHtiycWXjxuofFWunAiauRP3TpmwpjT12vGbLz5t5939eXQWiHh1Akt0kvJcR1bczswGwIds8bpoMJv0qc4WRPMO5c58tfNO)/dm/3/x9n2qyk/d/live-720.m3u8
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="CANALES DE BOLIVIA",RED UNO HD
+https://live.eu-north-1a.cf.dmcdn.net/sec2(3o-yvEotl72cVcnW_kQWcXr_6jhOdD0jDrgahwTedZeJ3z_-YbgQNzE-hhfHAgGg34Vfu9thwwXQ0lnZEVIFCdkr8CwVFRUM2QR9_DygImt2v7rDklJKT3R9J6EsfJXN)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
@@ -34,7 +34,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WP67-NgxJDPwDeOoMqxrSgk/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/skXKCmW/btv2222s.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(MpJMUWarRQV65L-73kLPTzYy6_rjN_aWazH08isL-sEdFn2GiiVQFBu0LjL0B2RSIg9qxJbKsEjW2F6xlMrd7hIrIuhuC_C1jeIlDJCyqv_hcX317kwjd6YQLBN9L7uP)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ds3KVtKzNZ0E1_ouI8S4bWuvy_KrwDwX2VyR81mWh5wyvm17PcJhSlXRovt_5MKU1BghJIAsWOhV-V6WuQ7y9bYeQvdm2-f0qdjcExE2K7YV-BfjJl2cLU4NYjOAMLe6)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
@@ -115,16 +115,16 @@ https://ares.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w1012913686.m3u8
 https://live20.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO LPZ HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(fgb-N8rN0JRbcco6gUCJtuPBMrLXPDvTcRpVU9S3lHIuArPkZHmwBNzSmIPnm547a2mIqrjoD_vbttejy0Ao3R6phb5ubE5dWcEUyFkzdKk_lVx-zYod6N0H65VXIEAp)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(3o-yvEotl72cVcnW_kQWcXr_6jhOdD0jDrgahwTedZeJ3z_-YbgQNzE-hhfHAgGg34Vfu9thwwXQ0lnZEVIFCdkr8CwVFRUM2QR9_DygImt2v7rDklJKT3R9J6EsfJXN)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO SCZ HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uljcRvK734_q_bsJm9tCo9K15pcBIDYB3KyDlAGgUefPXm-quQkydchbl3irYpVq0oThQyI1zVqqZaEIQz4BzxRKBf8F_PUf2CnfhxBgI2tH01iD4Vr_kLSohWHTR2io)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(OxaZIJc4OabIFdhjwnpQhle-fvdGxn4VnKqw1v504p-VICUM8AOPBTX9sFEM_9hJFcd7ekK_M8u6TlODk1nxEClx81k_gNzGfTyrUe7Nzgz6SP6mDYhuEHVD_cU6UhFE)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(2PzYKe9dzXUyGsQ2pOJ1IVnZW97p--Axit4qjv7LJpmd1qpMOSx4FtOlVFStKJcc1XgVnapFXz6GfMsBLBXu51qrfLrcHO1x0k8aT8R29hBbHlB_FjciSn6ZEdm6fsO2)/cloud/3/x7wzxiw/s/live-1080.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZiRM2UYWQN5wVrO99kcdoQ_OZZOt5mokBM_DEfdhT1EPlOh4ECsmw5EDMBZW5qGbj2amvQxWU8XValyQAw3UbWcn2PMO7CsXHIOpNsz4zDtXQngJZOAt3RugYlTU-Ct0)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(BPoMlPegQ3qpfZ0lAmX5wDR5wByQSIz98gI1Z1Yjm3Ps9gPYPT__PqaJ22DfdlFlxAQIHR9mh35QkaY115lkXpL4MeuWG8OY4nPx2aMrjoMipHbSnPpIApA92dMwdrdN)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(AykI8tIkvTvmDpmlFP8qGo61KCtIhmiWsJn1ngr34Vw_o5P7elqBf4K_JosIxOEXWLciQfxO_gioOnEGeQqdHvRTLayP5-1qA36hxhVSf5s7C42tUi5w-xNk9JHC3EZA)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
@@ -331,7 +331,7 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l92a78zsKT5RXDwC5Ye8ulPuG9l-Kq1p
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1Vbll27yvLRxXi39zwYtv6aTuO_D1tZ8bCAMSPh4dZD/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",LA CASA DE LOS DIBUJOS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-8TmyDtFbQItQzOj4JN3q02CDwzTey3MA8GEkgbbMc8/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1Vbll27yvLRxXi39zwYtv6mX651FcOYVjNO1C9gzE56/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",BEYBLADE HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l92a78zsKT5RXDwC5Ye8ulOPZ8V0pzri_eJfVcdaoBY8/m3u8
@@ -348,23 +348,56 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",HUNTER X HUNTER 1999 HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1PQR4LNh9piIh4Ea3yhMGHHz1NTCRuKIsHY7aVXPm0x/m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",PATO AVENTURAS HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1Vbll27yvLRxXi39zwYtv78NlEJektKq7sFC32EHpI3/m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" tvg-name="SUPER MAN 2025" tvg-type="movies" group-title="Movies: 2025",SUPER MAN (2025)
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay1l4GZCwDs7DViCK-PXaIx2UmzZp_bGzAUYvFy9r07NQ#.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" tvg-name="JURASSIC WORLD RENACE" tvg-type="movies" group-title="Movies: 2025",JURASSIC WORLD RENACE (2025)
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayLYFWPl9hg4SzK-ORD9uI54SDEFeXu2zWwnOUlC5DaSg#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" tvg-name="VHS HALLOWEEN" tvg-type="movies" group-title="Movies: 2025",VHS HALLOWEEN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wxCMvfd/vhsHa11.jpg" tvg-name="VHS HALLOWEEN" tvg-type="movies" group-title="Movies: 2025",VHS HALLOWEEN HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayI2apRxvewIQCOJMSRVCTi-_le2TXTGQLB9_43B4oaVU#.mp4
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/01/oscuridadtotal.png" tvg-name="OSCURIDAD TOTAL" tvg-type="movies" group-title="Movies: 2025",OSCURIDAD TOTAL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nFpt6g1/OscTT.jpg" tvg-name="OSCURIDAD TOTAL" tvg-type="movies" group-title="Movies: 2025",OSCURIDAD TOTAL HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayPIDRheMgHKsUsiRyY5V9l1wLqfVvFPNUh9OR1UPqssY#.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" tvg-name="NEZHA 2 EL RENACER DEL ALMA" tvg-type="movies" group-title="Movies: 2025",NEZHA 2 EL RENACER DEL ALMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMYb5VCp/NZa2.jpg" tvg-name="NEZHA 2 EL RENACER DEL ALMA" tvg-type="movies" group-title="Movies: 2025",NEZHA 2 EL RENACER DEL ALMA HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay10_C6-D73IR3J39OzXlfM5CZIxK-8cUb22uSbnWRgCs#.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/spider_man_2_spiderman_2-876729560-large.jpg" tvg-name="SPIDER MAN 2" tvg-type="movies" group-title="Movies: 2025",SPIDER MAN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRpxwb1W/SPm02aAA.jpg" tvg-name="SPIDER MAN 1" tvg-type="movies" group-title="Movies: 2025",SPIDER MAN 1 HD
+https://habetar.com/stream/eblt7wTLQYyW_8XTtulGmg/kjhhiuahiuhgihdf/1761746949/9406116/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFjmjbt6/SPm01.jpg" tvg-name="SPIDER MAN 2" tvg-type="movies" group-title="Movies: 2025",SPIDER MAN 2 HD
 http://144.217.70.79/VODS-M/1080P/Spider-Man%202%202004.mkv
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/spider_man_2_spiderman_2-876729560-large.jpg" tvg-name="STAR WARS 2" tvg-type="movies" group-title="Movies: 2025",STAR WARS EL ATAQUE DE LOS CLONES HD
+EXTINF:-1 tvg-logo="https://i.ibb.co/0wMn4Vb/SPm03a.jpg" tvg-name="SPIDER MAN 3" tvg-type="movies" group-title="Movies: 2025",SPIDER MAN 3 HD
+https://habetar.com/stream/xFNackrH8yVCUphnQmd8eQ/kjhhiuahiuhgihdf/1761747697/19537734/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qvxk47wf/SWAtck01.jpg" tvg-name="STAR WARS 1" tvg-type="movies" group-title="Movies: 2025",STAR WARS LA AMEMAZA FANTASMA HD
+https://habetar.com/stream/-1hk5Mbe3Gdf-ZCpUd2G5Q/kjhhiuahiuhgihdf/1761749003/330580/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4pcsf6R/SWAtck02.jpg" tvg-name="STAR WARS 2" tvg-type="movies" group-title="Movies: 2025",STAR WARS EL ATAQUE DE LOS CLONES HD
 http://144.217.70.79/VODS-M/1080P/Star%20Wars%20Episode%202%20Attack%20of%20the%20Clones%202002.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RSh88Th/SWAtck03.jpg" tvg-name="STAR WARS 3" tvg-type="movies" group-title="Movies: 2025",STAR WARS LA VENGANZA DE LOS SITH
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay7tbk5eeYv3xVDcI5qJst4KejiWkVQUQoo6YedITnU-s#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tLnZ2LT/Sman01.jpg" tvg-name="SUPER MAN 1" tvg-type="movies" group-title="Movies: 2025",SUPER MAN 1 HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayDnrDW5wSjAKBLyNMqJ8O95_UEfMDuG9Wv6iRAqS9WyI#.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3zR0BDY/f1m.jpg" tvg-name="FORMULA 1" tvg-type="movies" group-title="Movies: 2025",FORMULA 1 HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayTylK_EpfbmmOqodgOCv22UtCZY6DNbIocrl55VPdbS4#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wFWSpn9W/Vf01.jpg" tvg-name="VOLVER AL FUTURO 1" tvg-type="movies" group-title="Movies: 2025",VOLVER AL FUTURO 1 HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayv2T7LYl4Hs-9nkitoB7xd5R0o7rox44Sc_wtmkKZtDY#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RJDrPvz/Vf02.jpg" tvg-name="VOLVER AL FUTURO 2" tvg-type="movies" group-title="Movies: 2025",VOLVER AL FUTURO 2 HD
+https://habetar.com/stream/hDcsUxniBB9XIvvmdOY_QA/kjhhiuahiuhgihdf/1761750856/13965379/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLMVKHFh/Vf03.jpg" tvg-name="VOLVER AL FUTURO 3" tvg-type="movies" group-title="Movies: 2025",VOLVER AL FUTURO 3 HD
+https://habetar.com/stream/QBXw-Ld0Af3oX8j4MgkcPg/kjhhiuahiuhgihdf/1761751420/13964499/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4rvpGQY/JrssP01.jpg" tvg-name="JURASSIC PARK 1" tvg-type="movies" group-title="Movies: 2025",JURASSIC PARK 1 HD
+https://habetar.com/stream/KBYGmgjjzsWQFiEMKqyINg/kjhhiuahiuhgihdf/1761752631/13345044/master.m3u8
