@@ -1,8 +1,9 @@
-![](https://i.postimg.cc/pXbmBzqC/gitlabnews01.png)
-- Cambio de hots a **GITLAB**, por que github empezo a limitar las consultas a sus repositorios y la lista no carga da error, asi que se actualizo al hots ya mencionado
+![](https://i.postimg.cc/jjdH7GSq/PASTEbgitlab.png)
+- Cambio de host a **GITLAB** y **PASTEBIN**, por que github empezo a limitar las consultas a sus repositorios y la lista no carga da error, asi que se actualizo al hots ya mencionado
 - **LISTA ACTUAL**:
-- **Url Lista A**: https://bit.ly/4oG0YQP
-- **Url lista B**: https://bit.ly/47x5HNH
+- ![](https://i.postimg.cc/pVQwWF4s/GLBplay.png)**Url Lista A**: https://bit.ly/4oG0YQP
+- ![](https://i.postimg.cc/pVQwWF4s/GLBplay.png)**Url lista B**: https://bit.ly/47x5HNH
+- ![](https://i.postimg.cc/jjLTCSP5/PBplay.png)**Url lista C Para Kodi**: https://bit.ly/3LhPVic
 - **Nota**: las anteriores listas solo se actualizaran hasta el viernes 31 oct 2025, y despues estaran offline, asi que agregen las nuevas listas.
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
@@ -34,7 +35,7 @@
 *lista de canales de bolivia*, *canales en vivo de bolivia*, *canales IPTV de bolivia*
 * **lista A**    https://bit.ly/4oG0YQP
 * **lista B**    https://bit.ly/47x5HNH
-* **lista C "para KODI"**   PENDIENTE X
+* **lista C "para KODI"**  https://bit.ly/3LhPVic
 
 **NOTAS IMPORTANTES:**
 * los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.

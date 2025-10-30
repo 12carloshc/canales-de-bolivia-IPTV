@@ -411,4 +411,10 @@ EL TORO TV.
 -Correccion de imagenes de las peliculas seccion vod.
 -optimizando lista para que consuma menos recursos cuando se aga peticiones remotas para las listas.
 
+========= Jueves 30 octubre 2025 ==============
+
+-Agregado enlace de PASTEBIN para lista para KODI.
+-Correccion de enlaces premium.
+-actualizacion de canales nacionales en general.
+
 
