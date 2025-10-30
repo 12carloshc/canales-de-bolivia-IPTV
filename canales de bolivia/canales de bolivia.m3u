@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WObVqrNrg0PW8uhZwgntbfA/m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
@@ -34,7 +34,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WP67-NgxJDPwDeOoMqxrSgk/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/skXKCmW/btv2222s.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(QqSSlb9QuIYTiXUibIzBXTAmt8TLEdQHOufCw8P_sqtL3XRMM4LNEYcrKDQ2R28xLTjjCUXQbpt0nIuBZFxbG5tEro7vSyYyMZNdkQt0_DoaYbizfaO99jIRcTsUNpNu)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(M7PVf9k-8Qwn4_YU_bwcxDGGfGQspd0YnkcebhEkiSZxIi64MWuRtnVwoTffAeT-wcfpkVEtyF0jAv5mQ8FLpyXZHpBzsvxYdYg5mNYcdsqHqgtP8johAasc684B-_H6)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
@@ -93,6 +93,9 @@ https://seo.tv.bo/hls/SEO_-TVx1.m3u8
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 
+#EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY 02 HD
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="CANALES DE BOLIVIA",ABYA YALA TV HD
 https://seo.tv.bo/hls/ABYAx.m3u8
 
@@ -125,7 +128,7 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(-V-Zp9sLMD_mPtfn41m5H_bWIFqL3a-QRM9G4
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(2ZXy_2SVeZrCfWntsyhqmUlYrcZNDBoXRSrRUhRQ34c5xPPsB62XfvVnOx58vC-6F2kTonRaYA3c4POpbB7_nmRNhg7_-Wq8kApIFsBJPhjr2FuJSvaTeHnmTOcsbJx9)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(BqsJ0ttt3qf7QUkXPY4PONAYw_kBVXeZEBFnOGht_7Uu_mMHM4_rI3iEdl5vjpBYrkORdhuw7kKVs1m4OX43SDblxbsEB0DOzHh9kfWxTLGPlU3AjUoczQDvac_tnT7s)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(SXk3l6NUGRt4X9y0nyF3m3mQbcL6T_QHCtiLdToX_vNbwRJ1lTzbhdFPDafo5hu5QLEF7EqyF0cMuEfZU27ZfhEH6G9rUlMjE4XDPMta6G9kL_mxZoAUuOXPf-R3gp0a)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
@@ -204,6 +207,9 @@ https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgw3Bb3S/aSW2.jpg" group-title="CANALES PREMIUM HD",ADULT SWIM HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0GvRjhcAf1AMCJiQ8uwEgdPCxc7zynx3hS9KdV5J5h8/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="CANALES PREMIUM",MAGICKIDS TV HD
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf4gnvVR/Amrk.jpg" group-title="CANALES PREMIUM HD",AMERICA TV HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzPawX5FdZwtl0tSiHTfEWffHYpIkr6dp68fGWH2dQQZ/m3u8
@@ -351,6 +357,9 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1PQR4LNh9piIh4Ea3yhMGHHz1NTCRuK
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",PATO AVENTURAS HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1Vbll27yvLRxXi39zwYtv78NlEJektKq7sFC32EHpI3/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",VARIED TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" tvg-name="SUPER MAN 2025" tvg-type="movies" group-title="Movies: 2025",SUPER MAN (2025)
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay1l4GZCwDs7DViCK-PXaIx2UmzZp_bGzAUYvFy9r07NQ#.mp4
