@@ -164,10 +164,13 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l68g5QWgEs65ZglrovShWjh3mPt7LCoi
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzFShqBVqmGH60X6yrQLOhIAomJbN19GEmUxwWDjeIgq/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnfcVP9J/GLD1.jpg" group-title="CANALES PREMIUM HD",GOLDEN HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXyh3DeRQRxGKm44dan0kOBG/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXypsNjbxotgaWaYCzpfqC9M/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5yZvqk/HYST.jpg" group-title="CANALES PREMIUM HD",HISTORY HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l68g5QWgEs65ZglrovShWjgjTmtzwdrrtoCNlUr0SSKT/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2Pwkp8k/a-e.jpg" group-title="CANALES PREMIUM HD",A&E HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXzSbK_Zr0iUz9Y3vpE480uC/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvQjCpb9/a-Xn1.jpg" group-title="CANALES PREMIUM HD",AXN HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXx6vhd2-PjJk1NTvR_2dExQ/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwYJJKnW/CNXX.jpg" group-title="CANALES PREMIUM HD",CINEMAX HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXzoMwdDKvxMXOtSMfXOEWjl/m3u8
@@ -181,8 +184,8 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0GvRjhcAf1AMCJiQ8uwEgfAwKi0scz1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N06ttgfQ/DRKTRR.jpg" group-title="CANALES PREMIUM HD",DARK HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzFShqBVqmGH60X6yrQLOhI-cATSeylApYu26LFbKqhP/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NNtj0zQ/CSM.jpg" group-title="CANALES PREMIUM HD",COSMO HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzFShqBVqmGH60X6yrQLOhJeIYFwBovymqC46fugjoqh/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y88LMgB8/f-art-1.jpg" group-title="CANALES PREMIUM HD",FILM&ARTS HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXw0pDmJ7my_vrTbbNPCXPol/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CKpHs1/cmc.jpg" group-title="CANALES PREMIUM HD",COMEDY CENTRAL HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0GvRjhcAf1AMCJiQ8uwEgfrNEvsAa-Xh0DqbaqWROKT/m3u8
@@ -205,8 +208,14 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2CqRXKR/Crtoonc11.jpg" group-title="CANALES PREMIUM HD",CARTOONCITO HD
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgw3Bb3S/aSW2.jpg" group-title="CANALES PREMIUM HD",ADULT SWIM HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0GvRjhcAf1AMCJiQ8uwEgdPCxc7zynx3hS9KdV5J5h8/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgw3Bb3S/aSW2.jpg" group-title="CANALES PREMIUM HD",M+ ACCION HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6GGTByZooaGhrsyTcQ6gEfSWkP_ZMfZYcUYfjad3azI/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgw3Bb3S/aSW2.jpg" group-title="CANALES PREMIUM HD",M+ DOCUMENTALES HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6GGTByZooaGhrsyTcQ6gEdTblHDrrNFsAz58TZuEg60/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hj2LbMzb/Tnt-Se01.jpg" group-title="CANALES PREMIUM HD",TNT SERIES HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8VTw1FVNYF5V4C6sZp-uXx31FUu6fwf05mxkjE86-di/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="CANALES PREMIUM HD",MAGICKIDS TV HD
 https://magicstream.ddns.net/magicstream/stream.m3u8

@@ -418,4 +418,10 @@ EL TORO TV.
 -actualizacion de canales nacionales en general.
 -Mantemimiento de todos los enlaces en general.
 
+========= Viernes 31 octubre 2025 ==============
+
+-Se elimino algunos canales de la seccion premium que estan offline y se agrego otros.
+-Se agrego las imagenes respectivas de los nuevos canales premium HD.
+-Correccion de enlaces de los canales de bolivia.
+
 
