@@ -1,9 +1,9 @@
 ![](https://i.postimg.cc/jjdH7GSq/PASTEbgitlab.png)
 - Cambio de host a **GITLAB** y **PASTEBIN**, por que github empezo a limitar las consultas a sus repositorios y la lista no carga da error, asi que se actualizo al hots ya mencionado
 - **LISTA ACTUAL**:
-- ![](https://i.postimg.cc/pVQwWF4s/GLBplay.png)**Url Lista A**: https://bit.ly/4oG0YQP
-- ![](https://i.postimg.cc/pVQwWF4s/GLBplay.png)**Url lista B**: https://bit.ly/47x5HNH
-- ![](https://i.postimg.cc/jjLTCSP5/PBplay.png)**Url lista C Para Kodi**: https://bit.ly/3LhPVic
+- <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url Lista A**: https://bit.ly/4oG0YQP
+- <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url lista B**: https://bit.ly/47x5HNH
+- <img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="25"/> **Url lista C Para Kodi**: https://bit.ly/3LhPVic
 - **Nota**: al parecer los enlaces **originales de GITHUB**, ya volvieron a funcionar asi que aun se mantendran actualizados.
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
@@ -11,7 +11,7 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **30 de octubre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **31 de octubre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:05 p.m y 19:10 p.m
@@ -33,14 +33,59 @@
 - Solo copien y peguen estas listas, en los reproductores recomendados:
 
 *lista de canales de bolivia*, *canales en vivo de bolivia*, *canales IPTV de bolivia*
-* **lista A**    https://bit.ly/4oG0YQP
-* **lista B**    https://bit.ly/47x5HNH
-* **lista C "para KODI"**  https://bit.ly/3LhPVic
-
-* ![](https://i.postimg.cc/rpBvjp1h/git-Aico.png)**lista a1**   https://bit.ly/3SSucwl 
-* ![](https://i.postimg.cc/rpBvjp1h/git-Aico.png)**lista b2**   https://bit.ly/3BXpHcF
-* ![](https://i.postimg.cc/rpBvjp1h/git-Aico.png)**lista b3 "para KODI"**  https://bit.ly/48aacgO
-* ![](https://i.postimg.cc/rpBvjp1h/git-Aico.png)**lista b4**   https://bit.ly/3DXniDL
+<table>
+  <caption>HOST DE LISTAS</caption>
+  <thead>
+    <tr>
+      <th>ico</th>
+      <th>HOST</th>
+      <th>URL</th>
+      <th>ESTADO</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="18"/>A</td>
+    <td>gitlab</td>
+    <td>https://bit.ly/4oG0YQP</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="18"/>B</td>
+    <td>gitlab</td>
+    <td>https://bit.ly/47x5HNH</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="17"/>C</td>
+    <td>Pastebin</td>
+    <td>https://bit.ly/4oG0YQP</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>A</td>
+    <td>Github</td>
+    <td>https://bit.ly/3SSucwl</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>B</td>
+    <td>Github</td>
+    <td>https://bit.ly/3BXpHcF</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>C</td>
+    <td>Github</td>
+    <td>https://bit.ly/48aacgO</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>D</td>
+    <td>Github</td>
+    <td>https://bit.ly/3DXniDL</td>
+    <td>online</td>
+  </tr>  
+</table>
 
 **NOTAS IMPORTANTES:**
 * los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.
@@ -74,29 +119,17 @@
 ![](https://i.postimg.cc/ZK6NtrNt/bolentraropion11.png)
 
 ### Estos canales de bolivia presentan problemas tecnicos de origen:
-
-![](https://i.postimg.cc/jd6DkRVj/offl01AA.png)**RTP LA PAZ** señal de origen no estable, con problemas desde que actualizo su pagina web en diciembre 2024.
-
-![](https://i.postimg.cc/mkYgqy50/offl01AAb.png)**SEO TV, TV OFF, ABYA YALA TV** señales que cambian constantemente de url, asi que usan enlaces dinamicos.
-
-![](https://i.postimg.cc/HLrsHgNj/offl01AAcc.png)**UNITEL, RED UNO, ATB, BTV BOLIVIA** las señales no transmiten 24/7 y usan URL'S dinamicas, por lo cual no se pueden colocar como enlaces fijos.
-
-![](https://i.postimg.cc/pXPWr87M/Off0linee.png)**CADENA A** dejo de tener señal por streaming y esta offline desde inicios del 2025.
-
-![](https://i.postimg.cc/mkYgqy50/offl01AAb.png)**RED GIGAVISION** sus señales no mantienen transmision 24/7.
-
-![](https://i.postimg.cc/pXPWr87M/Off0linee.png)**DTV NOTICIAS** dejo de transmitir por streaming desde 2025, por lo cual esta offline.
-
-![](https://i.postimg.cc/yYpMKZC3/offl01AAffdd.png)**PAT** ambas señales presentan problemas recurrentes de inestabilidad o señal offline desde 2024.
-
-![](https://i.postimg.cc/jd6DkRVj/offl01AA.png)**PACEÑISIMA TV** de momento a otro deja de emitir por streming y cambia de url sin previo aviso.
-
-![](https://i.postimg.cc/Dy0Nxw4q/offl01AAeee.png)**CANALES PEQUEÑOS** estos canales al ser nuevos o tener audiencias bajas, contratan servicios por streaming de calidad baja, por lo cual presentaran siempre problemas decarga de buffer y inestabilidad.
-
-![](https://i.postimg.cc/mkYgqy50/offl01AAb.png)**PALENQUE TV** la señal se origen no esta online 24/7, como tambien presenta problemas de origen de inestablidad y carga de buffer lenta.
-
-![](https://i.postimg.cc/wT1Wh4nm/offl01AAg.png)**ZURACA TV** la calidad de señal y servidor son buenas, solo se apaga algunas horas una vez a la semana pero en lo general su servidor es estable de buena calidad.
-
-![](https://i.postimg.cc/brsR9dV2/offl01AAhh1.png)**RED BOLIVISION** las señales en lo general son estables, con algun que otro dia se saturan por sobrepasar su limite de usuarios.
+* <img src="https://i.postimg.cc/jd6DkRVj/offl01AA.png" width="65"/> **RTP LA PAZ** señal de origen no estable, con problemas desde que actualizo su pagina web en diciembre 2024.
+* <img src="https://i.postimg.cc/mkYgqy50/offl01AAb.png" width="65"/> **SEO TV, TV OFF, ABYA YALA TV** señales que cambian constantemente de url, asi que usan enlaces dinamicos.
+* <img src="https://i.postimg.cc/HLrsHgNj/offl01AAcc.png" width="65"/> **UNITEL, RED UNO, ATB, BTV BOLIVIA** las señales no transmiten 24/7 y usan URL'S dinamicas, por lo cual no se pueden colocar como enlaces fijos.
+* <img src="https://i.postimg.cc/pXPWr87M/Off0linee.png" width="65"/> **CADENA A** dejo de tener señal por streaming y esta offline desde inicios del 2025.
+* <img src="https://i.postimg.cc/mkYgqy50/offl01AAb.png" width="65"/> **RED GIGAVISION** sus señales no mantienen transmision 24/7.
+* <img src="https://i.postimg.cc/pXPWr87M/Off0linee.png" width="65"/> **DTV NOTICIAS** dejo de transmitir por streaming desde 2025, por lo cual esta offline.
+* <img src="https://i.postimg.cc/yYpMKZC3/offl01AAffdd.png" width="65"/> **PAT** ambas señales presentan problemas recurrentes de inestabilidad o señal offline desde 2024.
+* <img src="https://i.postimg.cc/jd6DkRVj/offl01AA.png" width="65"/> **PACEÑISIMA TV** de momento a otro deja de emitir por streming y cambia de url sin previo aviso.
+* <img src="https://i.postimg.cc/Dy0Nxw4q/offl01AAeee.png" width="65"/> **CANALES PEQUEÑOS** estos canales al ser nuevos o tener audiencias bajas, contratan servicios por streaming de calidad baja, por lo cual presentaran siempre problemas decarga de buffer y inestabilidad.
+* <img src="https://i.postimg.cc/mkYgqy50/offl01AAb.png" width="65"/> **PALENQUE TV** la señal se origen no esta online 24/7, como tambien presenta problemas de origen de inestablidad y carga de buffer lenta.
+* <img src="https://i.postimg.cc/wT1Wh4nm/offl01AAg.png" width="65"/> **ZURACA TV** la calidad de señal y servidor son buenas, solo se apaga algunas horas una vez a la semana pero en lo general su servidor es estable de buena calidad.
+* <img src="https://i.postimg.cc/brsR9dV2/offl01AAhh1.png" width="65"/> **RED BOLIVISION** las señales en lo general son estables, con algun que otro dia se saturan por sobrepasar su limite de usuarios.
 
 [![Texto alternativo de la imagen](https://i.ibb.co/6QGgwZw/pgproy.png)](https://www.facebook.com/boliviadigitalhd2023) [![Texto alternativo de la imagen](https://i.ibb.co/Q7JDRF8n/YTscrb.png)](https://youtube.com/@BoliviaDigitalHD)

@@ -423,5 +423,7 @@ EL TORO TV.
 -Se elimino algunos canales de la seccion premium que estan offline y se agrego otros.
 -Se agrego las imagenes respectivas de los nuevos canales premium HD.
 -Correccion de enlaces de los canales de bolivia.
+-Actualizacion de carpeta de lista URLs para agregar al reproductor.
+-Optimizadon de lista para mejor carga del servidor host.
 
 
