@@ -11,7 +11,7 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **01 de noviembre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **02 de noviembre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:15 p.m y 19:15 p.m
@@ -132,4 +132,15 @@
 * <img src="https://i.postimg.cc/wT1Wh4nm/offl01AAg.png" width="65"/> **ZURACA TV** la calidad de señal y servidor son buenas, solo se apaga algunas horas una vez a la semana pero en lo general su servidor es estable de buena calidad.
 * <img src="https://i.postimg.cc/brsR9dV2/offl01AAhh1.png" width="65"/> **RED BOLIVISION** las señales en lo general son estables, con algun que otro dia se saturan por sobrepasar su limite de usuarios.
 
-[![Texto alternativo de la imagen](https://i.ibb.co/6QGgwZw/pgproy.png)](https://www.facebook.com/boliviadigitalhd2023) [![Texto alternativo de la imagen](https://i.ibb.co/Q7JDRF8n/YTscrb.png)](https://youtube.com/@BoliviaDigitalHD)
+<img src="https://i.postimg.cc/bNHKQLpV/s-US01PRO.png" width="300"/>
+<div style="display: flex;">
+<a href="https://www.facebook.com/boliviadigitalhd2023">
+  <img src="https://i.postimg.cc/k5x1mgDd/Aser.png" alt="Descripción de la imagen" width="100">
+</a>
+<a href="https://youtube.com/@BoliviaDigitalHD">
+  <img src="https://i.postimg.cc/CLzcKNdH/Bser.png" alt="Descripción de la imagen" width="161">
+</a>
+<a href="https://t.me/+_1Zl6ymEQhw0ODc5">
+  <img src="https://i.postimg.cc/yNXPGprY/Cser.png" alt="Descripción de la imagen" width="106">
+</a>
+</div>
