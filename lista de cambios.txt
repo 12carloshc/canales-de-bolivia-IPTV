@@ -432,4 +432,11 @@ EL TORO TV.
 -Correccion de imagenes y iconos seccion premium.
 -Mantenimiento general de enlaces.
 
+========= Lunes 01 noviembre 2025 ==============
+
+-Correccion Readme tamaño de imagenes
+-actualizacion lista local.
+-Se esta probando estabilidad del host github hasta el mes de diciembre
+para asi actualizar a 3 enlaces permanentes.
+
 

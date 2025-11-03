@@ -1,4 +1,5 @@
-![](https://i.postimg.cc/jjdH7GSq/PASTEbgitlab.png)
+<img src="https://i.postimg.cc/jjdH7GSq/PASTEbgitlab.png" width="360"/>
+
 - Cambio de host a **GITLAB** y **PASTEBIN**, por que github empezo a limitar las consultas a sus repositorios y la lista no carga da error, asi que se actualizo al hots ya mencionado
 - **LISTA ACTUAL**:
 - <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url Lista A**: https://bit.ly/4oG0YQP
@@ -20,13 +21,12 @@
 
 ### REPRODUCTORES RECOMENDADOS:
 
-![](https://i.postimg.cc/Kj601LN0/01REPR.png)![](https://i.postimg.cc/hGJWQ88p/02REPR.png)![](https://i.postimg.cc/TwC4kpcm/03REPR.png)![](https://i.postimg.cc/wjZ1J79s/KD01.png)![](https://i.postimg.cc/pLtDp0v5/ipxtremepr444.png)
+<img src="https://i.postimg.cc/Kj601LN0/01REPR.png" width="135"/><img src="https://i.postimg.cc/hGJWQ88p/02REPR.png" width="130"/><img src="https://i.postimg.cc/TwC4kpcm/03REPR.png" width="70"/><img src="https://i.postimg.cc/wjZ1J79s/KD01.png" width="88"/><img src="https://i.postimg.cc/pLtDp0v5/ipxtremepr444.png" width="130"/>
+
 - IPTV PRO, SMARTERS PLAYER PRO, REPRODUCTOR VLC, KODI, IPTV XREME PRO.
 
 ### REPRODUCTORES EXTERNOS RECOMENDADOS:
-
-![](https://i.postimg.cc/52nt1mp0/04REPR.png)![](https://i.postimg.cc/HL66CjrZ/05REPR.png)![](https://i.postimg.cc/TwC4kpcm/03REPR.png)
-
+<img src="https://i.postimg.cc/52nt1mp0/04REPR.png" width="195"/><img src="https://i.postimg.cc/HL66CjrZ/05REPR.png" width="189"/><img src="https://i.postimg.cc/TwC4kpcm/03REPR.png" width="79"/>
 - X Player premium, MX player pro, Reproductor VLC.
 
 **AGREGAR NUEVA LISTA DE CANALES**
@@ -107,16 +107,18 @@
 - Para mantener una conexion estable, es recomendable que usen en lo posible **conexion directa por cable de red lan**.
 - O en su defecto usara el **WIFI de 5 GHZ o de 6 GHZ**, con configuracion de **canal fijo** y no en automatico.
 
-![](https://i.ibb.co/fds6gx6Z/WF01.png)![](https://i.ibb.co/tgd8pTX/WF02.png)![](https://i.ibb.co/xKCbkSjc/WF03.png)
+<img src="https://i.ibb.co/fds6gx6Z/WF01.png" width="47"/><img src="https://i.ibb.co/tgd8pTX/WF02.png" width="64"/><img src="https://i.ibb.co/xKCbkSjc/WF03.png" width="160"/>
+
 - Para **WIFI DE 2.4 GHZ**, usar un canal fijo y escanear previamente y elegir el menos saturado.
 - Usar los **DNS de cloudflare** en su configuracion de red tanto en **tv box o smart tv y el router**, para evitar el bloqueo de webs de parte de su operador.
 
-![](https://i.ibb.co/dN62PSf/CLOUD01.png)![](https://i.ibb.co/Z6zjQH4f/CLOUD02.png)![](https://i.ibb.co/mrGrBhhR/CLOUD03.png)
+<img src="https://i.ibb.co/dN62PSf/CLOUD01.png" width="189"/><img src="https://i.ibb.co/Z6zjQH4f/CLOUD02.png" width="150"/><img src="https://i.ibb.co/mrGrBhhR/CLOUD03.png" width="150"/>
+
 - De preferencia para mejorar su estabilidad de internet tratar de contratar **IP PUBLICA FIJA** en su plan de internet hogar.
 - Contar con una conexion de internet de entre **100 megas a 200 megas**, preferiblemente por fibra optica.
 - Para los canales de la **SECCION PREMIUM & DEPORTES**, configurar el **buffer de red** de su **reproductor IPTV**, entre **98.000 ms a 198.000 ms**, para asegurar una carga de red optima del canal, y configure **la reconexion automatica de red del canal**, si falla la reproduccion del canal en algunos milisegundos.
 
-![](https://i.postimg.cc/ZK6NtrNt/bolentraropion11.png)
+<img src="https://i.postimg.cc/ZK6NtrNt/bolentraropion11.png" width="300"/>
 
 ### Estos canales de bolivia presentan problemas tecnicos de origen:
 * <img src="https://i.postimg.cc/jd6DkRVj/offl01AA.png" width="65"/> **RTP LA PAZ** señal de origen no estable, con problemas desde que actualizo su pagina web en diciembre 2024.
