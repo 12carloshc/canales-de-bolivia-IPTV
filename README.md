@@ -11,7 +11,7 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **02 de noviembre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **03 de noviembre 2025** canales en vivo de bolivia
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:15 p.m y 19:15 p.m
@@ -135,12 +135,12 @@
 <img src="https://i.postimg.cc/bNHKQLpV/s-US01PRO.png" width="300"/>
 <div style="display: flex;">
 <a href="https://www.facebook.com/boliviadigitalhd2023">
-  <img src="https://i.postimg.cc/k5x1mgDd/Aser.png" alt="Descripción de la imagen" width="100">
+  <img src="https://i.postimg.cc/k5x1mgDd/Aser.png" alt="Descripción de la imagen" width="85">
 </a>
 <a href="https://youtube.com/@BoliviaDigitalHD">
-  <img src="https://i.postimg.cc/CLzcKNdH/Bser.png" alt="Descripción de la imagen" width="161">
+  <img src="https://i.postimg.cc/CLzcKNdH/Bser.png" alt="Descripción de la imagen" width="136">
 </a>
 <a href="https://t.me/+_1Zl6ymEQhw0ODc5">
-  <img src="https://i.postimg.cc/yNXPGprY/Cser.png" alt="Descripción de la imagen" width="106">
+  <img src="https://i.postimg.cc/yNXPGprY/Cser.png" alt="Descripción de la imagen" width="89">
 </a>
 </div>

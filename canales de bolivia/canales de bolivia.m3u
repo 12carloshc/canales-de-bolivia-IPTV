@@ -16,7 +16,7 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WNCMuYoStaIJn7dq_UAZ0z7/m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live.eu-north-1b.cf.dmcdn.net/sec2(wLtGgM_PdwzF2LdVzKIV7BgbaiTwl3bf75bcCmjfEu_2Q3qvUglqe9T4oEnuNIqHE30TmU3NRxEoqOchCXpthTYkc6LgCKdrFh6TVsZNJQxMx5_3vqvPLpybkCJTUtxt)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(kNGHNDj5WOORcsfvMYIOxc_6xxlBmPKDvVkdqEDtSOUxFdApetBDQHJ6Wmmpt9WZVNxmE44l9O8KymREYm1iBste7nkChWV5px4ZVYZE1ZqNsprPmlXVzQWrJaD3q2NH)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
@@ -34,7 +34,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WP67-NgxJDPwDeOoMqxrSgk/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/skXKCmW/btv2222s.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(zGBxPAahdGOorovKt-8BNfdZTiB8ejpG36vOxhqM3VrTyT27trC3mrFgeGuXLfn4TDbLRgrQUeS-W0oGRZZf577KMygGCXXxl18wWUdpVjmkyrDyJe53seMfDoFY7O80)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(EacSeijVDw9GT-eY300ErqZex15_0wnmGPX_ITx36-QXL5_rl7fNzTzCISC7Wq8GIKvDfP0jxDSvcTN5_14ZHQXLe6LKTLTzMf29wkyCgjGDdTAhHl6OvopeVqcQQuRt)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
@@ -85,10 +85,10 @@ https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-id="TV OFF" tvg-logo="https://i.postimg.cc/vmXm953T/TV-OFF-HD-EL-ALTO.jpg" group-title="CANALES DE BOLIVIA",TV OFF HD
-https://seo.tv.bo/hls/TVOFFx.m3u8
+https://seo.tv.bo/hls/TVOFF.m3u8
 
 #EXTINF:-1 tvg-id="SEO TV" tvg-logo="https://i.postimg.cc/bNv4Nk2D/SEO-TV-FHD-NEW.jpg" group-title="CANALES DE BOLIVIA",SEO TV HD
-https://seo.tv.bo/hls/SEO_-TVx1.m3u8
+https://seo.tv.bo/hls/SEO-TV1.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
@@ -97,7 +97,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="CANALES DE BOLIVIA",ABYA YALA TV HD
-https://seo.tv.bo/hls/ABYAx.m3u8
+https://seo.tv.bo/hls/AbyaYala.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQQVzcS/XTO-HD.jpg" group-title="CANALES DE BOLIVIA",XTO HD
 https://www.sccbolivia.com/dash/720p.mpd
