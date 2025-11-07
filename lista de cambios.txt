@@ -439,4 +439,11 @@ EL TORO TV.
 -Se esta probando estabilidad del host github hasta el mes de diciembre
 para asi actualizar a 3 enlaces permanentes.
 
+========= Viernes 07 noviembre 2025 ==============
+
+-Actualizacion de enlaces premium hd y de deportes.
+-correccion de enlaces para canales locales de bolivia.
+-Se elimino canales premium que estan offline o con problemas.
+-en seccion 24/7 se agrego 2 canales mas.
+
 

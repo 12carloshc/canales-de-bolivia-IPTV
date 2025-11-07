@@ -1,18 +1,18 @@
-<img src="https://i.postimg.cc/jjdH7GSq/PASTEbgitlab.png" width="360"/>
+<img src="https://i.postimg.cc/jSL48CkC/git-Hb01PRE.png" width="360"/>
 
-- Cambio de host a **GITLAB** y **PASTEBIN**, por que github empezo a limitar las consultas a sus repositorios y la lista no carga da error, asi que se actualizo al hots ya mencionado
+- Restablecido host **GITLAB** mas un hots extra: **PASTEBIN**,
 - **LISTA ACTUAL**:
-- <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url Lista A**: https://bit.ly/4oG0YQP
-- <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url lista B**: https://bit.ly/47x5HNH
-- <img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="25"/> **Url lista C Para Kodi**: https://bit.ly/3LhPVic
-- **Nota**: Pronto solo colocaremos enlaces de GITHUB como antes para dinamizar las actualizaciones en sus horarios.
+- <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url Lista A**: https://bit.ly/3SSucwl 
+- <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url lista B**: https://bit.ly/3BXpHcF
+- <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url lista C Para Kodi**: https://bit.ly/48aacgO
+- **Nota**: Enlaces fijos de GITHUB como antes para dinamizar las actualizaciones en sus horarios.
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
 
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **06 de noviembre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **07 de noviembre 2025** canales en vivo de bolivia
 - **Actualizacion semanal de correccion de enlaces de CANALES PREMIUM HD & DEPORTES PREMIUM.**
 
 ### Horarios de actualizacion de lista de canales:
@@ -45,24 +45,6 @@
     </tr>
   </thead>
   <tr>
-    <td><img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="18"/>A</td>
-    <td>gitlab</td>
-    <td>https://bit.ly/4oG0YQP</td>
-    <td>online</td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="18"/>B</td>
-    <td>gitlab</td>
-    <td>https://bit.ly/47x5HNH</td>
-    <td>online</td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="17"/>C</td>
-    <td>Pastebin</td>
-    <td>https://bit.ly/4oG0YQP</td>
-    <td>online</td>
-  </tr>
-  <tr>
     <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>A</td>
     <td>Github</td>
     <td>https://bit.ly/3SSucwl</td>
@@ -81,9 +63,9 @@
     <td>online</td>
   </tr>
   <tr>
-    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>D</td>
-    <td>Github</td>
-    <td>https://bit.ly/3DXniDL</td>
+    <td><img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="17"/>C</td>
+    <td>Pastebin</td>
+    <td>https://bit.ly/4oG0YQP</td>
     <td>online</td>
   </tr>  
 </table>
@@ -134,6 +116,7 @@
 * <img src="https://i.postimg.cc/mkYgqy50/offl01AAb.png" width="65"/> **PALENQUE TV** la señal se origen no esta online 24/7, como tambien presenta problemas de origen de inestablidad y carga de buffer lenta.
 * <img src="https://i.postimg.cc/wT1Wh4nm/offl01AAg.png" width="65"/> **ZURACA TV** la calidad de señal y servidor son buenas, solo se apaga algunas horas una vez a la semana pero en lo general su servidor es estable de buena calidad.
 * <img src="https://i.postimg.cc/brsR9dV2/offl01AAhh1.png" width="65"/> **RED BOLIVISION** las señales en lo general son estables, con algun que otro dia se saturan por sobrepasar su limite de usuarios.
+* <img src="https://i.postimg.cc/mkYgqy50/offl01AAb.png" width="65"/> **XTO TELEVISION** El enlace url es DM, por lo cual incompatible con la mayoria de reproductores.
 
 <img src="https://i.postimg.cc/bNHKQLpV/s-US01PRO.png" width="300"/>
 <div style="display: flex;">
