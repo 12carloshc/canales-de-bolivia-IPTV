@@ -5,14 +5,15 @@
 - <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url Lista A**: https://bit.ly/4oG0YQP
 - <img src="https://i.postimg.cc/pVQwWF4s/GLBplay.png" width="25"/> **Url lista B**: https://bit.ly/47x5HNH
 - <img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="25"/> **Url lista C Para Kodi**: https://bit.ly/3LhPVic
-- **Nota**: al parecer los enlaces **originales de GITHUB**, ya volvieron a funcionar asi que aun se mantendran actualizados.
+- **Nota**: Pronto solo colocaremos enlaces de GITHUB como antes para dinamizar las actualizaciones en sus horarios.
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
 
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **03 de noviembre 2025** canales en vivo de bolivia
+- Fecha de actualizacion:  **06 de noviembre 2025** canales en vivo de bolivia
+- **Actualizacion semanal de correccion de enlaces de CANALES PREMIUM HD & DEPORTES PREMIUM.**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:15 p.m y 19:15 p.m
