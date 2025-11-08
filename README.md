@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/jSL48CkC/git-Hb01PRE.png" width="360"/>
 
-- Restablecido host **GITLAB** mas un hots extra: **PASTEBIN**,
+- Restablecido host **GITHUB** se elimino host extra: **PASTEBIN**,
 - **LISTA ACTUAL**:
 - <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url Lista A**: https://bit.ly/3SSucwl 
 - <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url lista B**: https://bit.ly/3BXpHcF
@@ -12,8 +12,8 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **07 de noviembre 2025** canales en vivo de bolivia
-- **Actualizacion semanal de correccion de enlaces de CANALES PREMIUM HD & DEPORTES PREMIUM.**
+- Fecha de actualizacion:  **08 de noviembre 2025** canales en vivo de bolivia
+- **Actualizacion y correccion de enlaces de CANALES PREMIUM HD & DEPORTES PREMIUM.**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:15 p.m y 19:15 p.m
