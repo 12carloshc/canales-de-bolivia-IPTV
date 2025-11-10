@@ -453,6 +453,11 @@ para asi actualizar a 3 enlaces permanentes.
 -Iconos premium actualizados.
 -Se volvio a incorporar las URLS github originales para dinamizar las actualizaciones.
 
+========= Lunes 10 noviembre 2025 ==============
+
+-Actualizacion y correccion  semanal de enlaces de canales PREMIUM HD Y DEPORTES HD.
+-Correccion de iconos de canales locales de bolivia y premium hd.
+
 
 
 

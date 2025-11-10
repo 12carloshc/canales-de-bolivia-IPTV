@@ -3,35 +3,35 @@
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4ADqrMg3xvECwxrpdRnfm6oh82u-CEfBFXtpqU9WVT0/m3u8
 
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxhrI93IS4FF-w3ZnW2USJ5akFD_-OkkJkull1Lnhdr-/m3u8
+
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/28bLGHXh/Rulp-D.jpg" group-title="CANALES DE BOLIVIA",RED UNO LP
-https://live.eu-north-1b.cf.dmcdn.net/sec2(RY8awI5QhEsKhHifhGTrVj0k9brlM78g6KVgr1Ak8EzBUNV3IHbQFY9L1wjD8aQAoK1wGTufqFfUFBF_0qlm7X2EuKTXPcy8hgoRLSB8dL19l9UhQBGq0cfT8UGdhKin)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(TCwOVIk7cQK_o1b9gYah7Qn10YCfYICybj5KUX5osWiFEasfMD27JGtUpJQSeIM84WpZmszF2XGhfiyIjyUnshlF9OqNt8MttQsSB0_T8k9zlCKShbjBcmU8awQOs7eO)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/Y9LjR0d8/Ruscz-D.jpg" group-title="CANALES DE BOLIVIA",RED UNO SZ
-https://live.eu-north-1b.cf.dmcdn.net/sec2(RY8awI5QhEsKhHifhGTrVj0k9brlM78g6KVgr1Ak8EzBUNV3IHbQFY9L1wjD8aQAoK1wGTufqFfUFBF_0qlm7X2EuKTXPcy8hgoRLSB8dL19l9UhQBGq0cfT8UGdhKin)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(TCwOVIk7cQK_o1b9gYah7Qn10YCfYICybj5KUX5osWiFEasfMD27JGtUpJQSeIM84WpZmszF2XGhfiyIjyUnshlF9OqNt8MttQsSB0_T8k9zlCKShbjBcmU8awQOs7eO)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/rp50PRwh/01Un-Dm.jpg" group-title="CANALES DE BOLIVIA",UNITEL HD
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(JwvKa9MoRN8j4C-Y0cBsb_MKEAf7X7-G0Mpz8LI3Q60X0Ll8htGQkd1BpR2ARSo_q8xLGrxbIViG847rK75WbeLZ_HbjNAJfI59g3AXd3_U2MYSxkS65s9KPpylnJQR9)/cloud/3/x7wzxiw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.postimg.cc/K8MR13L9/2Btv-Dm.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(eT4CbtOuhibw6HEdgY8oby582CQeX7VZBXDT7mt0we3PH2yU_3U_ymLziaqyXVByhUCyCHf8LxuhZ1Naa3XhFV-6sm-eZcw5gkcuIrCRWcnUkZsHVEu8ia9mASM_ITSC)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(NEueaYqc1w3rObG9P-rsDnPWg4uN7_iD2H7Tp_Tr4_PyvUrb2BJEPW94d9dQlUvkccqbThiFshDA7vj0ZMDmHKQM7UbgDFde_3XoSmkyAJrB1KL2cBkZXAoE6PdngdI0)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/t4DRCMJz/Da-T-b02.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(lWHdBdh7ARp4TrkeVUQPvwjbWjy3UTvKxuc9j73Pbs4r6irbTAAXNmigktAouUE7W2ypJGloAaQwdKG0-WqXXB_frSu-gFj3a20x158trOHmCCjMX60Wx-LO1y9K0j0l)/dm/3/x84eirw/s/live-720.m3u8
-
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4ADqrMg3xvECwxrpdRnfm5CydOQPDX0zpcgjHRtrAxA/m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(gRVMGLvdWCSe8I4VRHA1NtfRuNCVrJqf_ewQ_TMUl-kOIaWUaR18-FjSzNSCwmdPcE90KGY6dN2HyvgfRQHZcqNzvOAoUEuV6EqFeAn1o1si1j9SeWqDDQYRmfNHbNQk)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4ADqrMg3xvECwxrpdRnfm4CwdxE1FZGp6ncICy28UtC/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxhrI93IS4FF-w3ZnW2USJ5YUgsDnHf52P9kbTLncDpl/m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4ADqrMg3xvECwxrpdRnfm4B88ha3HdgzhfsYL8T-VXC/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxhrI93IS4FF-w3ZnW2USJ4CP9qEikMOjBlIqeRFMQzN/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
@@ -151,43 +151,46 @@ https://www.dailymotion.com/video/x9nzqpo
 https://www.dailymotion.com/video/x9ny70y
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6RVQFLY/DCH.jpg" group-title="CANALES PREMIUM HD",DISCOVERY HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l5ojK4me4CPQN2mfOAuwsovNLbyHChZFeREIFHF-39NS/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0C_Kq0dEJgGzzjiDXsHtGAouMPdPa8JajmLq2fRhsv8/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgsNzN5k/TRB2.jpg" group-title="CANALES PREMIUM HD",TURBO HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l5ojK4me4CPQN2mfOAuwsotruebFfajBmafH766w94SJ/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0C_Kq0dEJgGzzjiDXsHtGDnqaotZJlvqwd_RFQBk6EE/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwVTwxLr/ODY.jpg" group-title="CANALES PREMIUM HD",ODISEA HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-pMeH1xx7S4bg-WJ2vcXuKwrBuwgtnti8O60nPvUE8m/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-ugE9dKWs912L7xciS7dfFp1ty_QwnX8Z_QNPXmEZng/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2Pwkp8k/a-e.jpg" group-title="CANALES PREMIUM HD",A&E HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9mz5BC05b9GUtAIGE9_nLB6PBRjXlZSD-PFvirwBLwd/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tg10t9Gh/Amc-br01.jpg" group-title="CANALES PREMIUM HD",AMC BREAK HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-pMeH1xx7S4bg-WJ2vcXuIYoQ9TieEesftvZfA2Rzxb/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-ugE9dKWs912L7xciS7dfFJ47Ltg3-heBmHIG21G9Wl/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTM6qchX/a-X-n8Mov.jpg" group-title="CANALES PREMIUM HD",AXN MOVIES HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-pMeH1xx7S4bg-WJ2vcXuKtVwbceFYCMjdwyWRy0Hqx/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-ugE9dKWs912L7xciS7dfGqUqbgLjygd-qW78qeZR1c/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq4Dhbtr/m-UL6prem.jpg" group-title="CANALES PREMIUM HD",MULTIPREMIER HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxKY3oWerIDG5hcaLPsVp7DpKhJ_e3ijjcGquZficwAy/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9mz5BC05b9GUtAIGE9_nLBpdyZyanHr-H5X3ipJnSbT/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmrsmQ7/A-1mc.jpg" group-title="CANALES PREMIUM HD",AMC HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2BCXAKSCdR2owlpPlSJyQo2yFyzWp5w2XhTqfzXudte/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lwNHF2QxkOCaMjapbpX5ZPv60pQCkfapjEZnbHXWW14x/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvQjCpb9/a-Xn1.jpg" group-title="CANALES PREMIUM HD",AXN HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxKY3oWerIDG5hcaLPsVp7AN757JPWjfDX4xf_xW7ktC/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9mz5BC05b9GUtAIGE9_nLAvzlQwkeHf8mLS9qYqSyNW/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwYJJKnW/CNXX.jpg" group-title="CANALES PREMIUM HD",CINEMAX HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxKY3oWerIDG5hcaLPsVp7BOpqZCVtUa51uoeT1Grmlg/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9mz5BC05b9GUtAIGE9_nLCKSQ5Xo51FEuzRD7L_59yn/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhzfYYKJ/UNVPRE.jpg" group-title="CANALES PREMIUM HD",UNIVERSAL PREMIERE HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9hnGlhp9LYp-ggfspmjOkefh0AkrEgRZkiCFDozg3f-/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzP5VtXoMzOhOMZhaNVc1CVuWzGrAUB5rbmNRxZj1wf-/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpM5xSWZ/NTG.jpg" group-title="CANALES PREMIUM HD",NATGEO HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-CjgELeKeQylTAeJkO6yO6itOzV2oev55gdPWnJTusn/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9uyK-GhcMRg6oex4Ujls9s4mOLZC07uzIPk1F01Cvum/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N06ttgfQ/DRKTRR.jpg" group-title="CANALES PREMIUM HD",DARK HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-pMeH1xx7S4bg-WJ2vcXuIQc6LTvf32liFU1goRcjQs/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_G_5BE09QHeoGYyJI2qX8bYLVZiDxCYiPa43DQAzl5f/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8CKpHs1/cmc.jpg" group-title="CANALES PREMIUM HD",COMEDY CENTRAL HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-CjgELeKeQylTAeJkO6yO6notRDHHoYMRhO0CjMK-yw/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9uyK-GhcMRg6oex4Ujls9uX-KJ5fR2BQx9hlbtzhB6h/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFm9FW6/GARAGE-TV-HD.jpg" group-title="CANALES PREMIUM HD",GARAJE TV HD
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -214,16 +217,16 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXk18gh3/M-acc1.jpg" group-title="CANALES PREMIUM HD",M+ ACCION HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l79Az-aWct1V71Tx3zOd1yIwmuwTTD-e4OBJdVmLb0mF/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l90sS1yjUfma1SGI9BgH8yQkkLGUcEXj33C9ruS64s5c/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpN3wRg3/D-wk6.jpg" group-title="CANALES PREMIUM HD",DREAM WORKS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4PfJ-ct1lbgLgUx7SrJJ83COVegY0dA1hfFbd_O_CvV/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_IjYfaFkB1P9PftCrku8YleSvNzyAb5JH8rQYQ1L4Nr/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hj2LbMzb/Tnt-Se01.jpg" group-title="CANALES PREMIUM HD",TNT SERIES HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxKY3oWerIDG5hcaLPsVp7Cn7TPAksbvWQOsVc_1VIYR/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9mz5BC05b9GUtAIGE9_nLBfbLsTvGErFYHNXYQN5Hd3/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNtT3RF7/F-x01a.jpg" group-title="CANALES PREMIUM HD",FX HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxKY3oWerIDG5hcaLPsVp7DkmYUJ_CGbD4cDPXvSHXoF/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l9mz5BC05b9GUtAIGE9_nLBX8J_xs4SibZoSYSUgcTgo/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y5yZvqk/HYST.jpg" group-title="CANALES PREMIUM HD",HISTORY CHANNEL HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l5ojK4me4CPQN2mfOAuwsou5opdUftpOxFs9Psd4jBjL/m3u8
@@ -232,10 +235,10 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l5ojK4me4CPQN2mfOAuwsou5opdUftpO
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf4gnvVR/Amrk.jpg" group-title="CANALES PREMIUM HD",AMERICA TV HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6zW3iR71GHl0vrpjlmBMPnEgIlq9CfRzYzGU9gWIyfy/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l87eOndKwnmqvKFPZEXdlTjs3KFxTBe5xbunLqpNUQex/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jv7cVmnp/HSess.jpg" group-title="CANALES PREMIUM HD",HISTORY ESPAÑA HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-pMeH1xx7S4bg-WJ2vcXuJ-O5mLzth2agw3KBhRVtvt/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-ugE9dKWs912L7xciS7dfE7WbkgR2TEdliLI58-SpL9/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPZNR8Wp/w0-W1m.jpg" group-title="CANALES PREMIUM HD",WOW PELICULAS HD
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
@@ -313,37 +316,37 @@ https://g5.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/c
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES HD",DIRECTV SPORTS 1 HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-emVBCAL2_VIJpeDuZIvilUfZjZafdc7OOQ8z7bhEwU/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_QAo_7wMn_NEQihT_UcGEjyBWaSbuMzzC7TpfnaOKWZ/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES HD",ESPN SUR HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-emVBCAL2_VIJpeDuZIvikFxaHxo8d-Q4Sj0gHI9AIP/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_QAo_7wMn_NEQihT_UcGEiSkfSuDrIhYFlGi0Zobb8K/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N07rYXPR/ds-plus.jpg" group-title="DEPORTES HD",DIRECTV SPORTS+ HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-emVBCAL2_VIJpeDuZIvil5oaCJF07F60ALjF8ufJfv/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_QAo_7wMn_NEQihT_UcGEh6Icm9sxkzc1z13zHhcVCM/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpXJn76Z/ESPREM.jpg" group-title="DEPORTES HD",ESPN PREMIUM HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3_Bfs4_OQ9MK7UuEnnaKUfhsXNdXVHvYppb21p5AGXw/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3amBZF0W_fSe2sdFlurffOVUhs_4v3NxfgX8uhKiOfq/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8HPj80/tntsarg.jpg" group-title="DEPORTES HD",TNT SPORT ARG HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3_Bfs4_OQ9MK7UuEnnaKUfpJldwy9XUVQN7KebWbi1o/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3amBZF0W_fSe2sdFlurffPAlXbqlcnDE8pHRtrQlPNC/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNNK5x2F/FXSR.jpg" group-title="DEPORTES HD",FOX SPORT SUR HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3_Bfs4_OQ9MK7UuEnnaKUcjnvSBL1bGsJhPWyUa2lX3/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3amBZF0W_fSe2sdFlurffPsMPayqc2jfLaF3C5_S1Vi/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSy0dfZ/FXSPRE.jpg" group-title="DEPORTES HD",FOX SPORT PREMIUM HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l02EioFdTS1BeMYMx1or1nFz17lUnx2zAfCxC5IVky6j/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8xMHwrJIOQETgRk5xw3MlxdWvpW3fqnziGH_JhWXqNn/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="DEPORTES HD",TyC INTERNACIONAL HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l-emVBCAL2_VIJpeDuZIvik9NJ94pXQ7pB2PIBxy6LKp/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_QAo_7wMn_NEQihT_UcGEjUyqDJxwRJIsp7_JD-hNOQ/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mk5d3J1/dznf1.jpg" group-title="DEPORTES HD",DAZN F1 HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0CjYmfvYoLpR1Gxm-6qFiyJzI-wPDm77oDLr-iLxZQn/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l5npmN7T2SPBMmUNmRKnlHksIuS3WpFrvYqxAXFnLOw-/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVR83pJm/Dzn1.jpg" group-title="DEPORTES HD",DAZN 1 HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0CjYmfvYoLpR1Gxm-6qFiwWh5iHbQqYxPt83iOZCZ4J/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l5npmN7T2SPBMmUNmRKnlHnQUi4mL63WP6UxYKrTRFnz/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hnw6vpDy/L-cam05.jpg" group-title="DEPORTES HD",M LIGA DE CAMPEONES HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4MeXlaAcGx7oC3VciZ9r1ihVrnNf1643H9mnrpyT_b9/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8MwsjBq_ZlrHEVPK-uqWC21x0HLLBYyBXy6hNMDSV5h/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP HD
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
@@ -361,46 +364,43 @@ https://tls-cl.cdnz.cl/planetatv/live/chunklist_w187229446.m3u8
 https://vdochile.com:3182/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",BATMAN HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2V8S25o0ELT67UmZoeQBCwb2hi8V296z9eA5-h35uCB/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1-nctdLXqUXq7tGiJ-mbPy-CsrPw6_aJf4Ml846BTlb/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",UN SHOW MAS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzktJENnRuJAKpFjXiP72WckOizLReErtIDUN5jNHcgf/m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",VENGADORES UNIDOS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7CfmTIrOwp0KJ9dOx9uciwxLswTyeU6SokxmvitQ554/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lytpKve5cWCtt2_jRIHDtjS7jfSrdOTk3dckAKPmkps1/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",LA CASA DE LOS DIBUJOS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7CfmTIrOwp0KJ9dOx9ucixhikbmXAhimH6VOGR0VSsq/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2wmFUqdMxtr-AZqv0ttOTRAoqHoSIaJfTGC4W1KH3SY/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",BEYBLADE HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2V8S25o0ELT67UmZoeQBCxJBf797wfygM-PYQdJsWbD/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1-nctdLXqUXq7tGiJ-mbPxz8E10-3QBU2DQeOiweAZD/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",DELTA TV HD
 https://node2.bitstreaming.net:3951/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",DIGIMON ADVENTURE 1 HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2V8S25o0ELT67UmZoeQBCyK17wsCCPQ1CTaMB2U3WDg/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1-nctdLXqUXq7tGiJ-mbPw20CCFZQEmeeXumIfe8Ppd/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",DRAGON BALL Z HD
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",HUNTER X HUNTER 1999 HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l_MeXDlmr-E4mAP9cVnUeOIkW2Mv35I33JvRyw6wkOsU/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7gk91TFTYGTSETSYcuViAnZQj0m6vG3ogeOgUMFeiKU/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",PATO AVENTURAS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7CfmTIrOwp0KJ9dOx9ucixeu7G10O0XpgdhdD8Rim4I/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",POKEMON HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7gk91TFTYGTSETSYcuViAmZ6EIUS_uFU2QyaWZxNgj0/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",VARIED TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",RICK Y MORTY HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2V8S25o0ELT67UmZoeQBCzxxXE5dUy0qFTuxaacvtz1/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxsV83PFhjb3xcGI7tXiIPHrKDLAJb_48YnOntYw9HbM/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",LOS PADRINOS MAGICOS HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7CfmTIrOwp0KJ9dOx9ucizAEsiHX-q1WZMSuRpdQCBy/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2wmFUqdMxtr-AZqv0ttOTR3nnFjBS9nxAFIMmLsf2Bn/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="24/7",HARRY POTTER HD
-http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l2DVzWJEYrOLqffOuS4uNFHgmDf8GkHD8E6ES8v7VDGT/m3u8
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l3xEyL4Iy8ilpGjYGL9j5kmZ8rsgqeB-HO1CCNP2eYem/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" tvg-name="SUPER MAN 2025" tvg-type="movies" group-title="Movies: 2025",SUPER MAN (2025)
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay1l4GZCwDs7DViCK-PXaIx2UmzZp_bGzAUYvFy9r07NQ#.mp4

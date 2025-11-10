@@ -12,8 +12,8 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **08 de noviembre 2025** canales en vivo de bolivia
-- **Actualizacion y correccion de enlaces de CANALES PREMIUM HD & DEPORTES PREMIUM.**
+- Fecha de actualizacion:  **10 de noviembre 2025** canales en vivo de bolivia
+- **Actualizacion de enlaces de CANALES PREMIUM HD & DEPORTES PREMIUM.**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:15 p.m y 19:15 p.m
@@ -61,13 +61,7 @@
     <td>Github</td>
     <td>https://bit.ly/48aacgO</td>
     <td>online</td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/jjLTCSP5/PBplay.png" width="17"/>C</td>
-    <td>Pastebin</td>
-    <td>https://bit.ly/4oG0YQP</td>
-    <td>online</td>
-  </tr>  
+  </tr>   
 </table>
 
 **NOTAS IMPORTANTES:**
