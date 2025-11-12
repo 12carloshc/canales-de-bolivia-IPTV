@@ -7,10 +7,10 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4ADqrMg3xvECwxrpdRnfm6oh82u-CEf
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lxhrI93IS4FF-w3ZnW2USJ5akFD_-OkkJkull1Lnhdr-/m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/28bLGHXh/Rulp-D.jpg" group-title="CANALES DE BOLIVIA",RED UNO LP
-https://live.eu-north-1b.cf.dmcdn.net/sec2(TCwOVIk7cQK_o1b9gYah7Qn10YCfYICybj5KUX5osWiFEasfMD27JGtUpJQSeIM84WpZmszF2XGhfiyIjyUnshlF9OqNt8MttQsSB0_T8k9zlCKShbjBcmU8awQOs7eO)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(M7sLf0Muv95O948V3kNA0sVSW5rkOjGLmRANzdS-WHO1wjZ1G-NKmkT1_-Ajjgb3_ICn-9NYaMFgUwdCwFR64Jarh0xAN0WFs2X9T3HBXP1KDp88Waz77RTQPa37pFJr)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/Y9LjR0d8/Ruscz-D.jpg" group-title="CANALES DE BOLIVIA",RED UNO SZ
-https://live.eu-north-1a.cf.dmcdn.net/sec2(e-C6FW1peeUC0KYR8--PNcHp8S-QL-tFUysVHmBLBCQYHsLQlnTxRbSZqgNKf4bzol7sd-blhjcsTZsSv4pe1GgK2K7wxNiK_XuWCQU_eJ6NYyad7OmagthSGzl3XfsH)/dm/3/x9n2qyk/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(BTKijvJSeHElnFTcg-shnIR3cza6LoHlTN_p3UPCF7tkR342zPedoHWaDXqwMNiyhrHsPw6Or379sxBvNE25H_6lE1tcRGmFusaos20aLdyHe1eEPBYgfwnmwC9fesu2)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/rp50PRwh/01Un-Dm.jpg" group-title="CANALES DE BOLIVIA",UNITEL HD
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(v7UiuZZ1zYMXj-TmSHCzpeiD202yBPEJ_wZpJX672gRzGL92aDrR11zhOt3mFo677TmbBHi2SgfpEEj_7zdMc-LFZdH0gxQxorvk2JZYRpE7NyvTOdGlpL5Cw-eyuuPJ)/cloud/3/x7wzxiw/s/live-1080.m3u8
@@ -137,6 +137,9 @@ https://www.dailymotion.com/video/x9n2qyk
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="VLC BOLIVIA",UNITEL BOLIVIA HD
 https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="VLC BOLIVIA",POV UNITEL HD
+https://www.dailymotion.com/video/x8eimg9
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/Y06y7NgW/ATB-BOLIVIA-HD.jpg" group-title="VLC BOLIVIA",ATB BOLIVIA HD
 https://www.dailymotion.com/video/x84eirw
