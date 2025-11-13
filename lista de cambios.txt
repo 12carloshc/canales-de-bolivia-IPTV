@@ -458,6 +458,10 @@ para asi actualizar a 3 enlaces permanentes.
 -Actualizacion y correccion  semanal de enlaces de canales PREMIUM HD Y DEPORTES HD.
 -Correccion de iconos de canales locales de bolivia y premium hd.
 
+========= Jueves 13 noviembre 2025 ==============
+
+-Se estan eliminando canales premium hd y de deportes premium que su señal es inestable o estan offline.
+
 
 
 
