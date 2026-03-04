@@ -462,6 +462,11 @@ para asi actualizar a 3 enlaces permanentes.
 
 -Se estan eliminando canales premium hd y de deportes premium que su señal es inestable o estan offline.
 
+========= Miercoles 04 marzo 2025 ==============
+
+-Actualizacion de lista global y correccion de enlaces.
+-falta reparar enlaces premium
+
 
 
 
