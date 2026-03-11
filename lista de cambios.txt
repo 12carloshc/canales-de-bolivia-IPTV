@@ -462,11 +462,15 @@ para asi actualizar a 3 enlaces permanentes.
 
 -Se estan eliminando canales premium hd y de deportes premium que su señal es inestable o estan offline.
 
-========= Miercoles 04 marzo 2025 ==============
+========= Miercoles 04 marzo 2026 ==============
 
 -Actualizacion de lista global y correccion de enlaces.
 -falta reparar enlaces premium
 
+========= Miercoles 11 marzo 2026 ==============
+
+-Se quito canales unitel bolivia en las secciones vlc
+por que el canal quito su señal ser servidor dailymotion
 
 
 

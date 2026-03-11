@@ -12,8 +12,8 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **04 de marzo 2026** canales en vivo de bolivia
-- **Se estan corrigiendo enlaces offline de todos los enlaces en general**
+- Fecha de actualizacion:  **11 de marzo 2026** canales en vivo de bolivia
+- **Se quitaron los canales UNITEL BOLIVIA por que ya no transmite desde dailymotion**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes a viernes 16:15 p.m y 19:15 p.m
