@@ -472,5 +472,12 @@ para asi actualizar a 3 enlaces permanentes.
 -Se quito canales unitel bolivia en las secciones vlc
 por que el canal quito su señal ser servidor dailymotion
 
+========= Sabado 11 abril 2026 ==============
+
+-Se reparo enlaces de canales de locales de bolivia.
+-Se reparo enlace de canales  internacionales.
+-Se quito canales que estan offline.
+-Canal unitel de bolivia ya no usa enlace libre.
+
 
 
