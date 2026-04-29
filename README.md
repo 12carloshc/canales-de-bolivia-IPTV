@@ -9,16 +9,16 @@
 ### PROYECTO DE CANALES DIGITALES DE BOLIVIA 2022-2025
 ![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
 
-![](https://i.ibb.co/ymB7mXBL/01EST.png)![](https://i.ibb.co/vxYZHTgQ/reg-PREroj.png)
+![](https://i.ibb.co/ymB7mXBL/01EST.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **11 de abril 2026** canales en vivo de bolivia
-- **Se agregaron nuevos enlaces para canales UNITEL BOLIVIA y otros, canales internacionales se quitaron los que estan offline**
+- Fecha de actualizacion:  **28 de abril 2026** canales en vivo de bolivia
+- **Se elimino el canal UNITEL BOLIVIA por no tener señal abierta y otros, canales internacionales PREMIUM Y DEPORTES se quitaron por cambiar a enlaces dinamicos los cuales no se pueden usar**
 
 ### Horarios de actualizacion de lista de canales:
-- De lunes a viernes 16:15 p.m y 19:15 p.m
-- La actualizacion de los canales premium se las hace cada 24 o 72 horas.
-- **Nota:** para ver los canales de noticias de bolivia red uno, unitel, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
+- De lunes y viernes 16:15 p.m y 19:15 p.m
+- canales premium y deportes eliminados por incompatibilidad de enlaces.
+- **Nota:** para ver los canales de noticias de bolivia red uno, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
 
 ### REPRODUCTORES RECOMENDADOS:
 
@@ -120,7 +120,7 @@
 <a href="https://youtube.com/@BoliviaDigitalHD">
   <img src="https://i.postimg.cc/CLzcKNdH/Bser.png" alt="Descripción de la imagen" width="136">
 </a>
-<a href="https://t.me/+_1Zl6ymEQhw0ODc5">
+<a href="https://t.me/master_johannes_KEPLER">
   <img src="https://i.postimg.cc/yNXPGprY/Cser.png" alt="Descripción de la imagen" width="89">
 </a>
 </div>

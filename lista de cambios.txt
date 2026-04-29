@@ -479,5 +479,13 @@ por que el canal quito su señal ser servidor dailymotion
 -Se quito canales que estan offline.
 -Canal unitel de bolivia ya no usa enlace libre.
 
+========= martes 28 abril 2026 ==============
+-Se elimino canales PREMIUM Y DEPORTES, ya que las señales que se usaban cambiaron a dinamicas y es imposible a actualizarlas.
+-Se elimino el canal unitel bolivia, por que la señal de origen esta encriptada o no se puede usar de forma libre. solo se
+puede ver por su pagina web.
+-Se corriguio enlaces globales.
+-Reparado enlace del CANAL DW ESPAÑOL.
+-El canal red uno bolivia, atb y btv se lo pueden en la secciona VLC BOLIVIA, usando el reproductor vlc externo.
+
 
 
