@@ -487,5 +487,13 @@ puede ver por su pagina web.
 -Reparado enlace del CANAL DW ESPAÑOL.
 -El canal red uno bolivia, atb y btv se lo pueden en la secciona VLC BOLIVIA, usando el reproductor vlc externo.
 
+========= miercoles 03 junio 2026 ==============
+-Estas señales de bolivia se eliminaron por que sus transmisiones usan enlaces dinamicos que no se pueden usar:
+SEO TV, TV OFF, ABY AYALA TV.
+-Se coloco señales SD del canal local BOLIVISION BOLIVIA.
+-Las señales del canal de bolivia BTV bolivia tv, se abrem con el reproductor externo VLC.
+-Se reparo la señal del canal local de bolivia PACEÑISIMA TV.
+
+
 
 
