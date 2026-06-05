@@ -494,6 +494,12 @@ SEO TV, TV OFF, ABY AYALA TV.
 -Las señales del canal de bolivia BTV bolivia tv, se abrem con el reproductor externo VLC.
 -Se reparo la señal del canal local de bolivia PACEÑISIMA TV.
 
+========= viernes 05 junio 2026 ==============
+-Se agregaron señales de prueva de canales locales de bolivia:
+UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA TV, VOS TV, ZOY TV.
+-Se reparo enlades del canal DW EN ESPAÑOL.
+-Actualizacion de algunas señales offline.
+
 
 
 
