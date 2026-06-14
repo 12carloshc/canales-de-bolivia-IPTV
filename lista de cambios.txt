@@ -500,6 +500,10 @@ UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA 
 -Se reparo enlades del canal DW EN ESPAÑOL.
 -Actualizacion de algunas señales offline.
 
+========= domingo 14 junio 2026 ==============
+-Eliminacion de enlaces offline globales y correccion.
+-se agrego cana nuevo unifranz tv de bolivia.
+
 
 
 
