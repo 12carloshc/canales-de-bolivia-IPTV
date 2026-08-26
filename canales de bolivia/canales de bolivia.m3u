@@ -22,22 +22,22 @@ https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
-https://3860af3e8e3fbfdb.mediapackage.us-east-2.amazonaws.com/out/v1/0a00ab866da54f2e823be89cc82902c7/index_3.m3u8
+https://d135ohnuotzzyo.cloudfront.net/_token/v1.1787727375.PDUTIlFIVlZVQSjtMoX5NINrS02yb3WAEsm8mSdAkmQ/index_2.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/KzfkdGXH/bollpz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ SD
-https://3860af3e8e3fbfdb.mediapackage.us-east-2.amazonaws.com/out/v1/0a00ab866da54f2e823be89cc82902c7/index_2.m3u8
+https://d135ohnuotzzyo.cloudfront.net/_token/v1.1787727375.PDUTIlFIVlZVQSjtMoX5NINrS02yb3WAEsm8mSdAkmQ/index_1.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
-https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/23cde7c3eec04c07a03cd755b8eb70e4/index_3.m3u8
+https://d1mws3umreue1g.cloudfront.net/_token/v1.1787727494.dwRR3No2oNJkE_fhMtvoZt-nZpmLOvvPoiOJmeCvgvw/index_2.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/4dsw6xbL/bol-Scz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ SD
-https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/23cde7c3eec04c07a03cd755b8eb70e4/index_2.m3u8
+https://d1mws3umreue1g.cloudfront.net/_token/v1.1787727494.dwRR3No2oNJkE_fhMtvoZt-nZpmLOvvPoiOJmeCvgvw/index_1.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
 https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
-https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+https://edge.enhdtv.com/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
 https://csc-axs-edge01.sensa.com.ar/bpk-tv/PAT/default/index.mpd
@@ -93,7 +93,7 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",CEACOM HD
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CORAL TV" tvg-logo="https://i.postimg.cc/0Nrp9gyB/CORALTVBOLIVIA.jpg" group-title="CANALES DE BOLIVIA",CORAL TV HD
+#EXTINF:-1 tvg-id="CORAL TV" tvg-logo="https://i.postimg.cc/0Nrp9gyB/CORALTVBOLIVIA.jpg" group-title="CANALES DE BOLIVIA",CORAL TV
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="RED CCTV" tvg-logo="https://i.postimg.cc/P5JqpHF5/HD-cctvboliviacanalhd.jpg" group-title="CANALES DE BOLIVIA",RED CCTV HD
@@ -171,11 +171,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMX2rJd/DW-ESPA-OL-HD-01.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL SD
+EXTINF:-1 tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL SD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhTW6yd/DW-INGLES-HD.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ENGLISH HD
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg" group-title="NOTICIAS Y DOCUMENTALES",RT NOTICIAS FHD
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8

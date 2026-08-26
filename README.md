@@ -12,8 +12,8 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **14 junio 2026** canales en vivo de bolivia
-- **Se elimino el canal UNITEL BOLIVIA, SEO TV, TV OFF, ABY AYALA TV por no tener señal abierta y otros, canales internacionales PREMIUM Y DEPORTES se quitaron por cambiar a enlaces dinamicos los cuales no se pueden usar**
+- Fecha de actualizacion:  **26 agosto 2026** canales en vivo de bolivia
+- **correccion de señales locales y internacionales**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes y viernes 16:15 p.m y 19:15 p.m

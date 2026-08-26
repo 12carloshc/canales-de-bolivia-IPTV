@@ -504,6 +504,11 @@ UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA 
 -Eliminacion de enlaces offline globales y correccion.
 -se agrego cana nuevo unifranz tv de bolivia.
 
+========= miercoles 26 agosto 2026 ==============
+-Correccion enlaces de canales de bolivia locales (muchos no mantienen señal estable)
+-Correccion bolivision (puede que no sea estable por cambiar a direcciones dinamicas con token)
+-Correccion de señales del canal DW ESPAÑOL Y INGLES.
+
 
 
 
