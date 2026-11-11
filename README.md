@@ -12,11 +12,11 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **26 agosto 2026** canales en vivo de bolivia
-- **correccion de señales locales y internacionales**
+- Fecha de actualizacion:  **11 noviembre 2026** canales en vivo de bolivia
+- **correccion de señales locales y internacionales, canales: bolivision, unitel, seo tv, abyayala tv, ya no tienen señal abierta**
 
 ### Horarios de actualizacion de lista de canales:
-- De lunes y viernes 16:15 p.m y 19:15 p.m
+- Una vez a la semana cada domingo 00:00 a.m
 - canales premium y deportes eliminados por incompatibilidad de enlaces.
 - **Nota:** para ver los canales de noticias de bolivia red uno, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
 
