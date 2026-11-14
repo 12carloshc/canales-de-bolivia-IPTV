@@ -519,6 +519,11 @@ UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA 
 -canales premium se corrigio enlaces y se agregaron canales nuevos.
 -se agrego una apk de premium para ver en smart tv canales, de españa y deportes 100% estables, se descarga por downloader.
 
+=========  sabado 14 noviembre 2026 ==============
+-correccion de enlaces de canales internacionales.
+-se elimino mas canales locales de la seccion bolivia.
+-se agregaron mas canales premium anime y musica.
+
 
 
 
