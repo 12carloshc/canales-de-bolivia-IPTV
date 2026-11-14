@@ -12,14 +12,17 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(gaiL9ELuzX2XClOhqJYB1wBUSrri7OotojeWv
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",RED TV SHOP HD
+https://master.tucableip.com/redtvshop/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TV OFF HD
+https://edge.enhdtv.com/tvoff/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="CADENAA" tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w512943640.m3u8
-
-#EXTINF:-1 tvg-id="BTV1" tvg-logo="https://i.postimg.cc/4dsw6xbL/bol-Scz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BTV 7.1
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(_nYq7T6T3j3bJRTHJF1h0CSEQ9pxLiv9pMcjafySRjn14zDiXUx2ctKm0jX0YZluzp51w1DMjDTX9kPlYxemRpKYUEDWq5KVoBkzjSClH4e7FrLCqn7ReG9tSIhMaZte)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
 https://rtp.noxun.net/hls720/stream3.m3u8
@@ -124,7 +127,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp3cHNyh/FAN-POP-HD.jpg" group-title="CANALES PREMIUM HD",ENERGEEK HD
-https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.ts.m3u8
+https://183.giatvcdn.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxdxvYcB/RETRO-MAGICO-HD.jpg" group-title="CANALES PREMIUM HD",RETROMAGICO HD
 https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
@@ -133,7 +136,7 @@ https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
 https://183.giatvcdn.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPZNR8Wp/w0-W1m.jpg" group-title="CANALES PREMIUM HD",WOW PELICULAS HD
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -198,6 +201,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP HD
 https://183.giatvcdn.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="MUSICALES",TOP LATINO HD
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1714378785_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzk0NjM2MzI2Jndvd3phdG9rZW5lbmR0aW1lPTE3OTQ2MzczMjYmd293emF0b2tlbmhhc2g9NEdWSHVEOTE5QmZveW91YTB3Q1R1Tm9EcDBsRDAxcHd2elJkZ2tIY0FpRT0=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="MUSICALES",OLDIES HITS HD
 https://video07.logicahost.com.br/oldieshits/oldieshits/main_stream.m3u8
 
@@ -212,9 +218,6 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1024696094.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqYccqqs/ETERNAL-METAL-HD.jpg" group-title="MUSICALES",ETERNAL METAL HD
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbTN4Wm/VIWIX-MUSIC.jpg" group-title="MUSICALES",MUSIC TOP HD
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="MUSICALES",SPIRIT TV HD
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.ts.m3u8
