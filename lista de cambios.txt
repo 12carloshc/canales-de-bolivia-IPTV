@@ -524,6 +524,11 @@ UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA 
 -se elimino mas canales locales de la seccion bolivia.
 -se agregaron mas canales premium anime y musica.
 
+=========  domingo 15 noviembre 2026 ==============
+-correccion de enlaces globales.
+-eliminacion de canales offline.
+-se agrego aplicaciones para android tv opcionales para ver tv premium deportes y series, y se las actualizara en la medida que salgan
+nuevas versiones de las mismas estables.
 
 
 
