@@ -12,7 +12,7 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **15 noviembre 2026** canales en vivo de bolivia
+- Fecha de actualizacion:  **16 noviembre 2026** canales en vivo de bolivia
 - **correccion de señales locales y internacionales, los canales: bolivision, unitel, seo tv, abyayala tv, ya no tienen señal abierta, Nota: Se agrego aplicativos opcionales para ver tv premium**
 
 ### Horarios de actualizacion de lista de canales:
@@ -21,13 +21,40 @@
 - **Nota:** para ver los canales de noticias de bolivia red uno, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
 
 ### APLICATIVO CANALES PREMIUM (opcional):
-![](https://i.ibb.co/Kx7nsmvS/gitprem01.png)
-- Instala por codigo los siguientes aplicativos para ver tv premium en android tv.
-- Canales premium de españa y algunos de deportes: TV_CLASICA, canales peliculas y series: x_upertv.
-- Requisitos: Android tv 8 certificado o generico, RAM 2 GB minimo.
-  espacio 100 megas.
-  conexion de internet minimo 100 megas.
-- **Nota:** La actualizacion de los aplicativos se lo realizara en la medida que los desarroladores saquen actualizaciones estables
+![](https://i.ibb.co/pvCZ8Csg/GItdown.png)
+<table>
+  <caption>APLICACIONES TV PREMIUM</caption>
+  <thead>
+    <tr>
+      <th>ico</th>
+      <th>APK</th>
+      <th>COD</th>
+      <th>COD opc2</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><img src="https://i.ibb.co/ym2hsQDD/tvclaico.png" width="39"/></td>
+    <td>TV Clasica</td>
+    <td>6054886</td>
+    <td>2355913</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/9kPB2gtV/Cxupergold.png" width="39"/></td>
+    <td>X_upertv</td>
+    <td>1423933</td>
+    <td>4484382</td>
+  </tr>
+</table>
+
+- Las siguientes aplicaciones se instalan por medio de codigo DOWNLOADER para ver tv premium en android tv.
+- TV Clasica: para canales premium de españa y algunos de deportes.
+- X_upertvx: para canales premium, deportes, VOD peliculas y series.
+- Requisitos: Android tv 8 certificado o generico, RAM 2 GB minimo, espacio 100 megas.
+- conexion de internet minimo 100 megas.
+- **Nota:** La actualizacion de los aplicativos se lo realizara en la medida que los desarroladores saquen actualizaciones estables.
+- **SOLUCION PROBLEMAS EN DOWNLOADER:** si no les deja descargar por codigo en donwloader la solucion es simple:
+usar los DNS de cloudflare en las opciones de red tanto del router como del tv box:
+- **DNS CLOUDFLARE:**  DNS primario 1.1.1.1  DNS secundario 1.0.0.1
 
 ### REPRODUCTORES RECOMENDADOS:
 

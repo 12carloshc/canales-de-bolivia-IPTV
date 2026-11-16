@@ -84,9 +84,6 @@ https://ares.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w2098818106.m3u8
 #EXTINF:-1 tvg-id="BOLIVIA MIX" tvg-logo="https://i.ibb.co/6RbWMwMx/65Mixbo.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA MIX TV HD
 https://183.giatvcdn.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BOLIVIA MIX" tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES DE BOLIVIA",VOS TV HD
-https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1975291800.m3u8
-
 #EXTINF:-1 tvg-id="BOLIVIA MIX" tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES DE BOLIVIA",UNIFRANZ TV HD
 https://live.enhdtv.com:8081/8192/tracks-v1a1/mono.m3u8
 

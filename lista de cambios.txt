@@ -530,5 +530,9 @@ UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA 
 -se agrego aplicaciones para android tv opcionales para ver tv premium deportes y series, y se las actualizara en la medida que salgan
 nuevas versiones de las mismas estables.
 
+=========  lunes 16 noviembre 2026 ==============
+-se corrigio y agrego nuevos codigos para downloader de las aplicaciones para tv premium y deportes con series y peliculas.
+-se elimino mas canales offline.
+
 
 
