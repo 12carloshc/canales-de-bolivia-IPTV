@@ -55,7 +55,7 @@ https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="CANALES DE BOLIVIA",PACEÑISIMA TV HD
-https://183.giatvcdn.com/giatv/giatv-PTVonLINE/PTVonLINE/chunks.m3u8
+https://tv3.bitstreaming.net/live/ptv-bolivia.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="CANALES DE BOLIVIA",ZURACA TV HD
 https://tv3.bitstreaming.net:3680/zuracatvlive/zuracatvlive.m3u8

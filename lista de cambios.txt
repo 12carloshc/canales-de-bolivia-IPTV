@@ -534,5 +534,9 @@ nuevas versiones de las mismas estables.
 -se corrigio y agrego nuevos codigos para downloader de las aplicaciones para tv premium y deportes con series y peliculas.
 -se elimino mas canales offline.
 
+=========  martes 17 noviembre 2026 ==============
+-se dio mas detalles tecnicos de estabilidad de canales de las aplicaciones para ver tv premium
+-se actualizo con nuevo enlace el canal de la seccion de bolivia  paceñisima tv.
+
 
 

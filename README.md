@@ -46,13 +46,16 @@
   </tr>
 </table>
 
+### Detalles tecnicos de los canales:
+* <img src="https://i.ibb.co/6Rjq6fQq/tvcccc.png" width="97"/> **TV CLASICA** canales de españa estabilidad y disponibilidad <img src="https://i.ibb.co/cKt1Xndd/espico.png" width="25"/>  <img src="https://i.ibb.co/XfQyLhYB/80.png" width="65"/>.
+* <img src="https://i.ibb.co/LzdQFGTH/xoer.png" width="90"/> **X SUPER_TV** canales de globales estabilidad y disponibilidad <img src="https://i.ibb.co/4nt5cL5s/mundico.png" width="25"/>  <img src="https://i.ibb.co/Qvn2rL4t/59.png" width="65"/> seccion series y peliculas <img src="https://i.ibb.co/JF34XL3d/79.png" width="65"/>.
 - Las siguientes aplicaciones se instalan por medio de codigo DOWNLOADER para ver tv premium en android tv.
 - TV Clasica: para canales premium de españa y algunos de deportes.
 - X_upertvx: para canales premium, deportes, VOD peliculas y series.
 - Requisitos: Android tv 8 certificado o generico, RAM 2 GB minimo, espacio 100 megas.
 - conexion de internet minimo 100 megas.
 - **Nota:** La actualizacion de los aplicativos se lo realizara en la medida que los desarroladores saquen actualizaciones estables.
-- **SOLUCION PROBLEMAS EN DOWNLOADER:** si no les deja descargar por codigo en donwloader la solucion es simple:
+- **SOLUCION PROBLEMAS EN DOWNLOADER:** si no les deja descargar por codigo en downloader la solucion es simple:
 usar los DNS de cloudflare en las opciones de red tanto del router como del tv box:
 - **DNS CLOUDFLARE:**  DNS primario 1.1.1.1  DNS secundario 1.0.0.1
 
