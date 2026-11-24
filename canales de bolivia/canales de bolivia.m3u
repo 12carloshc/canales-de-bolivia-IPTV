@@ -12,10 +12,10 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(gaiL9ELuzX2XClOhqJYB1wBUSrri7OotojeWv
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",RED TV SHOP HD
+#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.ibb.co/zT8vzHCM/4REDtvsh.jpg" group-title="CANALES DE BOLIVIA",RED TV SHOP HD
 https://master.tucableip.com/redtvshop/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TV OFF HD
+#EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.ibb.co/vxPGsVWn/TV-OFF-HD-EL-ALTO.jpg" group-title="CANALES DE BOLIVIA",TV OFF HD
 https://edge.enhdtv.com/tvoff/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CADENAA" tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD
@@ -28,7 +28,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 https://edge.enhdtv.com/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
-https://www.redpat.tv:8000/play/12/75504503.m3u8
+https://www.redpat.tv:8000/play/12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XVhbT8/RED-ADVENIR-HD.jpg" group-title="CANALES DE BOLIVIA",RED ADVENIR HD
 https://streamer1.streamhost.org/salive/GMIredadvenirHD/chunklist_w1951046431.m3u8
@@ -55,10 +55,13 @@ https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="CANALES DE BOLIVIA",PACEÑISIMA TV HD
-https://tv3.bitstreaming.net/live/ptv-bolivia.m3u8
+https://183.giatvcdn.com/giatv/giatv-PTVonLINE/PTVonLINE/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="CANALES DE BOLIVIA",ZURACA TV HD
 https://tv3.bitstreaming.net:3680/zuracatvlive/zuracatvlive.m3u8
+
+#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.ibb.co/3m1Gv69w/FTV-HD.jpg" group-title="CANALES DE BOLIVIA",FACETAS DEPORTIVAS HD
+https://master.tucableip.com//ftvcable/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CTVBO" tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="CANALES DE BOLIVIA",CTV TV HD
 https://streaming.ctvbolivia.com/app/ctv/medialist_16850150997075983627_hls.m3u8
@@ -111,8 +114,11 @@ https://www.dailymotion.com/video/x9ny70y
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjFm9FW6/GARAGE-TV-HD.jpg" group-title="CANALES PREMIUM HD",GARAJE TV HD
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhHxHC/CGTN-HD.jpg" group-title="CANALES PREMIUM HD",CGTN ES HD
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pyQwD4v/44-LOVEppp.jpg" group-title="CANALES PREMIUM HD",LOVE THE PLANET HD
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVVhC0td/25meta-TVCCC.jpg" group-title="CANALES PREMIUM HD",MEGA CINE TV HD
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="CANALES PREMIUM HD",ANIME STATION 01 HD
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
@@ -150,6 +156,12 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sr0yrJ2/RT-NEW-SD.jpg" group-title="NOTICIAS Y DOCUMENTALES",RT NOTICIAS SD
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4HTd8kR/x-PHER46.jpg" group-title="NOTICIAS Y DOCUMENTALES",ESPHERE WILD HD
+https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/myR3tZp/SE-AL-COLOMBIA-HD.jpg" group-title="NOTICIAS Y DOCUMENTALES",SEÑAL COLOMBIA HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xzyhx8w/TELESUR-FHD-LATINO.jpg" group-title="NOTICIAS Y DOCUMENTALES",TELESUR FHD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
@@ -180,9 +192,6 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="NOTICIAS Y DOCUMENTALES",EXITOSA TV HD
 https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="NOTICIAS Y DOCUMENTALES",TV PERU HD
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvM5FPBP/canalmas.jpg" group-title="RELIGIOSOS",CANAL LUZ FHD
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
@@ -191,9 +200,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP HD
 https://183.giatvcdn.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="MUSICALES",TOP LATINO HD
-https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1714378785_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzk0NjM2MzI2Jndvd3phdG9rZW5lbmR0aW1lPTE3OTQ2MzczMjYmd293emF0b2tlbmhhc2g9NEdWSHVEOTE5QmZveW91YTB3Q1R1Tm9EcDBsRDAxcHd2elJkZ2tIY0FpRT0=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="MUSICALES",OLDIES HITS HD
 https://video07.logicahost.com.br/oldieshits/oldieshits/main_stream.m3u8
@@ -225,5 +231,5 @@ https://183.giatvcdn.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2CqRXKR/Crtoonc11.jpg" group-title="CANALES PREMIUM HD",RETRO TOONS HD
 https://183.giatvcdn.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj1vXvN3/SER247.jpg" group-title="CANALES PREMIUM HD",JETIX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DD2Kbmbm/4JET.jpg" group-title="CANALES PREMIUM HD",JETIX HD
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8

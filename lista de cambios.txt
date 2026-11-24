@@ -538,5 +538,11 @@ nuevas versiones de las mismas estables.
 -se dio mas detalles tecnicos de estabilidad de canales de las aplicaciones para ver tv premium
 -se actualizo con nuevo enlace el canal de la seccion de bolivia  paceñisima tv.
 
+=========  martes 24 noviembre 2026 ==============
+-Se corrigio enlaces seccion DE VLC canales de: RED UNO, ATB, BTV.
+-Se adjuntaron miniaturas faltantes de los nuevos canales.
+-se corrigio enlaces de canales premium.
+-se agregaron nuevos canales premium señal experimental.
+
 
 
