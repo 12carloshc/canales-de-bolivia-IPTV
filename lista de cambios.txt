@@ -544,5 +544,8 @@ nuevas versiones de las mismas estables.
 -se corrigio enlaces de canales premium.
 -se agregaron nuevos canales premium señal experimental.
 
+=========  miercoles 25 noviembre 2026 ==============
+-Se agregaron mas señales de canales premium (experimentales)
+
 
 

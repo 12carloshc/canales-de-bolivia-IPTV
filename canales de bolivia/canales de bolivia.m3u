@@ -117,6 +117,12 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pyQwD4v/44-LOVEppp.jpg" group-title="CANALES PREMIUM HD",LOVE THE PLANET HD
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES PREMIUM HD",LOVE NATURE HD
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/480p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES PREMIUM HD",LOVE WINE HD
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVVhC0td/25meta-TVCCC.jpg" group-title="CANALES PREMIUM HD",MEGA CINE TV HD
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
@@ -203,6 +209,9 @@ https://183.giatvcdn.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWFSQjq/OLD-HITS-HD.jpg" group-title="MUSICALES",OLDIES HITS HD
 https://video07.logicahost.com.br/oldieshits/oldieshits/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="MUSICALES",ROCK TV HD
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qCgTv0M/REWIND-HD.jpg" group-title="MUSICALES",REWIND MUSIC HD
 https://www.rewindmusic.cl/senal/m3u/chunklist_w298536327.m3u8
