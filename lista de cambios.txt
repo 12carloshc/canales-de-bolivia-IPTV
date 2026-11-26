@@ -547,5 +547,10 @@ nuevas versiones de las mismas estables.
 =========  miercoles 25 noviembre 2026 ==============
 -Se agregaron mas señales de canales premium (experimentales)
 
+=========  jueves 26 noviembre 2026 ==============
+-Se agregaron mas canales premium (señal experimental)
+-Se corrigio enlaces para reproductor externo vlc.
+-Se agregaron mas miniaturas para los nuevos canales.
+
 
 

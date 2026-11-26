@@ -90,6 +90,12 @@ https://183.giatvcdn.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8
 #EXTINF:-1 tvg-id="BOLIVIA MIX" tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES DE BOLIVIA",UNIFRANZ TV HD
 https://live.enhdtv.com:8081/8192/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="BOLIVIA MIX" tvg-logo="https://i.ibb.co/cSFYK6nK/Edeb78s.jpg" group-title="CANALES DE BOLIVIA",EL DEBER TV HD
+https://master.tucableip.com/eldebertv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA MIX" tvg-logo="https://i.ibb.co/cSdrbCPQ/p-DIS22.jpg" group-title="CANALES DE BOLIVIA",PODER DE DIOS HD
+https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/xbrsofi
 
@@ -117,7 +123,13 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pyQwD4v/44-LOVEppp.jpg" group-title="CANALES PREMIUM HD",LOVE THE PLANET HD
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES PREMIUM HD",LOVE NATURE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Jy0Pj07/xcart44.jpg" group-title="CANALES PREMIUM HD",XTREMA CARTOONS HD
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93sf7FBF/Xkids45.jpg" group-title="CANALES PREMIUM HD",EXTREMA KIDS HD
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w807062810.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX2PC3mV/lvn.jpg" group-title="CANALES PREMIUM HD",LOVE NATURE HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/480p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="CANALES PREMIUM HD",LOVE WINE HD
@@ -128,6 +140,9 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="CANALES PREMIUM HD",ANIME STATION 01 HD
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G40kMv58/mx-AN45.jpg" group-title="CANALES PREMIUM HD",MAX ANIME HD
+https://cdnlive.klicgo.net/maxanime/live/chunklist_w2134261562.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp3cHNyh/FAN-POP-HD.jpg" group-title="CANALES PREMIUM HD",ENERGEEK HD
 https://183.giatvcdn.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
